@@ -6,8 +6,11 @@
 #include "types.h"
 #include "Alarms.h"
 
-#define MINCHECK 1100
-#define MAXCHECK 1900
+/* 由于我的MC6遥控器不能到达最小1100，最大1900的动态范围，在这里重新定义一下 */
+#define MINCHECK 1200
+#define MAXCHECK 1800
+// #define MINCHECK 1100
+// #define MAXCHECK 1900
 
 extern volatile unsigned long timer0_overflow_count;
 

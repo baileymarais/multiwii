@@ -466,20 +466,20 @@ void writeMotors() { // [1000;2000] => [125;250]
           atomicPWM_PIN6_highState = (motor[4]>>2) - 250;
           atomicPWM_PIN5_highState = (motor[5]>>2) - 250;
         #endif
-        atomicPWM_PIN6_lowState  = 255-atomicPWM_PIN6_highState;
-        atomicPWM_PIN5_lowState  = 255-atomicPWM_PIN5_highState; 
+        atomicPWM_PIN6_lowState  = 255 - atomicPWM_PIN6_highState;
+        atomicPWM_PIN5_lowState  = 255 - atomicPWM_PIN5_highState; 
       #else //note: EXT_MOTOR_RANGE not possible here
         atomicPWM_PIN6_highState = ((motor[4]-1000)>>2)+5;
-        atomicPWM_PIN6_lowState  = 245-atomicPWM_PIN6_highState;
+        atomicPWM_PIN6_lowState  = 245 - atomicPWM_PIN6_highState;
         atomicPWM_PIN5_highState = ((motor[5]-1000)>>2)+5;
-        atomicPWM_PIN5_lowState  = 245-atomicPWM_PIN5_highState;
+        atomicPWM_PIN5_lowState  = 245 - atomicPWM_PIN5_highState;
       #endif
     #endif
     #if (NUMBER_MOTOR > 6) //note: EXT_MOTOR_RANGE not possible here
       atomicPWM_PINA2_highState = ((motor[6]-1000)>>2)+5;
-      atomicPWM_PINA2_lowState  = 245-atomicPWM_PINA2_highState;
+      atomicPWM_PINA2_lowState  = 245 - atomicPWM_PINA2_highState;
       atomicPWM_PIN12_highState = ((motor[7]-1000)>>2)+5;
-      atomicPWM_PIN12_lowState  = 245-atomicPWM_PIN12_highState;
+      atomicPWM_PIN12_lowState  = 245 - atomicPWM_PIN12_highState;
     #endif
   #endif
 }
@@ -488,8 +488,8 @@ void writeMotors() { // [1000;2000] => [125;250]
 /************          Writes the mincommand to all Motors           ******************/
 /**************************************************************************************/
 void writeAllMotors(int16_t mc) {   // Sends commands to all motors
-  for (uint8_t i =0;i<NUMBER_MOTOR;i++) {
-    motor[i]=mc;
+  for (uint8_t i = 0; i < NUMBER_MOTOR; i++) {
+    motor[i] = mc;
   }
   writeMotors();
 }

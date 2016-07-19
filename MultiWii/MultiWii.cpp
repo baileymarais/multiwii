@@ -990,10 +990,10 @@ void loop () {
           else if (rcSticks == THR_HI + YAW_HI + PIT_LO + ROL_CE) f.CALIBRATE_MAG = 1;  // throttle=max, yaw=right, pitch=min
         #endif
         i=0;
-        if      (rcSticks == THR_HI + YAW_CE + PIT_HI + ROL_CE) {conf.angleTrim[PITCH]+=2; i=1;}
-        else if (rcSticks == THR_HI + YAW_CE + PIT_LO + ROL_CE) {conf.angleTrim[PITCH]-=2; i=1;}
-        else if (rcSticks == THR_HI + YAW_CE + PIT_CE + ROL_HI) {conf.angleTrim[ROLL] +=2; i=1;}
-        else if (rcSticks == THR_HI + YAW_CE + PIT_CE + ROL_LO) {conf.angleTrim[ROLL] -=2; i=1;}
+        if      (rcSticks == THR_HI + YAW_CE + PIT_HI + ROL_CE) { conf.angleTrim[PITCH]+=2; i=1; }
+        else if (rcSticks == THR_HI + YAW_CE + PIT_LO + ROL_CE) { conf.angleTrim[PITCH]-=2; i=1; }
+        else if (rcSticks == THR_HI + YAW_CE + PIT_CE + ROL_HI) { conf.angleTrim[ROLL] +=2; i=1; }
+        else if (rcSticks == THR_HI + YAW_CE + PIT_CE + ROL_LO) { conf.angleTrim[ROLL] -=2; i=1; }
         if (i) {
           writeParams(1);
           rcDelayCommand = 0;    // allow autorepetition

@@ -553,7 +553,10 @@ At this moment you can use this function only with WinGUI 2.3 release. MultiWiiC
 
   /************************        Reset Baro altitude on arm         ********************/
   /* When unchecked a calibration of the baro altitude is preformed every time arming is activated */
-  //#define ALTITUDE_RESET_ON_ARM
+  #define ALTITUDE_RESET_ON_ARM         /*
+                                        解锁之后自动重置气压计，2016/07/19之前用月月的飞不起来，有可能是气压计造成的
+                                        这里解锁之后试试看
+                                        */
 
   /************************        Angele throttle correction         ********************/
   /* Automatically increase throttle based on the angle of the copter

@@ -1,0 +1,2830 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	Development	//
+A16	IMU.cpp	/^  int16_t A16[6];$/;"	m	union:__anon6	file:
+A32	IMU.cpp	/^  int32_t A32[3];$/;"	m	union:__anon6	file:
+A32U4ALLPINS	def.h	395;"	d
+A32U4_4_HW_PWM_SERVOS	def.h	92;"	d
+ACC	def.h	1646;"	d
+ACC	def.h	1648;"	d
+ACCLIMIT	LCD.cpp	2001;"	d	file:
+ACCZ_25deg	Sensors.h	50;"	d
+ACC_1G	Sensors.h	23;"	d
+ACC_1G	Sensors.h	26;"	d
+ACC_1G	Sensors.h	29;"	d
+ACC_1G	Sensors.h	32;"	d
+ACC_1G	Sensors.h	35;"	d
+ACC_1G	Sensors.h	38;"	d
+ACC_1G	Sensors.h	42;"	d
+ACC_1G	Sensors.h	44;"	d
+ACC_1G	Sensors.h	48;"	d
+ACC_CALIBRATED	types.h	/^  uint8_t ACC_CALIBRATED :1 ;$/;"	m	struct:__anon16
+ACC_Common	Sensors.cpp	/^void ACC_Common() {$/;"	f
+ACC_DELIMITER	Sensors.cpp	1260;"	d	file:
+ACC_LPF_FACTOR	IMU.cpp	80;"	d	file:
+ACC_ORIENTATION	Sensors.cpp	22;"	d	file:
+ACC_ORIENTATION	def.h	1000;"	d
+ACC_ORIENTATION	def.h	1011;"	d
+ACC_ORIENTATION	def.h	1021;"	d
+ACC_ORIENTATION	def.h	1034;"	d
+ACC_ORIENTATION	def.h	1047;"	d
+ACC_ORIENTATION	def.h	1058;"	d
+ACC_ORIENTATION	def.h	1068;"	d
+ACC_ORIENTATION	def.h	1078;"	d
+ACC_ORIENTATION	def.h	1088;"	d
+ACC_ORIENTATION	def.h	1098;"	d
+ACC_ORIENTATION	def.h	1105;"	d
+ACC_ORIENTATION	def.h	1115;"	d
+ACC_ORIENTATION	def.h	1127;"	d
+ACC_ORIENTATION	def.h	1136;"	d
+ACC_ORIENTATION	def.h	1145;"	d
+ACC_ORIENTATION	def.h	1153;"	d
+ACC_ORIENTATION	def.h	1162;"	d
+ACC_ORIENTATION	def.h	1176;"	d
+ACC_ORIENTATION	def.h	1183;"	d
+ACC_ORIENTATION	def.h	1193;"	d
+ACC_ORIENTATION	def.h	1203;"	d
+ACC_ORIENTATION	def.h	1213;"	d
+ACC_ORIENTATION	def.h	1223;"	d
+ACC_ORIENTATION	def.h	1231;"	d
+ACC_ORIENTATION	def.h	1240;"	d
+ACC_ORIENTATION	def.h	1249;"	d
+ACC_ORIENTATION	def.h	1262;"	d
+ACC_ORIENTATION	def.h	1277;"	d
+ACC_ORIENTATION	def.h	1288;"	d
+ACC_ORIENTATION	def.h	1299;"	d
+ACC_ORIENTATION	def.h	1310;"	d
+ACC_ORIENTATION	def.h	1319;"	d
+ACC_ORIENTATION	def.h	1329;"	d
+ACC_ORIENTATION	def.h	1338;"	d
+ACC_ORIENTATION	def.h	1348;"	d
+ACC_ORIENTATION	def.h	1361;"	d
+ACC_ORIENTATION	def.h	1369;"	d
+ACC_ORIENTATION	def.h	1379;"	d
+ACC_ORIENTATION	def.h	1390;"	d
+ACC_ORIENTATION	def.h	1400;"	d
+ACC_ORIENTATION	def.h	1412;"	d
+ACC_ORIENTATION	def.h	1422;"	d
+ACC_ORIENTATION	def.h	1443;"	d
+ACC_ORIENTATION	def.h	1463;"	d
+ACC_ORIENTATION	def.h	1472;"	d
+ACC_ORIENTATION	def.h	1493;"	d
+ACC_ORIENTATION	def.h	1514;"	d
+ACC_ORIENTATION	def.h	1529;"	d
+ACC_ORIENTATION	def.h	1539;"	d
+ACC_ORIENTATION	def.h	1548;"	d
+ACC_ORIENTATION	def.h	1557;"	d
+ACC_ORIENTATION	def.h	1565;"	d
+ACC_ORIENTATION	def.h	1620;"	d
+ACC_ORIENTATION	def.h	1635;"	d
+ACC_ORIENTATION	def.h	1942;"	d
+ACC_ORIENTATION	def.h	1943;"	d
+ACC_ORIENTATION	def.h	880;"	d
+ACC_ORIENTATION	def.h	890;"	d
+ACC_ORIENTATION	def.h	899;"	d
+ACC_ORIENTATION	def.h	910;"	d
+ACC_ORIENTATION	def.h	921;"	d
+ACC_ORIENTATION	def.h	944;"	d
+ACC_ORIENTATION	def.h	953;"	d
+ACC_VelScale	Sensors.h	51;"	d
+ACC_Z_DEADBAND	IMU.cpp	283;"	d	file:
+ACC_getADC	Sensors.cpp	/^  void ACC_getADC () {$/;"	f
+ACC_getADC	Sensors.cpp	/^void ACC_getADC () {$/;"	f
+ACC_getADC	Sensors.cpp	/^void ACC_getADC() {$/;"	f
+ACC_getADC	Sensors.cpp	/^void ACC_getADC(){$/;"	f
+ACC_init	Sensors.cpp	/^static void ACC_init () {$/;"	f	file:
+ACC_init	Sensors.cpp	/^void ACC_init () {$/;"	f
+ACC_init	Sensors.cpp	/^void ACC_init(){$/;"	f
+ADXL345	def.h	1142;"	d
+ADXL345	def.h	1209;"	d
+ADXL345	def.h	1221;"	d
+ADXL345	def.h	1274;"	d
+ADXL345	def.h	1286;"	d
+ADXL345	def.h	1564;"	d
+ADXL345	def.h	897;"	d
+ADXL345	def.h	908;"	d
+ADXL345	def.h	998;"	d
+ADXL345_ADDRESS	Sensors.cpp	652;"	d	file:
+ADXL345_ADDRESS	def.h	1003;"	d
+ADXL345_ADDRESS	def.h	1215;"	d
+ADXL345_ADDRESS	def.h	1281;"	d
+ADXL345_ADDRESS	def.h	1292;"	d
+ADXL345_ADDRESS	def.h	1567;"	d
+ADXL345_ADDRESS	def.h	902;"	d
+ADXL345_ADDRESS	def.h	913;"	d
+AIRPLANE	def.h	118;"	d
+AK8975	def.h	1067;"	d
+ALARMS_H_	Alarms.h	2;"	d
+ALLOW_ARM_DISARM_VIA_TX_YAW	config.h	237;"	d
+ALRM_FAC_ACC	Alarms.h	/^  ALRM_FAC_ACC,$/;"	e	enum:alrm_fac
+ALRM_FAC_BEEPERON	Alarms.h	/^  ALRM_FAC_BEEPERON,$/;"	e	enum:alrm_fac
+ALRM_FAC_CONFIRM	Alarms.h	/^  ALRM_FAC_CONFIRM,$/;"	e	enum:alrm_fac
+ALRM_FAC_FAILSAFE	Alarms.h	/^  ALRM_FAC_FAILSAFE,$/;"	e	enum:alrm_fac
+ALRM_FAC_GPS	Alarms.h	/^  ALRM_FAC_GPS,$/;"	e	enum:alrm_fac
+ALRM_FAC_I2CERROR	Alarms.h	/^  ALRM_FAC_I2CERROR,$/;"	e	enum:alrm_fac
+ALRM_FAC_PMETER	Alarms.h	/^  ALRM_FAC_PMETER,$/;"	e	enum:alrm_fac
+ALRM_FAC_RUNTIME	Alarms.h	/^  ALRM_FAC_RUNTIME,$/;"	e	enum:alrm_fac
+ALRM_FAC_SIZE	Alarms.h	/^  ALRM_FAC_SIZE, \/\/ MUST be LAST - used for size of array alarmArray$/;"	e	enum:alrm_fac
+ALRM_FAC_TOGGLE	Alarms.h	/^  ALRM_FAC_TOGGLE = 0,$/;"	e	enum:alrm_fac
+ALRM_FAC_VBAT	Alarms.h	/^  ALRM_FAC_VBAT,$/;"	e	enum:alrm_fac
+ALRM_LVL_CONFIRM_1	Alarms.h	/^ ALRM_LVL_CONFIRM_1 = 1,$/;"	e	enum:alrm_lvl_confirm
+ALRM_LVL_CONFIRM_2	Alarms.h	/^ ALRM_LVL_CONFIRM_2    ,$/;"	e	enum:alrm_lvl_confirm
+ALRM_LVL_CONFIRM_ELSE	Alarms.h	/^ ALRM_LVL_CONFIRM_ELSE ,$/;"	e	enum:alrm_lvl_confirm
+ALRM_LVL_FAILSAFE_FINDME	Alarms.h	/^ ALRM_LVL_FAILSAFE_FINDME = 1,$/;"	e	enum:alrm_lvl_failsafe
+ALRM_LVL_FAILSAFE_PANIC	Alarms.h	/^ ALRM_LVL_FAILSAFE_PANIC,$/;"	e	enum:alrm_lvl_failsafe
+ALRM_LVL_GPS_NOFIX	Alarms.h	/^   ALRM_LVL_GPS_NOFIX  = 2,$/;"	e	enum:alrm_lvl_gps
+ALRM_LVL_OFF	Alarms.h	/^ ALRM_LVL_OFF = 0,$/;"	e	enum:alrm_lvl_onoff
+ALRM_LVL_ON	Alarms.h	/^ ALRM_LVL_ON = 1,$/;"	e	enum:alrm_lvl_onoff
+ALRM_LVL_TOGGLE_1	Alarms.h	/^ ALRM_LVL_TOGGLE_1  = 1,$/;"	e	enum:alrm_lvl_toggle
+ALRM_LVL_TOGGLE_2	Alarms.h	/^ ALRM_LVL_TOGGLE_2    ,$/;"	e	enum:alrm_lvl_toggle
+ALRM_LVL_TOGGLE_ELSE	Alarms.h	/^ ALRM_LVL_TOGGLE_ELSE ,$/;"	e	enum:alrm_lvl_toggle
+ALRM_LVL_VBAT_CRIT	Alarms.h	/^   ALRM_LVL_VBAT_CRIT ,$/;"	e	enum:alrm_lvl_vbat
+ALRM_LVL_VBAT_INFO	Alarms.h	/^   ALRM_LVL_VBAT_INFO  = 1,$/;"	e	enum:alrm_lvl_vbat
+ALRM_LVL_VBAT_WARN	Alarms.h	/^   ALRM_LVL_VBAT_WARN ,$/;"	e	enum:alrm_lvl_vbat
+ALRM_RES_ANY	Alarms.h	/^  ALRM_RES_ANY    ,$/;"	e	enum:alrm_res
+ALRM_RES_BUZZER	Alarms.h	/^  ALRM_RES_BUZZER,$/;"	e	enum:alrm_res
+ALRM_RES_LED	Alarms.h	/^  ALRM_RES_LED = 0,$/;"	e	enum:alrm_res
+ALRM_RES_PL	Alarms.h	/^  ALRM_RES_PL     ,$/;"	e	enum:alrm_res
+ALRM_RES_PL_BLUE	Alarms.h	/^  ALRM_RES_PL_BLUE,$/;"	e	enum:alrm_res
+ALRM_RES_PL_GREEN	Alarms.h	/^  ALRM_RES_PL_GREEN,$/;"	e	enum:alrm_res
+ALRM_RES_PL_RED	Alarms.h	/^  ALRM_RES_PL_RED,$/;"	e	enum:alrm_res
+ALTITUDE_INTERVAL	Alarms.cpp	602;"	d	file:
+ALTITUDE_RESET_ON_ARM	config.h	556;"	d
+ALT_HOLD_THROTTLE_NEUTRAL_ZONE	config.h	943;"	d
+ANGLE_MODE	types.h	/^  uint8_t ANGLE_MODE :1 ;$/;"	m	struct:__anon16
+ARMED	types.h	/^  uint8_t ARMED :1 ;$/;"	m	struct:__anon16
+ARMEDTIMEWARNING	def.h	74;"	d
+ASCENDING	MultiWii.h	140;"	d
+AUX1	types.h	/^  AUX1,$/;"	e	enum:rc
+AUX1PIN	def.h	333;"	d
+AUX1PIN	def.h	519;"	d
+AUX1PIN	def.h	524;"	d
+AUX1PIN	def.h	602;"	d
+AUX2	types.h	/^  AUX2,$/;"	e	enum:rc
+AUX2PIN	def.h	334;"	d
+AUX2PIN	def.h	526;"	d
+AUX2PIN	def.h	603;"	d
+AUX3	types.h	/^  AUX3,$/;"	e	enum:rc
+AUX3PIN	def.h	335;"	d
+AUX3PIN	def.h	527;"	d
+AUX3PIN	def.h	604;"	d
+AUX4	types.h	/^  AUX4,$/;"	e	enum:rc
+AUX4PIN	def.h	336;"	d
+AUX4PIN	def.h	528;"	d
+AUX4PIN	def.h	605;"	d
+AUX5	types.h	/^  AUX5,$/;"	e	enum:rc
+AUX6	types.h	/^  AUX6,$/;"	e	enum:rc
+AUX7	types.h	/^  AUX7,$/;"	e	enum:rc
+AUX8	types.h	/^  AUX8$/;"	e	enum:rc
+AVERAGING_ARRAY_LENGTH	RX.cpp	460;"	d	file:
+AccInflightCalibrationActive	MultiWii.cpp	/^  uint16_t AccInflightCalibrationActive = 0;$/;"	v
+AccInflightCalibrationArmed	MultiWii.cpp	/^  int16_t AccInflightCalibrationArmed;$/;"	v
+AccInflightCalibrationMeasurementDone	MultiWii.cpp	/^  uint16_t AccInflightCalibrationMeasurementDone = 0;$/;"	v
+AccInflightCalibrationSavetoEEProm	MultiWii.cpp	/^  uint16_t AccInflightCalibrationSavetoEEProm = 0;$/;"	v
+AltHold	MultiWii.cpp	/^int32_t  AltHold; \/\/ in cm$/;"	v
+ArmedTimeWarningMicroSeconds	MultiWii.cpp	/^  uint32_t  ArmedTimeWarningMicroSeconds = 0;$/;"	v
+BARO	def.h	1664;"	d
+BARO	def.h	1666;"	d
+BAROPIDMIN	GPS.cpp	499;"	d	file:
+BARO_MODE	types.h	/^  uint8_t BARO_MODE :1 ;$/;"	m	struct:__anon16
+BARO_TAB_SIZE	IMU.cpp	281;"	d	file:
+BARO_TAB_SIZE	IMU.h	4;"	d
+BAROaltMax	MultiWii.cpp	/^  int32_t  BAROaltMax;             \/\/ maximum value$/;"	v
+BI	def.h	113;"	d
+BIND_CAPABLE	def.h	1805;"	d
+BIND_CAPABLE	def.h	1821;"	d
+BITDELAY	LCD.cpp	642;"	d	file:
+BMA020	def.h	1066;"	d
+BMA020	def.h	13;"	d
+BMA180	def.h	1008;"	d
+BMA180	def.h	1018;"	d
+BMA180	def.h	1031;"	d
+BMA180	def.h	1044;"	d
+BMA180	def.h	1055;"	d
+BMA180	def.h	1075;"	d
+BMA180	def.h	1085;"	d
+BMA180	def.h	1095;"	d
+BMA180	def.h	1135;"	d
+BMA180	def.h	1160;"	d
+BMA180	def.h	1175;"	d
+BMA180	def.h	1228;"	d
+BMA180	def.h	1326;"	d
+BMA180	def.h	1337;"	d
+BMA180	def.h	1345;"	d
+BMA180	def.h	1358;"	d
+BMA180	def.h	1368;"	d
+BMA180	def.h	1377;"	d
+BMA180	def.h	1387;"	d
+BMA180	def.h	1409;"	d
+BMA180	def.h	1460;"	d
+BMA180	def.h	877;"	d
+BMA180	def.h	887;"	d
+BMA180	def.h	919;"	d
+BMA180_ADDRESS	Sensors.cpp	691;"	d	file:
+BMA180_ADDRESS	def.h	1050;"	d
+BMA280	def.h	1124;"	d
+BMA280_ADDRESS	Sensors.cpp	733;"	d	file:
+BMP085	def.h	1009;"	d
+BMP085	def.h	1019;"	d
+BMP085	def.h	1045;"	d
+BMP085	def.h	1056;"	d
+BMP085	def.h	1076;"	d
+BMP085	def.h	1086;"	d
+BMP085	def.h	1096;"	d
+BMP085	def.h	1104;"	d
+BMP085	def.h	1113;"	d
+BMP085	def.h	1143;"	d
+BMP085	def.h	1169;"	d
+BMP085	def.h	1210;"	d
+BMP085	def.h	1230;"	d
+BMP085	def.h	1239;"	d
+BMP085	def.h	1276;"	d
+BMP085	def.h	1309;"	d
+BMP085	def.h	1327;"	d
+BMP085	def.h	1360;"	d
+BMP085	def.h	1378;"	d
+BMP085	def.h	1388;"	d
+BMP085	def.h	1399;"	d
+BMP085	def.h	1411;"	d
+BMP085	def.h	1462;"	d
+BMP085	def.h	1633;"	d
+BMP085	def.h	878;"	d
+BMP085	def.h	888;"	d
+BMP085	def.h	928;"	d
+BMP085_ADDRESS	Sensors.cpp	341;"	d	file:
+BOARD_NAME	config.h	985;"	d
+BOXANGLE	types.h	/^    BOXANGLE,$/;"	e	enum:box
+BOXARM	types.h	/^  BOXARM,$/;"	e	enum:box
+BOXBARO	types.h	/^    BOXBARO,$/;"	e	enum:box
+BOXBEEPERON	types.h	/^    BOXBEEPERON,$/;"	e	enum:box
+BOXCALIB	types.h	/^    BOXCALIB,$/;"	e	enum:box
+BOXCAMSTAB	types.h	/^    BOXCAMSTAB,$/;"	e	enum:box
+BOXCAMTRIG	types.h	/^    BOXCAMTRIG,$/;"	e	enum:box
+BOXGOV	types.h	/^    BOXGOV,$/;"	e	enum:box
+BOXGPSHOLD	types.h	/^    BOXGPSHOLD,$/;"	e	enum:box
+BOXGPSHOME	types.h	/^    BOXGPSHOME,$/;"	e	enum:box
+BOXGPSNAV	types.h	/^    BOXGPSNAV,$/;"	e	enum:box
+BOXHEADADJ	types.h	/^    BOXHEADADJ, \/\/ acquire heading for HEADFREE mode$/;"	e	enum:box
+BOXHEADFREE	types.h	/^    BOXHEADFREE,$/;"	e	enum:box
+BOXHORIZON	types.h	/^    BOXHORIZON,$/;"	e	enum:box
+BOXLAND	types.h	/^    BOXLAND,$/;"	e	enum:box
+BOXLEDLOW	types.h	/^    BOXLEDLOW, \/\/ low\/no lights$/;"	e	enum:box
+BOXLEDMAX	types.h	/^    BOXLEDMAX, \/\/ we want maximum illumination$/;"	e	enum:box
+BOXLLIGHTS	types.h	/^    BOXLLIGHTS, \/\/ enable landing lights at any altitude$/;"	e	enum:box
+BOXMAG	types.h	/^  BOXMAG,$/;"	e	enum:box
+BOXOSD	types.h	/^    BOXOSD,$/;"	e	enum:box
+BOXPASSTHRU	types.h	/^    BOXPASSTHRU,$/;"	e	enum:box
+BOXVARIO	types.h	/^    BOXVARIO,$/;"	e	enum:box
+BUZZER	def.h	1791;"	d
+BUZZER	def.h	22;"	d
+BUZZER	def.h	72;"	d
+BUZZER	def.h	96;"	d
+BUZZERPIN_OFF	def.h	1778;"	d
+BUZZERPIN_OFF	def.h	1930;"	d
+BUZZERPIN_OFF	def.h	1933;"	d
+BUZZERPIN_OFF	def.h	295;"	d
+BUZZERPIN_OFF	def.h	301;"	d
+BUZZERPIN_OFF	def.h	420;"	d
+BUZZERPIN_OFF	def.h	430;"	d
+BUZZERPIN_OFF	def.h	439;"	d
+BUZZERPIN_OFF	def.h	568;"	d
+BUZZERPIN_OFF	def.h	660;"	d
+BUZZERPIN_ON	def.h	1777;"	d
+BUZZERPIN_ON	def.h	1929;"	d
+BUZZERPIN_ON	def.h	1932;"	d
+BUZZERPIN_ON	def.h	294;"	d
+BUZZERPIN_ON	def.h	300;"	d
+BUZZERPIN_ON	def.h	419;"	d
+BUZZERPIN_ON	def.h	429;"	d
+BUZZERPIN_ON	def.h	438;"	d
+BUZZERPIN_ON	def.h	567;"	d
+BUZZERPIN_ON	def.h	659;"	d
+BUZZERPIN_PINMODE	def.h	1928;"	d
+BUZZERPIN_PINMODE	def.h	1931;"	d
+BUZZERPIN_PINMODE	def.h	286;"	d
+BUZZERPIN_PINMODE	def.h	299;"	d
+BUZZERPIN_PINMODE	def.h	414;"	d
+BUZZERPIN_PINMODE	def.h	424;"	d
+BUZZERPIN_PINMODE	def.h	433;"	d
+BUZZERPIN_PINMODE	def.h	562;"	d
+BUZZERPIN_PINMODE	def.h	658;"	d
+BaroPID	MultiWii.cpp	/^int16_t  BaroPID = 0;$/;"	v
+Baro_Common	Sensors.cpp	/^static void Baro_Common() {$/;"	f	file:
+Baro_init	Sensors.cpp	/^static void Baro_init() {$/;"	f	file:
+Baro_init	Sensors.cpp	/^void  Baro_init() {$/;"	f
+Baro_update	Sensors.cpp	/^uint8_t Baro_update() {                          \/\/ first UT conversion is started in init procedure$/;"	f
+Baro_update	Sensors.cpp	/^uint8_t Baro_update() {                   \/\/ first UT conversion is started in init procedure$/;"	f
+CALIBRATE_MAG	types.h	/^  uint8_t CALIBRATE_MAG :1 ;$/;"	m	struct:__anon16
+CAMTRIG	def.h	223;"	d
+CAM_TIME_HIGH	config.h	267;"	d
+CAM_TIME_LOW	Output.cpp	1471;"	d	file:
+CARRIER_FREQUENCY	RX.cpp	526;"	d	file:
+CHAR_FORMAT	LCD.cpp	/^unsigned char CHAR_FORMAT = 0;      \/\/ use to INVERSE characters$/;"	v
+CHECKBOXITEMS	types.h	/^  CHECKBOXITEMS$/;"	e	enum:box
+CLASS_ACK	GPS.cpp	/^  CLASS_ACK = 0x05,$/;"	e	enum:ubs_protocol_bytes	file:
+CLASS_CFG	GPS.cpp	/^  CLASS_CFG = 0x06,$/;"	e	enum:ubs_protocol_bytes	file:
+CLASS_NAV	GPS.cpp	/^  CLASS_NAV = 0x01,$/;"	e	enum:ubs_protocol_bytes	file:
+COLLECTIVE_PITCH	config.h	297;"	d
+COLLECTIVE_RANGE	config.h	300;"	d
+CONFIG_H_	config.h	2;"	d
+CONTROL_RANGE	config.h	310;"	d
+COPTER_WITH_SERVO	def.h	168;"	d
+CRIUS_AIO_PRO	def.h	130;"	d
+CRIUS_LITE	def.h	45;"	d
+CRIUS_SE	def.h	35;"	d
+CRIUS_SE_v2_0	config.h	128;"	d
+CROSSTRACK_GAIN	config.h	756;"	d
+CURRENTPORT	Protocol.cpp	/^static uint8_t CURRENTPORT=0;$/;"	v	file:
+ConfigRefresh	LCD.cpp	/^void ConfigRefresh(uint8_t p) {$/;"	f
+Config_OpenLRS	RX.cpp	/^void Config_OpenLRS() {$/;"	f
+D8	types.h	/^  uint8_t D8;$/;"	m	struct:pid_
+DEBUG	def.h	51;"	d
+DEBUG	def.h	80;"	d
+DEBUG_FREE	def.h	111;"	d
+DEBUG_MSG_BUFFER_SIZE	Protocol.cpp	76;"	d	file:
+DEF_H_	def.h	2;"	d
+DELTA_ALT_TRESHOLD	Alarms.cpp	603;"	d	file:
+DELTA_T	Alarms.cpp	604;"	d	file:
+DESCENDING	MultiWii.h	141;"	d
+DIGIT_TO_VAL	GPS.cpp	852;"	d	file:
+DISABLE_POWER_PIN	config.h	1201;"	d
+DISABLE_POWER_PIN	def.h	46;"	d
+DISPLAY_2LINES	def.h	1846;"	d
+DISPLAY_COLUMNS	def.h	1858;"	d
+DISPLAY_COLUMNS	def.h	1868;"	d
+DISPLAY_COLUMNS	def.h	1878;"	d
+DISPLAY_COLUMNS	def.h	1895;"	d
+DISPLAY_COLUMNS	def.h	1900;"	d
+DISPLAY_FONT_DSIZE	def.h	100;"	d
+DISPLAY_FONT_DSIZE	def.h	82;"	d
+DISPLAY_MULTILINE	def.h	1844;"	d
+DIYFLYING_MAGE_V1	def.h	71;"	d
+DURATION_SCALE	Alarms.cpp	610;"	d	file:
+DURATION_SUP	Alarms.cpp	609;"	d	file:
+DYNBAL	def.h	176;"	d
+DYNBAL	def.h	178;"	d
+DYN_THR_PID_CHANNEL	MultiWii.cpp	377;"	d	file:
+Device_Mag_getADC	Sensors.cpp	/^    static void Device_Mag_getADC() {$/;"	f	file:
+Device_Mag_getADC	Sensors.cpp	/^  void Device_Mag_getADC() {$/;"	f
+Device_Mag_getADC	Sensors.cpp	/^static void Device_Mag_getADC() {$/;"	f	file:
+Device_Mag_getADC	Sensors.cpp	/^void Device_Mag_getADC() {$/;"	f
+EEPROM_H_	EEPROM.h	2;"	d
+ESC_CALIB_CANNOT_FLY	def.h	116;"	d
+ESC_CALIB_HIGH	config.h	1151;"	d
+ESC_CALIB_LOW	config.h	1150;"	d
+ETPP_barGraph	LCD.cpp	/^void ETPP_barGraph(byte num, int val) { \/\/ num chars in graph; percent as 1 to 100$/;"	f
+EXTAUX	def.h	1688;"	d
+EXTAUX	def.h	1690;"	d
+EXT_MOTOR_32KHZ	def.h	1448;"	d
+EstAlt	types.h	/^  int32_t  EstAlt;             \/\/ in cm$/;"	m	struct:__anon14
+FAILSAFE	def.h	14;"	d
+FAILSAFE_DELAY	config.h	605;"	d
+FAILSAFE_DETECT_TRESHOLD	config.h	609;"	d
+FAILSAFE_OFF_DELAY	config.h	606;"	d
+FAILSAFE_THROTTLE	config.h	607;"	d
+FENCE_DISTANCE	config.h	773;"	d
+FIXEDWING	def.h	160;"	d
+FIX_2D	GPS.cpp	/^  FIX_2D = 2,$/;"	e	enum:diyd_mtk_fix_type	file:
+FIX_2D	GPS.cpp	/^  FIX_2D = 2,$/;"	e	enum:ubs_nav_fix_type	file:
+FIX_2D_SBAS	GPS.cpp	/^  FIX_2D_SBAS = 6,$/;"	e	enum:diyd_mtk_fix_type	file:
+FIX_3D	GPS.cpp	/^  FIX_3D = 3,$/;"	e	enum:diyd_mtk_fix_type	file:
+FIX_3D	GPS.cpp	/^  FIX_3D = 3,$/;"	e	enum:ubs_nav_fix_type	file:
+FIX_3D_SBAS	GPS.cpp	/^  FIX_3D_SBAS = 7 $/;"	e	enum:diyd_mtk_fix_type	file:
+FIX_DEAD_RECKONING	GPS.cpp	/^  FIX_DEAD_RECKONING = 1,$/;"	e	enum:ubs_nav_fix_type	file:
+FIX_GPS_DEAD_RECKONING	GPS.cpp	/^  FIX_GPS_DEAD_RECKONING = 4,$/;"	e	enum:ubs_nav_fix_type	file:
+FIX_NONE	GPS.cpp	/^  FIX_NONE = 0,$/;"	e	enum:ubs_nav_fix_type	file:
+FIX_NONE	GPS.cpp	/^  FIX_NONE = 1,$/;"	e	enum:diyd_mtk_fix_type	file:
+FIX_TIME	GPS.cpp	/^  FIX_TIME = 5$/;"	e	enum:ubs_nav_fix_type	file:
+FLAP	def.h	181;"	d
+FLAP	def.h	183;"	d
+FLAPPERON_EP	config.h	273;"	d
+FLAPPERON_INVERT	config.h	274;"	d
+FLYING_WING	def.h	11;"	d
+FORCE_ACC_ORIENTATION	def.h	90;"	d
+FORCE_GYRO_ORIENTATION	def.h	91;"	d
+FRAME_GGA	GPS.cpp	1022;"	d	file:
+FRAME_RMC	GPS.cpp	1023;"	d	file:
+FREEIMUv035	def.h	119;"	d
+FREEIMUv035_MS	def.h	21;"	d
+FREEIMUv043	def.h	933;"	d
+FREEIMUv043	def.h	937;"	d
+FREQUENCY_HOPPING	RX.cpp	527;"	d	file:
+GOVERNOR_D	def.h	65;"	d
+GOVERNOR_P	def.h	64;"	d
+GOV_R_NUM	Output.cpp	1528;"	d	file:
+GPS	def.h	1670;"	d
+GPS	def.h	1672;"	d
+GPS_BARO_MODE	types.h	/^  uint8_t GPS_BARO_MODE : 1;         \/\/ This flag is used when GPS controls baro mode instead of user (it will replace rcOptions[BARO]$/;"	m	struct:__anon16
+GPS_BAUD	config.h	678;"	d
+GPS_BAUD	def.h	1486;"	d
+GPS_BAUD	def.h	1519;"	d
+GPS_Compute	GPS.cpp	/^uint8_t GPS_Compute(void) {$/;"	f
+GPS_FILTER_VECTOR_LENGTH	GPS.cpp	162;"	d	file:
+GPS_FIX	types.h	/^  uint8_t GPS_FIX :1 ;$/;"	m	struct:__anon16
+GPS_FIX_HOME	types.h	/^  uint8_t GPS_FIX_HOME :1 ;$/;"	m	struct:__anon16
+GPS_FROM	GPS.cpp	/^static int32_t GPS_FROM[2]; \/\/the pervious waypoint for precise track following$/;"	v	file:
+GPS_Frame	GPS.cpp	/^uint8_t GPS_Frame;            \/\/ a valid GPS_Frame was detected, and data is ready for nav computation$/;"	v
+GPS_H_	GPS.h	2;"	d
+GPS_LAG	GPS.cpp	34;"	d	file:
+GPS_LAG	GPS.cpp	36;"	d	file:
+GPS_LEAD_FILTER	config.h	733;"	d
+GPS_LED_INDICATOR	config.h	709;"	d
+GPS_MODE_HOLD	types.h	/^  GPS_MODE_HOLD, $/;"	e	enum:gpsmode
+GPS_MODE_NAV	types.h	/^  GPS_MODE_NAV $/;"	e	enum:gpsmode
+GPS_MODE_NONE	types.h	/^  GPS_MODE_NONE = 0, $/;"	e	enum:gpsmode
+GPS_MODE_RTH	types.h	/^  GPS_MODE_RTH, $/;"	e	enum:gpsmode
+GPS_NewData	GPS.cpp	/^uint8_t GPS_NewData(void) {$/;"	f
+GPS_SERIAL	def.h	1485;"	d
+GPS_SERIAL	def.h	1518;"	d
+GPS_SERIAL	def.h	38;"	d
+GPS_SerialInit	GPS.cpp	/^void GPS_SerialInit(void) {$/;"	f
+GPS_WP	GPS.cpp	/^static int32_t GPS_WP[2];   \/\/Currently used WP$/;"	v	file:
+GPS_WP_RADIUS	config.h	740;"	d
+GPS_adjust_heading	GPS.cpp	/^void GPS_adjust_heading() {$/;"	f
+GPS_altitude	MultiWii.cpp	/^  uint16_t GPS_altitude;                                \/\/ GPS altitude      - unit: meter$/;"	v
+GPS_angle	MultiWii.cpp	/^  int16_t  GPS_angle[2] = { 0, 0};                      \/\/ the angles that must be applied for GPS correction$/;"	v
+GPS_bearing	GPS.cpp	/^void GPS_bearing(int32_t* lat1, int32_t* lon1, int32_t* lat2, int32_t* lon2, int32_t* bearing) {$/;"	f
+GPS_calc_desired_speed	GPS.cpp	/^static uint16_t GPS_calc_desired_speed(uint16_t max_speed, bool _slow) {$/;"	f	file:
+GPS_calc_location_error	GPS.cpp	/^static void GPS_calc_location_error( int32_t* target_lat, int32_t* target_lng, int32_t* gps_lat, int32_t* gps_lng ) {$/;"	f	file:
+GPS_calc_longitude_scaling	GPS.cpp	/^void GPS_calc_longitude_scaling(int32_t lat) {$/;"	f
+GPS_calc_nav_rate	GPS.cpp	/^static void GPS_calc_nav_rate( uint16_t max_speed) {$/;"	f	file:
+GPS_calc_poshold	GPS.cpp	/^static void GPS_calc_poshold(void) {$/;"	f	file:
+GPS_calc_velocity	GPS.cpp	/^static void GPS_calc_velocity(void){$/;"	f	file:
+GPS_conf	MultiWii.cpp	/^  gps_conf_struct GPS_conf;$/;"	v
+GPS_coord	MultiWii.cpp	/^  int32_t  GPS_coord[2];$/;"	v
+GPS_coord_lead	GPS.cpp	/^static int32_t  GPS_coord_lead[2];              \/\/ Lead filtered gps coordinates$/;"	v	file:
+GPS_coord_to_degrees	GPS.cpp	/^uint32_t GPS_coord_to_degrees(char* s) {$/;"	f
+GPS_degree	GPS.cpp	/^static int32_t GPS_degree[2];    \/\/the lat lon degree without any decimals (lat\/10 000 000)$/;"	v	file:
+GPS_directionToHome	MultiWii.cpp	/^  int16_t  GPS_directionToHome;                         \/\/ direction to home - unit: degree$/;"	v
+GPS_directionToPoi	MultiWii.cpp	/^  int32_t  GPS_directionToPoi;$/;"	v
+GPS_distanceToHome	MultiWii.cpp	/^  uint16_t GPS_distanceToHome;                          \/\/ distance to home  - unit: meter$/;"	v
+GPS_distance_cm	GPS.cpp	/^void GPS_distance_cm(int32_t* lat1, int32_t* lon1, int32_t* lat2, int32_t* lon2,uint32_t* dist) {$/;"	f
+GPS_filter	GPS.cpp	/^static int32_t GPS_filter[2][GPS_FILTER_VECTOR_LENGTH];$/;"	v	file:
+GPS_filter_index	GPS.cpp	/^static uint8_t GPS_filter_index = 0;$/;"	v	file:
+GPS_filter_sum	GPS.cpp	/^static int32_t GPS_filter_sum[2];$/;"	v	file:
+GPS_filtered	GPS.cpp	/^static int32_t GPS_filtered[2];$/;"	v	file:
+GPS_ground_course	MultiWii.cpp	/^  uint16_t GPS_ground_course = 0;                       \/\/                   - unit: degree*10$/;"	v
+GPS_head_set	types.h	/^  uint8_t GPS_head_set: 1;           \/\/ it is 1 if the navigation engine got commands to control heading (SET_POI or SET_HEAD) CLEAR_HEAD will zero it$/;"	m	struct:__anon16
+GPS_hold	MultiWii.cpp	/^  int32_t  GPS_hold[2];$/;"	v
+GPS_home	MultiWii.cpp	/^  int32_t  GPS_home[2];$/;"	v
+GPS_mode	types.h	/^  uint8_t GPS_mode: 2;               \/\/ 0-3 NONE,HOLD, HOME, NAV (see GPS_MODE_* defines$/;"	m	struct:__anon16
+GPS_newFrame	GPS.cpp	/^bool GPS_newFrame(uint8_t c) {$/;"	f
+GPS_newFrame	GPS.cpp	/^bool GPS_newFrame(uint8_t data) {$/;"	f
+GPS_newFrame	GPS.cpp	/^bool GPS_newFrame(uint8_t data){$/;"	f
+GPS_numSat	MultiWii.cpp	/^  uint8_t  GPS_numSat;$/;"	v
+GPS_poi	MultiWii.cpp	/^  int32_t  GPS_poi[2];$/;"	v
+GPS_prev	MultiWii.cpp	/^  int32_t  GPS_prev[2];                                 \/\/previous pos$/;"	v
+GPS_read	GPS.cpp	/^static int32_t GPS_read[2];$/;"	v	file:
+GPS_reset_home_position	GPS.cpp	/^void GPS_reset_home_position(void) {$/;"	f
+GPS_reset_nav	GPS.cpp	/^void GPS_reset_nav(void) {$/;"	f
+GPS_scaleLonDown	GPS.cpp	/^static float GPS_scaleLonDown; \/\/ this is used to offset the shrinking longitude as we go towards the poles$/;"	v	file:
+GPS_set_next_wp	GPS.cpp	/^void GPS_set_next_wp(int32_t* lat_to, int32_t* lon_to, int32_t* lat_from, int32_t* lon_from) {$/;"	f
+GPS_set_pids	GPS.cpp	/^void GPS_set_pids(void) {$/;"	f
+GPS_speed	MultiWii.cpp	/^  uint16_t GPS_speed;                                   \/\/ GPS speed         - unit: cm\/s$/;"	v
+GPS_speedMax	MultiWii.cpp	/^  uint16_t GPS_speedMax = 0;       \/\/ maximum speed from gps$/;"	v
+GPS_update	MultiWii.cpp	/^  uint8_t  GPS_update = 0;                              \/\/ a binary toogle to distinct a GPS position update$/;"	v
+GPS_update_crosstrack	GPS.cpp	/^static void GPS_update_crosstrack(void) {$/;"	f	file:
+GREEN_LED_pin	def.h	1592;"	d
+GYRO	def.h	1658;"	d
+GYRO	def.h	1660;"	d
+GYROLIMIT	LCD.cpp	2000;"	d	file:
+GYRO_ADDRESS	Sensors.cpp	885;"	d	file:
+GYRO_ADDRESS	def.h	1061;"	d
+GYRO_ADDRESS	def.h	1165;"	d
+GYRO_ADDRESS	def.h	1178;"	d
+GYRO_Common	Sensors.cpp	/^void GYRO_Common() {$/;"	f
+GYRO_DLPF_CFG	Sensors.cpp	35;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	38;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	41;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	44;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	47;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	50;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	53;"	d	file:
+GYRO_DLPF_CFG	Sensors.cpp	56;"	d	file:
+GYRO_I_MAX	MultiWii.cpp	1435;"	d	file:
+GYRO_ORIENTATION	Sensors.cpp	25;"	d	file:
+GYRO_ORIENTATION	def.h	1001;"	d
+GYRO_ORIENTATION	def.h	1012;"	d
+GYRO_ORIENTATION	def.h	1022;"	d
+GYRO_ORIENTATION	def.h	1035;"	d
+GYRO_ORIENTATION	def.h	1048;"	d
+GYRO_ORIENTATION	def.h	1059;"	d
+GYRO_ORIENTATION	def.h	1069;"	d
+GYRO_ORIENTATION	def.h	1079;"	d
+GYRO_ORIENTATION	def.h	1089;"	d
+GYRO_ORIENTATION	def.h	1106;"	d
+GYRO_ORIENTATION	def.h	1116;"	d
+GYRO_ORIENTATION	def.h	1128;"	d
+GYRO_ORIENTATION	def.h	1137;"	d
+GYRO_ORIENTATION	def.h	1146;"	d
+GYRO_ORIENTATION	def.h	1154;"	d
+GYRO_ORIENTATION	def.h	1163;"	d
+GYRO_ORIENTATION	def.h	1177;"	d
+GYRO_ORIENTATION	def.h	1184;"	d
+GYRO_ORIENTATION	def.h	1194;"	d
+GYRO_ORIENTATION	def.h	1204;"	d
+GYRO_ORIENTATION	def.h	1212;"	d
+GYRO_ORIENTATION	def.h	1222;"	d
+GYRO_ORIENTATION	def.h	1232;"	d
+GYRO_ORIENTATION	def.h	1241;"	d
+GYRO_ORIENTATION	def.h	1250;"	d
+GYRO_ORIENTATION	def.h	1263;"	d
+GYRO_ORIENTATION	def.h	1278;"	d
+GYRO_ORIENTATION	def.h	1289;"	d
+GYRO_ORIENTATION	def.h	1300;"	d
+GYRO_ORIENTATION	def.h	1311;"	d
+GYRO_ORIENTATION	def.h	1320;"	d
+GYRO_ORIENTATION	def.h	1330;"	d
+GYRO_ORIENTATION	def.h	1339;"	d
+GYRO_ORIENTATION	def.h	1349;"	d
+GYRO_ORIENTATION	def.h	1362;"	d
+GYRO_ORIENTATION	def.h	1370;"	d
+GYRO_ORIENTATION	def.h	1380;"	d
+GYRO_ORIENTATION	def.h	1391;"	d
+GYRO_ORIENTATION	def.h	1401;"	d
+GYRO_ORIENTATION	def.h	1413;"	d
+GYRO_ORIENTATION	def.h	1423;"	d
+GYRO_ORIENTATION	def.h	1444;"	d
+GYRO_ORIENTATION	def.h	1464;"	d
+GYRO_ORIENTATION	def.h	1473;"	d
+GYRO_ORIENTATION	def.h	1494;"	d
+GYRO_ORIENTATION	def.h	1515;"	d
+GYRO_ORIENTATION	def.h	1530;"	d
+GYRO_ORIENTATION	def.h	1540;"	d
+GYRO_ORIENTATION	def.h	1549;"	d
+GYRO_ORIENTATION	def.h	1558;"	d
+GYRO_ORIENTATION	def.h	1566;"	d
+GYRO_ORIENTATION	def.h	1614;"	d
+GYRO_ORIENTATION	def.h	1621;"	d
+GYRO_ORIENTATION	def.h	1627;"	d
+GYRO_ORIENTATION	def.h	1636;"	d
+GYRO_ORIENTATION	def.h	1938;"	d
+GYRO_ORIENTATION	def.h	1939;"	d
+GYRO_ORIENTATION	def.h	881;"	d
+GYRO_ORIENTATION	def.h	891;"	d
+GYRO_ORIENTATION	def.h	900;"	d
+GYRO_ORIENTATION	def.h	911;"	d
+GYRO_ORIENTATION	def.h	922;"	d
+GYRO_ORIENTATION	def.h	945;"	d
+GYRO_ORIENTATION	def.h	954;"	d
+GYRO_P_MAX	MultiWii.cpp	1434;"	d	file:
+GYRO_SCALE	Sensors.h	55;"	d
+GYRO_SCALE	Sensors.h	58;"	d
+GYRO_SCALE	Sensors.h	61;"	d
+GYRO_SCALE	Sensors.h	64;"	d
+GYRO_SCALE	Sensors.h	67;"	d
+GYRO_SMOOTHING	def.h	58;"	d
+GYR_CMPFM_FACTOR	IMU.cpp	91;"	d	file:
+GYR_CMPF_FACTOR	IMU.cpp	86;"	d	file:
+Green_LED_OFF	def.h	1599;"	d
+Green_LED_ON	def.h	1598;"	d
+Gyro_getADC	Sensors.cpp	/^void Gyro_getADC () {$/;"	f
+Gyro_getADC	Sensors.cpp	/^void Gyro_getADC() {$/;"	f
+Gyro_init	Sensors.cpp	/^static void Gyro_init() {$/;"	f	file:
+Gyro_init	Sensors.cpp	/^void Gyro_init() {$/;"	f
+HAS_LCD	def.h	1964;"	d
+HEADER_ARROW	Protocol.cpp	/^  HEADER_ARROW,$/;"	e	enum:MSP_protocol_bytes	file:
+HEADER_CMD	Protocol.cpp	/^  HEADER_CMD$/;"	e	enum:MSP_protocol_bytes	file:
+HEADER_M	Protocol.cpp	/^  HEADER_M,$/;"	e	enum:MSP_protocol_bytes	file:
+HEADER_SIZE	Protocol.cpp	/^  HEADER_SIZE,$/;"	e	enum:MSP_protocol_bytes	file:
+HEADER_START	Protocol.cpp	/^  HEADER_START,$/;"	e	enum:MSP_protocol_bytes	file:
+HEADFREE_MODE	types.h	/^  uint8_t HEADFREE_MODE :1 ;$/;"	m	struct:__anon16
+HELICOPTER	def.h	164;"	d
+HELI_120_CCPM	def.h	44;"	d
+HELI_120_CCPM	def.h	86;"	d
+HEX6H	def.h	70;"	d
+HMC5843	def.h	1057;"	d
+HMC5843	def.h	879;"	d
+HMC5843	def.h	898;"	d
+HMC5883	def.h	1010;"	d
+HMC5883	def.h	1020;"	d
+HMC5883	def.h	1033;"	d
+HMC5883	def.h	1046;"	d
+HMC5883	def.h	1077;"	d
+HMC5883	def.h	1087;"	d
+HMC5883	def.h	1097;"	d
+HMC5883	def.h	1114;"	d
+HMC5883	def.h	1126;"	d
+HMC5883	def.h	1144;"	d
+HMC5883	def.h	1161;"	d
+HMC5883	def.h	1191;"	d
+HMC5883	def.h	1211;"	d
+HMC5883	def.h	1229;"	d
+HMC5883	def.h	1238;"	d
+HMC5883	def.h	1247;"	d
+HMC5883	def.h	1275;"	d
+HMC5883	def.h	1287;"	d
+HMC5883	def.h	1297;"	d
+HMC5883	def.h	1308;"	d
+HMC5883	def.h	1328;"	d
+HMC5883	def.h	1346;"	d
+HMC5883	def.h	1359;"	d
+HMC5883	def.h	1389;"	d
+HMC5883	def.h	1398;"	d
+HMC5883	def.h	1410;"	d
+HMC5883	def.h	1420;"	d
+HMC5883	def.h	1461;"	d
+HMC5883	def.h	1470;"	d
+HMC5883	def.h	1481;"	d
+HMC5883	def.h	1526;"	d
+HMC5883	def.h	1537;"	d
+HMC5883	def.h	1547;"	d
+HMC5883	def.h	1634;"	d
+HMC5883	def.h	889;"	d
+HMC5883	def.h	909;"	d
+HMC5883	def.h	920;"	d
+HMC5883	def.h	942;"	d
+HMC5883	def.h	999;"	d
+HMC58X3_R_CONFA	Sensors.cpp	1002;"	d	file:
+HMC58X3_R_CONFB	Sensors.cpp	1003;"	d	file:
+HMC58X3_R_MODE	Sensors.cpp	1004;"	d	file:
+HMC58X3_X_SELF_TEST_GAUSS	Sensors.cpp	1005;"	d	file:
+HMC58X3_Y_SELF_TEST_GAUSS	Sensors.cpp	1006;"	d	file:
+HMC58X3_Z_SELF_TEST_GAUSS	Sensors.cpp	1007;"	d	file:
+HMC_NEG_BIAS	Sensors.cpp	1011;"	d	file:
+HMC_POS_BIAS	Sensors.cpp	1010;"	d	file:
+HORIZON_MODE	types.h	/^  uint8_t HORIZON_MODE :1 ;$/;"	m	struct:__anon16
+HWPWM6	def.h	1108;"	d
+HWPWM6	def.h	1119;"	d
+HWPWM6	def.h	969;"	d
+HW_PWM_SERVOS	def.h	865;"	d
+Hopping	RX.cpp	/^void Hopping(void) {$/;"	f
+I2C_GPS_ADDRESS	GPS.cpp	1498;"	d	file:
+I2C_GPS_ALTITUDE	GPS.cpp	1507;"	d	file:
+I2C_GPS_GROUND_COURSE	GPS.cpp	1508;"	d	file:
+I2C_GPS_GROUND_SPEED	GPS.cpp	1506;"	d	file:
+I2C_GPS_LOCATION	GPS.cpp	1505;"	d	file:
+I2C_GPS_SONAR_ALT	GPS.cpp	1510;"	d	file:
+I2C_GPS_STATUS_00	GPS.cpp	1500;"	d	file:
+I2C_GPS_STATUS_2DFIX	GPS.cpp	1502;"	d	file:
+I2C_GPS_STATUS_3DFIX	GPS.cpp	1503;"	d	file:
+I2C_GPS_STATUS_NEW_DATA	GPS.cpp	1501;"	d	file:
+I2C_GPS_STATUS_NUMSATS	GPS.cpp	1504;"	d	file:
+I2C_GPS_TIME	GPS.cpp	1509;"	d	file:
+I2C_PULLUPS_DISABLE	def.h	317;"	d
+I2C_PULLUPS_DISABLE	def.h	446;"	d
+I2C_PULLUPS_DISABLE	def.h	581;"	d
+I2C_PULLUPS_ENABLE	def.h	316;"	d
+I2C_PULLUPS_ENABLE	def.h	445;"	d
+I2C_PULLUPS_ENABLE	def.h	580;"	d
+I2C_SPEED	config.h	75;"	d
+I2C_SPEED	def.h	1427;"	d
+I8	types.h	/^  uint8_t I8;$/;"	m	struct:pid_
+IDLE	Protocol.cpp	/^  IDLE,$/;"	e	enum:MSP_protocol_bytes	file:
+IGNORE_THROTTLE	config.h	769;"	d
+IMU_H_	IMU.h	2;"	d
+INBUF_SIZE	Protocol.cpp	86;"	d	file:
+INFLIGHT_ACC_CALIBRATION	def.h	59;"	d
+INIT_MTK_GPS	def.h	1521;"	d
+INTERNAL_I2C_PULLUPS	def.h	1107;"	d
+INTERNAL_I2C_PULLUPS	def.h	1118;"	d
+INTERNAL_I2C_PULLUPS	def.h	1130;"	d
+INTERNAL_I2C_PULLUPS	def.h	1148;"	d
+INTERNAL_I2C_PULLUPS	def.h	1155;"	d
+INTERNAL_I2C_PULLUPS	def.h	1186;"	d
+INTERNAL_I2C_PULLUPS	def.h	1198;"	d
+INTERNAL_I2C_PULLUPS	def.h	1216;"	d
+INTERNAL_I2C_PULLUPS	def.h	1280;"	d
+INTERNAL_I2C_PULLUPS	def.h	1291;"	d
+INTERNAL_I2C_PULLUPS	def.h	1303;"	d
+INTERNAL_I2C_PULLUPS	def.h	1314;"	d
+INTERNAL_I2C_PULLUPS	def.h	1321;"	d
+INTERNAL_I2C_PULLUPS	def.h	1332;"	d
+INTERNAL_I2C_PULLUPS	def.h	1340;"	d
+INTERNAL_I2C_PULLUPS	def.h	1351;"	d
+INTERNAL_I2C_PULLUPS	def.h	1372;"	d
+INTERNAL_I2C_PULLUPS	def.h	1382;"	d
+INTERNAL_I2C_PULLUPS	def.h	1404;"	d
+INTERNAL_I2C_PULLUPS	def.h	1415;"	d
+INTERNAL_I2C_PULLUPS	def.h	1426;"	d
+INTERNAL_I2C_PULLUPS	def.h	1445;"	d
+INTERNAL_I2C_PULLUPS	def.h	1476;"	d
+INTERNAL_I2C_PULLUPS	def.h	1484;"	d
+INTERNAL_I2C_PULLUPS	def.h	1495;"	d
+INTERNAL_I2C_PULLUPS	def.h	1532;"	d
+INTERNAL_I2C_PULLUPS	def.h	1542;"	d
+INTERNAL_I2C_PULLUPS	def.h	1552;"	d
+INTERNAL_I2C_PULLUPS	def.h	1559;"	d
+INTERNAL_I2C_PULLUPS	def.h	1615;"	d
+INTERNAL_I2C_PULLUPS	def.h	1622;"	d
+INTERNAL_I2C_PULLUPS	def.h	1628;"	d
+INTERNAL_I2C_PULLUPS	def.h	1638;"	d
+INTERNAL_I2C_PULLUPS	def.h	903;"	d
+INTERNAL_I2C_PULLUPS	def.h	914;"	d
+INTERNAL_I2C_PULLUPS	def.h	924;"	d
+INTERNAL_I2C_PULLUPS	def.h	948;"	d
+INTERNAL_I2C_PULLUPS	def.h	955;"	d
+INTERNAL_IC2_PULLUPS	def.h	1393;"	d
+IRQ_interrupt	def.h	1574;"	d
+IRQ_pin	def.h	1572;"	d
+ISR	Alarms.cpp	/^  ISR(PL_ISR) { \/\/the interrupt service routine$/;"	f
+ISR	Output.cpp	/^      ISR(SOFT_PWM_ISR1) { $/;"	f
+ISR	Output.cpp	/^      ISR(SOFT_PWM_ISR2) {$/;"	f
+ISR	Output.cpp	/^    ISR(SOFT_PWM_ISR1) { $/;"	f
+ISR	Output.cpp	/^    ISR(SOFT_PWM_ISR2) { $/;"	f
+ISR	Output.cpp	/^  ISR(SERVO_ISR) {$/;"	f
+ISR	RX.cpp	/^  ISR(RX_PC_INTERRUPT) { \/\/this ISR is common to every receiver channel, it is call everytime a change state occurs on a RX input pin$/;"	f
+ISR	Serial.cpp	/^  ISR(USART0_RX_vect)  { store_uart_in_buf(UDR0, 0); }$/;"	f
+ISR	Serial.cpp	/^  ISR(USART1_RX_vect)  { store_uart_in_buf(UDR1, 1); }$/;"	f
+ISR	Serial.cpp	/^  ISR(USART2_RX_vect)  { store_uart_in_buf(UDR2, 2); }$/;"	f
+ISR	Serial.cpp	/^  ISR(USART3_RX_vect)  { store_uart_in_buf(UDR3, 3); }$/;"	f
+ISR	Serial.cpp	/^  ISR(USART_RX_vect)  { store_uart_in_buf(UDR0, 0); }$/;"	f
+ISR	Serial.cpp	/^  ISR(USART_UDRE_vect) {  \/\/ Serial 0 on a PROMINI$/;"	f
+IS_ALARM_SET	Alarms.h	102;"	d
+ITG3050	def.h	1123;"	d
+ITG3200	def.h	1007;"	d
+ITG3200	def.h	1017;"	d
+ITG3200	def.h	1030;"	d
+ITG3200	def.h	1043;"	d
+ITG3200	def.h	1054;"	d
+ITG3200	def.h	1065;"	d
+ITG3200	def.h	1074;"	d
+ITG3200	def.h	1084;"	d
+ITG3200	def.h	1134;"	d
+ITG3200	def.h	1141;"	d
+ITG3200	def.h	114;"	d
+ITG3200	def.h	1159;"	d
+ITG3200	def.h	1174;"	d
+ITG3200	def.h	1208;"	d
+ITG3200	def.h	1220;"	d
+ITG3200	def.h	1227;"	d
+ITG3200	def.h	1285;"	d
+ITG3200	def.h	1325;"	d
+ITG3200	def.h	1336;"	d
+ITG3200	def.h	1344;"	d
+ITG3200	def.h	1357;"	d
+ITG3200	def.h	1367;"	d
+ITG3200	def.h	1376;"	d
+ITG3200	def.h	1386;"	d
+ITG3200	def.h	1408;"	d
+ITG3200	def.h	1459;"	d
+ITG3200	def.h	1509;"	d
+ITG3200	def.h	1563;"	d
+ITG3200	def.h	1613;"	d
+ITG3200	def.h	876;"	d
+ITG3200	def.h	886;"	d
+ITG3200	def.h	896;"	d
+ITG3200	def.h	907;"	d
+ITG3200	def.h	918;"	d
+Imax	GPS.cpp	/^  float Imax;$/;"	m	struct:PID_PARAM_	file:
+InflightcalibratingA	MultiWii.cpp	/^  uint16_t InflightcalibratingA = 0;$/;"	v
+InvSqrt	IMU.cpp	/^float InvSqrt (float x){ $/;"	f
+IsHigh	LCD.cpp	1506;"	d	file:
+IsLow	LCD.cpp	1505;"	d	file:
+IsMid	LCD.cpp	1507;"	d	file:
+ItStatus1	RX.cpp	/^unsigned char ItStatus1, ItStatus2;  $/;"	v
+ItStatus2	RX.cpp	/^unsigned char ItStatus1, ItStatus2;  $/;"	v
+L3G4200D	def.h	1273;"	d
+L3G4200D	def.h	997;"	d
+L3G4200D_ADDRESS	Sensors.cpp	852;"	d	file:
+LAND_COMPLETED	types.h	/^  uint8_t LAND_COMPLETED: 1;$/;"	m	struct:__anon16
+LAND_DETECT_THRESHOLD	GPS.cpp	498;"	d	file:
+LAND_IN_PROGRESS	types.h	/^  uint8_t LAND_IN_PROGRESS: 1;$/;"	m	struct:__anon16
+LAND_SPEED	config.h	776;"	d
+LAST_LOW	def.h	682;"	d
+LAST_LOW	def.h	688;"	d
+LAST_LOW	def.h	689;"	d
+LAST_LOW	def.h	701;"	d
+LAST_LOW	def.h	702;"	d
+LAST_LOW	def.h	718;"	d
+LAST_LOW	def.h	719;"	d
+LAST_LOW	def.h	739;"	d
+LAST_LOW	def.h	740;"	d
+LAST_LOW	def.h	764;"	d
+LAST_LOW	def.h	765;"	d
+LAST_LOW	def.h	793;"	d
+LAST_LOW	def.h	794;"	d
+LAST_LOW	def.h	826;"	d
+LAST_LOW	def.h	827;"	d
+LAT	MultiWii.h	181;"	d
+LAUX1	LCD.cpp	/^static lcd_type_desc_t LAUX1 = {&__uAuxFmt1, &__u16Inc};$/;"	v	file:
+LAUX2	LCD.cpp	/^static lcd_type_desc_t LAUX2 = {&__uAuxFmt2, &__u16Inc};$/;"	v	file:
+LAUX3	LCD.cpp	/^static lcd_type_desc_t LAUX3 = {&__uAuxFmt3, &__u16Inc};$/;"	v	file:
+LAUX4	LCD.cpp	/^static lcd_type_desc_t LAUX4 = {&__uAuxFmt4, &__u16Inc};$/;"	v	file:
+LCDPIN_OFF	def.h	320;"	d
+LCDPIN_OFF	def.h	448;"	d
+LCDPIN_OFF	def.h	583;"	d
+LCDPIN_OFF	def.h	668;"	d
+LCDPIN_ON	def.h	321;"	d
+LCDPIN_ON	def.h	449;"	d
+LCDPIN_ON	def.h	584;"	d
+LCDPIN_ON	def.h	669;"	d
+LCD_CONF	def.h	102;"	d
+LCD_CONF	def.h	133;"	d
+LCD_CONF	def.h	15;"	d
+LCD_CONF	def.h	25;"	d
+LCD_CONF	def.h	84;"	d
+LCD_CONF_AUX	def.h	26;"	d
+LCD_ETPP_ADDRESS	LCD.cpp	429;"	d	file:
+LCD_FLUSH	LCD.cpp	53;"	d	file:
+LCD_H_	LCD.h	2;"	d
+LCD_LCD03S	def.h	131;"	d
+LCD_LCD03_ADDRESS	LCD.cpp	507;"	d	file:
+LCD_MENU_ABORT	config.h	826;"	d
+LCD_MENU_NEXT	config.h	821;"	d
+LCD_MENU_PREV	config.h	820;"	d
+LCD_MENU_SAVE_EXIT	config.h	825;"	d
+LCD_SERIAL_PORT	config.h	801;"	d
+LCD_TELEMETRY	def.h	103;"	d
+LCD_TELEMETRY	def.h	28;"	d
+LCD_TELEMETRY	def.h	49;"	d
+LCD_TELEMETRY_AUTO	def.h	104;"	d
+LCD_TELEMETRY_AUTO_FREQ	config.h	1160;"	d
+LCD_TELEMETRY_FREQ	config.h	1159;"	d
+LCD_TELEMETRY_STEP	def.h	105;"	d
+LCD_TELEMETRY_STEP	def.h	29;"	d
+LCD_TEXTSTAR	def.h	16;"	d
+LCD_VALUE_DOWN	config.h	823;"	d
+LCD_VALUE_UP	config.h	822;"	d
+LCD_VT100	def.h	27;"	d
+LCDalarmAndReverse	LCD.cpp	/^  void LCDalarmAndReverse() {LCDattributesReverse(); if (f.ARMED) { LCDprint(0x07); }; } \/\/ audio for errors only while armed$/;"	f
+LCDalarmAndReverse	LCD.cpp	/^  void LCDalarmAndReverse() {LCDattributesReverse(); }$/;"	f
+LCDalarmAndReverse	LCD.cpp	/^  void LCDalarmAndReverse() {}$/;"	f
+LCDattributesBold	LCD.cpp	/^  void LCDattributesBold() {LCDprint(0x1b); LCDprint(0x5b); LCDprintChar("1m");}$/;"	f
+LCDattributesBold	LCD.cpp	/^  void LCDattributesBold() {\/*CHAR_FORMAT = 0b01111111; *\/}$/;"	f
+LCDattributesBold	LCD.cpp	/^  void LCDattributesBold() {}$/;"	f
+LCDattributesOff	LCD.cpp	/^  void LCDattributesOff() {CHAR_FORMAT = 0; }$/;"	f
+LCDattributesOff	LCD.cpp	/^  void LCDattributesOff() {LCDprint(0x1b); LCDprint(0x5b); LCDprintChar("0m");}$/;"	f
+LCDattributesOff	LCD.cpp	/^  void LCDattributesOff() {}$/;"	f
+LCDattributesReverse	LCD.cpp	/^  void LCDattributesReverse() {CHAR_FORMAT = 0b01111111; }$/;"	f
+LCDattributesReverse	LCD.cpp	/^  void LCDattributesReverse() {LCDprint(0x1b); LCDprint(0x5b); LCDprintChar("7m");}$/;"	f
+LCDattributesReverse	LCD.cpp	/^  void LCDattributesReverse() {}$/;"	f
+LCDbar	LCD.cpp	/^void LCDbar(uint8_t n,uint8_t v) {$/;"	f
+LCDclear	LCD.cpp	/^void LCDclear() {$/;"	f
+LCDcrlf	LCD.cpp	/^void LCDcrlf() {$/;"	f
+LCDnextline	LCD.cpp	/^  void LCDnextline(void) {$/;"	f
+LCDprint	LCD.cpp	/^void LCDprint(uint8_t i) {$/;"	f
+LCDprintChar	LCD.cpp	/^void LCDprintChar(const char *s) {$/;"	f
+LCDprintInt16	LCD.cpp	/^void LCDprintInt16(int16_t v) {$/;"	f
+LCDsetLine	LCD.cpp	/^void LCDsetLine(byte line) { \/\/ Line = 1 or 2 - vt100 has lines 1-99$/;"	f
+LEDPIN_OFF	def.h	1920;"	d
+LEDPIN_OFF	def.h	1924;"	d
+LEDPIN_OFF	def.h	281;"	d
+LEDPIN_OFF	def.h	401;"	d
+LEDPIN_OFF	def.h	404;"	d
+LEDPIN_OFF	def.h	409;"	d
+LEDPIN_OFF	def.h	561;"	d
+LEDPIN_OFF	def.h	652;"	d
+LEDPIN_OFF	def.h	987;"	d
+LEDPIN_OFF	def.h	991;"	d
+LEDPIN_ON	def.h	1921;"	d
+LEDPIN_ON	def.h	1925;"	d
+LEDPIN_ON	def.h	282;"	d
+LEDPIN_ON	def.h	402;"	d
+LEDPIN_ON	def.h	405;"	d
+LEDPIN_ON	def.h	410;"	d
+LEDPIN_ON	def.h	560;"	d
+LEDPIN_ON	def.h	653;"	d
+LEDPIN_ON	def.h	988;"	d
+LEDPIN_ON	def.h	992;"	d
+LEDPIN_PINMODE	def.h	1918;"	d
+LEDPIN_PINMODE	def.h	1922;"	d
+LEDPIN_PINMODE	def.h	279;"	d
+LEDPIN_PINMODE	def.h	398;"	d
+LEDPIN_PINMODE	def.h	408;"	d
+LEDPIN_PINMODE	def.h	558;"	d
+LEDPIN_PINMODE	def.h	650;"	d
+LEDPIN_PINMODE	def.h	985;"	d
+LEDPIN_PINMODE	def.h	989;"	d
+LEDPIN_TOGGLE	def.h	1919;"	d
+LEDPIN_TOGGLE	def.h	1923;"	d
+LEDPIN_TOGGLE	def.h	280;"	d
+LEDPIN_TOGGLE	def.h	399;"	d
+LEDPIN_TOGGLE	def.h	411;"	d
+LEDPIN_TOGGLE	def.h	559;"	d
+LEDPIN_TOGGLE	def.h	651;"	d
+LEDPIN_TOGGLE	def.h	986;"	d
+LEDPIN_TOGGLE	def.h	990;"	d
+LED_FLASHER_AUTO	Alarms.cpp	/^    LED_FLASHER_AUTO,$/;"	e	enum:__anon1	file:
+LED_FLASHER_CUSTOM	Alarms.cpp	/^    LED_FLASHER_CUSTOM$/;"	e	enum:__anon1	file:
+LED_RING	def.h	37;"	d
+LED_RING_ADDRESS	Alarms.cpp	405;"	d	file:
+LINE_FILL_STRING	LCD.cpp	/^char LINE_FILL_STRING[] = "                      "; \/\/ Used by clear_OLED() 128 bits \/ 6 bytes = 21 chars per row  $/;"	v
+LIS3A	Sensors.cpp	793;"	d	file:
+LOGO	LCD.cpp	/^const uint8_t PROGMEM LOGO[] = { \/\/ logo....$/;"	v
+LOG_PERMANENT	def.h	106;"	d
+LOG_PERMANENT	def.h	41;"	d
+LOG_PERMANENT	def.h	60;"	d
+LOG_PERMANENT_SERVICE_LIFETIME	def.h	42;"	d
+LOG_PERMANENT_SERVICE_LIFETIME	def.h	63;"	d
+LOG_PERMANENT_SHOW_AFTER_CONFIG	def.h	107;"	d
+LOG_PERMANENT_SHOW_AT_L	def.h	62;"	d
+LOG_PERMANENT_SHOW_AT_STARTUP	def.h	61;"	d
+LOG_VALUES	def.h	30;"	d
+LOG_VALUES	def.h	40;"	d
+LOG_VALUES	def.h	50;"	d
+LOG_VALUES	def.h	79;"	d
+LOG_VALUES	def.h	99;"	d
+LON	MultiWii.h	182;"	d
+LOOP_TIME	config.h	83;"	d
+LPMM	LCD.cpp	/^static lcd_type_desc_t LPMM = {&__upMFmt, &__nullInc};$/;"	v	file:
+LSM330	def.h	1556;"	d
+LSM330_ACC_ADDRESS	Sensors.cpp	1229;"	d	file:
+LSM330_GYRO_ADDRESS	Sensors.cpp	1233;"	d	file:
+LTS16	LCD.cpp	/^static lcd_type_desc_t LTS16 = {&__s16Fmt, &__s16Inc};$/;"	v	file:
+LTS8	LCD.cpp	/^static lcd_type_desc_t LTS8 = {&__s8BitsFmt, &__s8Inc};$/;"	v	file:
+LTU16	LCD.cpp	/^static lcd_type_desc_t LTU16 = {&__u16Fmt, &__u16Inc};$/;"	v	file:
+LTU8	LCD.cpp	/^static lcd_type_desc_t LTU8 = {&__u8Fmt, &__u8Inc};$/;"	v	file:
+LastToggleTime	Alarms.cpp	/^static uint32_t LastToggleTime[5] ={0,0,0,0,0};$/;"	v	file:
+LeadFilter	GPS.cpp	/^    LeadFilter() :$/;"	f	class:LeadFilter
+LeadFilter	GPS.cpp	/^class LeadFilter {$/;"	c	file:
+LoadDefaults	EEPROM.cpp	/^void LoadDefaults() {$/;"	f
+MAG	def.h	1652;"	d
+MAG	def.h	1654;"	d
+MAG3110	def.h	1260;"	d
+MAG3110	def.h	1512;"	d
+MAG_ADDRESS	Sensors.cpp	1013;"	d	file:
+MAG_ADDRESS	Sensors.cpp	1079;"	d	file:
+MAG_ADDRESS	Sensors.cpp	1128;"	d	file:
+MAG_ADDRESS	Sensors.cpp	970;"	d	file:
+MAG_CTRL_REG1	Sensors.cpp	972;"	d	file:
+MAG_CTRL_REG2	Sensors.cpp	973;"	d	file:
+MAG_DATA_REGISTER	Sensors.cpp	1014;"	d	file:
+MAG_DATA_REGISTER	Sensors.cpp	1080;"	d	file:
+MAG_DATA_REGISTER	Sensors.cpp	1129;"	d	file:
+MAG_DATA_REGISTER	Sensors.cpp	971;"	d	file:
+MAG_DECLINATION	config.h	730;"	d
+MAG_MODE	types.h	/^  uint8_t MAG_MODE :1 ;$/;"	m	struct:__anon16
+MAG_ORIENTATION	Sensors.cpp	28;"	d	file:
+MAG_ORIENTATION	def.h	1002;"	d
+MAG_ORIENTATION	def.h	1013;"	d
+MAG_ORIENTATION	def.h	1023;"	d
+MAG_ORIENTATION	def.h	1036;"	d
+MAG_ORIENTATION	def.h	1049;"	d
+MAG_ORIENTATION	def.h	1060;"	d
+MAG_ORIENTATION	def.h	1070;"	d
+MAG_ORIENTATION	def.h	1080;"	d
+MAG_ORIENTATION	def.h	1090;"	d
+MAG_ORIENTATION	def.h	1099;"	d
+MAG_ORIENTATION	def.h	1117;"	d
+MAG_ORIENTATION	def.h	1129;"	d
+MAG_ORIENTATION	def.h	1147;"	d
+MAG_ORIENTATION	def.h	1164;"	d
+MAG_ORIENTATION	def.h	1195;"	d
+MAG_ORIENTATION	def.h	1214;"	d
+MAG_ORIENTATION	def.h	1233;"	d
+MAG_ORIENTATION	def.h	1242;"	d
+MAG_ORIENTATION	def.h	1251;"	d
+MAG_ORIENTATION	def.h	1264;"	d
+MAG_ORIENTATION	def.h	1279;"	d
+MAG_ORIENTATION	def.h	1290;"	d
+MAG_ORIENTATION	def.h	1301;"	d
+MAG_ORIENTATION	def.h	1312;"	d
+MAG_ORIENTATION	def.h	1331;"	d
+MAG_ORIENTATION	def.h	1350;"	d
+MAG_ORIENTATION	def.h	1363;"	d
+MAG_ORIENTATION	def.h	1371;"	d
+MAG_ORIENTATION	def.h	1381;"	d
+MAG_ORIENTATION	def.h	1392;"	d
+MAG_ORIENTATION	def.h	1402;"	d
+MAG_ORIENTATION	def.h	1414;"	d
+MAG_ORIENTATION	def.h	1424;"	d
+MAG_ORIENTATION	def.h	1465;"	d
+MAG_ORIENTATION	def.h	1474;"	d
+MAG_ORIENTATION	def.h	1482;"	d
+MAG_ORIENTATION	def.h	1516;"	d
+MAG_ORIENTATION	def.h	1531;"	d
+MAG_ORIENTATION	def.h	1541;"	d
+MAG_ORIENTATION	def.h	1550;"	d
+MAG_ORIENTATION	def.h	1637;"	d
+MAG_ORIENTATION	def.h	1946;"	d
+MAG_ORIENTATION	def.h	1947;"	d
+MAG_ORIENTATION	def.h	882;"	d
+MAG_ORIENTATION	def.h	892;"	d
+MAG_ORIENTATION	def.h	901;"	d
+MAG_ORIENTATION	def.h	912;"	d
+MAG_ORIENTATION	def.h	923;"	d
+MAG_ORIENTATION	def.h	946;"	d
+MAXCHECK	MultiWii.h	11;"	d
+MAXTHROTTLE	config.h	67;"	d
+MAXTHROTTLE	def.h	1447;"	d
+MAX_NAV_ALTITUDE	config.h	747;"	d
+MAX_SERV	LCD.cpp	1622;"	d	file:
+MAX_SERV	LCD.cpp	1624;"	d	file:
+MAX_SERV	LCD.cpp	1625;"	d	file:
+MEGA	def.h	150;"	d
+MEGA_HW_PWM_SERVOS	config.h	1054;"	d
+MEGA_HW_PWM_SERVOS	def.h	77;"	d
+MIDRC	config.h	1029;"	d
+MINCHECK	MultiWii.h	10;"	d
+MINCOMMAND	config.h	72;"	d
+MINTHROTTLE	config.h	63;"	d
+MINTHROTTLE	def.h	1446;"	d
+MISSION_FLAG_CRC_ERROR	MultiWii.h	175;"	d
+MISSION_FLAG_DO_LAND	MultiWii.h	178;"	d
+MISSION_FLAG_END	MultiWii.h	174;"	d
+MISSION_FLAG_HOLD	MultiWii.h	177;"	d
+MISSION_FLAG_HOME	MultiWii.h	176;"	d
+MISSION_FLAG_NAV_IN_PROG	MultiWii.h	179;"	d
+MISSION_HOLD_TIME	MultiWii.h	166;"	d
+MISSION_HOLD_UNLIM	MultiWii.h	165;"	d
+MISSION_JUMP	MultiWii.h	169;"	d
+MISSION_LAND	MultiWii.h	171;"	d
+MISSION_RTH	MultiWii.h	167;"	d
+MISSION_SET_HEADING	MultiWii.h	170;"	d
+MISSION_SET_POI	MultiWii.h	168;"	d
+MISSION_WAYPOINT	MultiWii.h	164;"	d
+MMA7455_ADDRESS	Sensors.cpp	594;"	d	file:
+MMA8451Q	def.h	1510;"	d
+MMA8451Q_ADDRESS	Sensors.cpp	618;"	d	file:
+MMGYRO	def.h	56;"	d
+MMGYROVECTORLENGTH	def.h	57;"	d
+MOTOR_STOP	def.h	1455;"	d
+MPU3050	def.h	1626;"	d
+MPU6050	def.h	1103;"	d
+MPU6050	def.h	1112;"	d
+MPU6050	def.h	1152;"	d
+MPU6050	def.h	1182;"	d
+MPU6050	def.h	1190;"	d
+MPU6050	def.h	1202;"	d
+MPU6050	def.h	1237;"	d
+MPU6050	def.h	1246;"	d
+MPU6050	def.h	1259;"	d
+MPU6050	def.h	1296;"	d
+MPU6050	def.h	1307;"	d
+MPU6050	def.h	1318;"	d
+MPU6050	def.h	1397;"	d
+MPU6050	def.h	1419;"	d
+MPU6050	def.h	1442;"	d
+MPU6050	def.h	1469;"	d
+MPU6050	def.h	1491;"	d
+MPU6050	def.h	1525;"	d
+MPU6050	def.h	1536;"	d
+MPU6050	def.h	1546;"	d
+MPU6050	def.h	1619;"	d
+MPU6050	def.h	1632;"	d
+MPU6050	def.h	941;"	d
+MPU6050	def.h	952;"	d
+MPU6050_ADDRESS	Sensors.cpp	1152;"	d	file:
+MPU6050_ADDRESS	def.h	1185;"	d
+MPU6050_ADDRESS	def.h	1196;"	d
+MPU6050_EN_I2C_BYPASS	def.h	1403;"	d
+MPU6050_EN_I2C_BYPASS	def.h	1475;"	d
+MPU6050_EN_I2C_BYPASS	def.h	1551;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1197;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1265;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1302;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1313;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1425;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1483;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1527;"	d
+MPU6050_I2C_AUX_MASTER	def.h	1538;"	d
+MPU6050_I2C_AUX_MASTER	def.h	947;"	d
+MS561101BA	def.h	1032;"	d
+MS561101BA	def.h	1125;"	d
+MS561101BA	def.h	1167;"	d
+MS561101BA	def.h	1192;"	d
+MS561101BA	def.h	1248;"	d
+MS561101BA	def.h	1261;"	d
+MS561101BA	def.h	1298;"	d
+MS561101BA	def.h	1347;"	d
+MS561101BA	def.h	1421;"	d
+MS561101BA	def.h	1471;"	d
+MS561101BA	def.h	1492;"	d
+MS561101BA	def.h	1511;"	d
+MS561101BA	def.h	1528;"	d
+MS561101BA	def.h	926;"	d
+MS561101BA	def.h	943;"	d
+MS561101BA_ADDRESS	Sensors.cpp	482;"	d	file:
+MS561101BA_ADDRESS	def.h	1252;"	d
+MS561101BA_ADDRESS	def.h	1266;"	d
+MS561101BA_OSR_1024	Sensors.cpp	494;"	d	file:
+MS561101BA_OSR_2048	Sensors.cpp	495;"	d	file:
+MS561101BA_OSR_256	Sensors.cpp	492;"	d	file:
+MS561101BA_OSR_4096	Sensors.cpp	496;"	d	file:
+MS561101BA_OSR_512	Sensors.cpp	493;"	d	file:
+MS561101BA_PRESSURE	Sensors.cpp	487;"	d	file:
+MS561101BA_RESET	Sensors.cpp	489;"	d	file:
+MS561101BA_TEMPERATURE	Sensors.cpp	488;"	d	file:
+MSG_ACK_ACK	GPS.cpp	/^  MSG_ACK_ACK = 0x01,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_ACK_NACK	GPS.cpp	/^  MSG_ACK_NACK = 0x00,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_CFG_NAV_SETTINGS	GPS.cpp	/^  MSG_CFG_NAV_SETTINGS = 0x24$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_CFG_PRT	GPS.cpp	/^  MSG_CFG_PRT = 0x00,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_CFG_RATE	GPS.cpp	/^  MSG_CFG_RATE = 0x08,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_CFG_SET_RATE	GPS.cpp	/^  MSG_CFG_SET_RATE = 0x01,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_POSLLH	GPS.cpp	/^  MSG_POSLLH = 0x2,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_SOL	GPS.cpp	/^  MSG_SOL = 0x6,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_STATUS	GPS.cpp	/^  MSG_STATUS = 0x3,$/;"	e	enum:ubs_protocol_bytes	file:
+MSG_VELNED	GPS.cpp	/^  MSG_VELNED = 0x12,$/;"	e	enum:ubs_protocol_bytes	file:
+MSP_ACC_CALIBRATION	Protocol.cpp	55;"	d	file:
+MSP_ACC_TRIM	Protocol.cpp	67;"	d	file:
+MSP_ALTITUDE	Protocol.cpp	32;"	d	file:
+MSP_ANALOG	Protocol.cpp	33;"	d	file:
+MSP_ATTITUDE	Protocol.cpp	31;"	d	file:
+MSP_BIND	Protocol.cpp	68;"	d	file:
+MSP_BOX	Protocol.cpp	36;"	d	file:
+MSP_BOXIDS	Protocol.cpp	42;"	d	file:
+MSP_BOXNAMES	Protocol.cpp	39;"	d	file:
+MSP_CELLS	Protocol.cpp	48;"	d	file:
+MSP_COMP_GPS	Protocol.cpp	30;"	d	file:
+MSP_DEBUG	Protocol.cpp	73;"	d	file:
+MSP_DEBUGMSG	Protocol.cpp	72;"	d	file:
+MSP_EEPROM_WRITE	Protocol.cpp	70;"	d	file:
+MSP_IDENT	Protocol.cpp	23;"	d	file:
+MSP_MAG_CALIBRATION	Protocol.cpp	56;"	d	file:
+MSP_MISC	Protocol.cpp	37;"	d	file:
+MSP_MOTOR	Protocol.cpp	27;"	d	file:
+MSP_MOTOR_PINS	Protocol.cpp	38;"	d	file:
+MSP_NAV_CONFIG	Protocol.cpp	46;"	d	file:
+MSP_NAV_STATUS	Protocol.cpp	45;"	d	file:
+MSP_PID	Protocol.cpp	35;"	d	file:
+MSP_PIDNAMES	Protocol.cpp	40;"	d	file:
+MSP_PRIVATE	Protocol.cpp	21;"	d	file:
+MSP_RAW_GPS	Protocol.cpp	29;"	d	file:
+MSP_RAW_IMU	Protocol.cpp	25;"	d	file:
+MSP_RC	Protocol.cpp	28;"	d	file:
+MSP_RC_TUNING	Protocol.cpp	34;"	d	file:
+MSP_RESET_CONF	Protocol.cpp	58;"	d	file:
+MSP_SELECT_SETTING	Protocol.cpp	60;"	d	file:
+MSP_SERVO	Protocol.cpp	26;"	d	file:
+MSP_SERVO_CONF	Protocol.cpp	43;"	d	file:
+MSP_SET_ACC_TRIM	Protocol.cpp	66;"	d	file:
+MSP_SET_BOX	Protocol.cpp	53;"	d	file:
+MSP_SET_HEAD	Protocol.cpp	61;"	d	file:
+MSP_SET_MISC	Protocol.cpp	57;"	d	file:
+MSP_SET_MOTOR	Protocol.cpp	63;"	d	file:
+MSP_SET_NAV_CONFIG	Protocol.cpp	64;"	d	file:
+MSP_SET_PID	Protocol.cpp	52;"	d	file:
+MSP_SET_RAW_GPS	Protocol.cpp	51;"	d	file:
+MSP_SET_RAW_RC	Protocol.cpp	50;"	d	file:
+MSP_SET_RC_TUNING	Protocol.cpp	54;"	d	file:
+MSP_SET_SERVO_CONF	Protocol.cpp	62;"	d	file:
+MSP_SET_WP	Protocol.cpp	59;"	d	file:
+MSP_STATUS	Protocol.cpp	24;"	d	file:
+MSP_VERSION	Protocol.cpp	16;"	d	file:
+MSP_WP	Protocol.cpp	41;"	d	file:
+MSP_protocol_bytes	Protocol.cpp	/^enum MSP_protocol_bytes {$/;"	g	file:
+MTK_BINARY19	def.h	1520;"	d
+MTK_NAVTHRES_OFF	GPS.cpp	1290;"	d	file:
+MTK_OUTPUT_10HZ	GPS.cpp	1289;"	d	file:
+MTK_OUTPUT_4HZ	GPS.cpp	1287;"	d	file:
+MTK_OUTPUT_5HZ	GPS.cpp	1288;"	d	file:
+MTK_SET_BINARY	GPS.cpp	1284;"	d	file:
+MTK_SET_NMEA	GPS.cpp	1285;"	d	file:
+MTK_SET_NMEA_SENTENCES	GPS.cpp	1286;"	d	file:
+MULTILINE_POST	def.h	1855;"	d
+MULTILINE_POST	def.h	1865;"	d
+MULTILINE_POST	def.h	1875;"	d
+MULTILINE_POST	def.h	1885;"	d
+MULTILINE_POST	def.h	1892;"	d
+MULTILINE_PRE	def.h	1852;"	d
+MULTILINE_PRE	def.h	1862;"	d
+MULTILINE_PRE	def.h	1872;"	d
+MULTILINE_PRE	def.h	1882;"	d
+MULTILINE_PRE	def.h	1889;"	d
+MULTIPLE_CONFIGURATION_PROFILES	def.h	81;"	d
+MULTITYPE	def.h	1701;"	d
+MULTITYPE	def.h	1703;"	d
+MULTITYPE	def.h	1705;"	d
+MULTITYPE	def.h	1707;"	d
+MULTITYPE	def.h	1710;"	d
+MULTITYPE	def.h	1712;"	d
+MULTITYPE	def.h	1714;"	d
+MULTITYPE	def.h	1716;"	d
+MULTITYPE	def.h	1719;"	d
+MULTITYPE	def.h	1721;"	d
+MULTITYPE	def.h	1723;"	d
+MULTITYPE	def.h	1725;"	d
+MULTITYPE	def.h	1727;"	d
+MULTITYPE	def.h	1729;"	d
+MULTITYPE	def.h	1732;"	d
+MULTITYPE	def.h	1734;"	d
+MULTITYPE	def.h	1737;"	d
+MULTITYPE	def.h	1739;"	d
+MULTITYPE	def.h	1741;"	d
+MULTITYPE	def.h	1744;"	d
+MULTIWII_H_	MultiWii.h	2;"	d
+Mag_getADC	Sensors.cpp	/^uint8_t Mag_getADC() { \/\/ return 1 when news values are available, 0 otherwise$/;"	f
+Mag_init	Sensors.cpp	/^  void Mag_init() {$/;"	f
+Mag_init	Sensors.cpp	/^static void Mag_init() {$/;"	f	file:
+Mag_init	Sensors.cpp	/^void Mag_init() { $/;"	f
+Mag_init	Sensors.cpp	/^void Mag_init() {$/;"	f
+MultiS16X16to32	IMU.cpp	145;"	d	file:
+NANOWII	def.h	89;"	d
+NAVCAP	def.h	1676;"	d
+NAVCAP	def.h	1678;"	d
+NAVI_VERSION	MultiWii.h	5;"	d
+NAV_BANK_MAX	config.h	758;"	d
+NAV_CONTROLS_HEADING	config.h	720;"	d
+NAV_D	MultiWii.h	202;"	d
+NAV_ERROR_DISARMED	types.h	/^  NAV_ERROR_DISARMED,            \/\/NAV engine disabled due disarm$/;"	e	enum:naverror
+NAV_ERROR_FINISH	types.h	/^  NAV_ERROR_FINISH,              \/\/End flag detected, navigation finished$/;"	e	enum:naverror
+NAV_ERROR_GPS_FIX_LOST	types.h	/^  NAV_ERROR_GPS_FIX_LOST,        \/\/Gps fix lost, aborting mission$/;"	e	enum:naverror
+NAV_ERROR_INVALID_DATA	types.h	/^  NAV_ERROR_INVALID_DATA,        \/\/Invalid mission step action code, aborting, copter is adrift$/;"	e	enum:naverror
+NAV_ERROR_INVALID_JUMP	types.h	/^  NAV_ERROR_INVALID_JUMP,        \/\/Invalid jump target detected, aborting$/;"	e	enum:naverror
+NAV_ERROR_LANDING	types.h	/^  NAV_ERROR_LANDING              \/\/Landing$/;"	e	enum:naverror
+NAV_ERROR_NONE	types.h	/^  NAV_ERROR_NONE = 0,            \/\/All systems clear$/;"	e	enum:naverror
+NAV_ERROR_SPOILED_GPS	types.h	/^  NAV_ERROR_SPOILED_GPS,         \/\/GPS reception is compromised - Nav paused - copter is adrift !$/;"	e	enum:naverror
+NAV_ERROR_TIMEWAIT	types.h	/^  NAV_ERROR_TIMEWAIT,            \/\/Waiting for poshold timer$/;"	e	enum:naverror
+NAV_ERROR_TOOFAR	types.h	/^  NAV_ERROR_TOOFAR,              \/\/Next waypoint distance is more than safety distance$/;"	e	enum:naverror
+NAV_ERROR_WAIT_FOR_RTH_ALT	types.h	/^  NAV_ERROR_WAIT_FOR_RTH_ALT,    \/\/Waiting to reach RTH Altitude$/;"	e	enum:naverror
+NAV_ERROR_WP_CRC	types.h	/^  NAV_ERROR_WP_CRC,              \/\/CRC error reading WP data from EEPROM - Nav stopped$/;"	e	enum:naverror
+NAV_I	MultiWii.h	201;"	d
+NAV_IMAX	MultiWii.h	203;"	d
+NAV_P	MultiWii.h	200;"	d
+NAV_SET_TAKEOFF_HEADING	config.h	724;"	d
+NAV_SLOW_NAV	config.h	754;"	d
+NAV_SPEED_MAX	config.h	752;"	d
+NAV_SPEED_MIN	config.h	750;"	d
+NAV_STATE_DO_JUMP	types.h	/^  NAV_STATE_DO_JUMP,$/;"	e	enum:navstate
+NAV_STATE_HOLD_INFINIT	types.h	/^  NAV_STATE_HOLD_INFINIT,$/;"	e	enum:navstate
+NAV_STATE_HOLD_TIMED	types.h	/^  NAV_STATE_HOLD_TIMED,$/;"	e	enum:navstate
+NAV_STATE_LANDED	types.h	/^  NAV_STATE_LANDED,$/;"	e	enum:navstate
+NAV_STATE_LAND_IN_PROGRESS	types.h	/^  NAV_STATE_LAND_IN_PROGRESS,$/;"	e	enum:navstate
+NAV_STATE_LAND_SETTLE	types.h	/^  NAV_STATE_LAND_SETTLE,$/;"	e	enum:navstate
+NAV_STATE_LAND_START	types.h	/^  NAV_STATE_LAND_START,$/;"	e	enum:navstate
+NAV_STATE_LAND_START_DESCENT	types.h	/^  NAV_STATE_LAND_START_DESCENT$/;"	e	enum:navstate
+NAV_STATE_NONE	types.h	/^  NAV_STATE_NONE = 0,$/;"	e	enum:navstate
+NAV_STATE_PROCESS_NEXT	types.h	/^  NAV_STATE_PROCESS_NEXT,$/;"	e	enum:navstate
+NAV_STATE_RTH_ENROUTE	types.h	/^  NAV_STATE_RTH_ENROUTE,$/;"	e	enum:navstate
+NAV_STATE_RTH_START	types.h	/^  NAV_STATE_RTH_START,$/;"	e	enum:navstate
+NAV_STATE_WP_ENROUTE	types.h	/^  NAV_STATE_WP_ENROUTE,$/;"	e	enum:navstate
+NAV_STATUS_FIX_VALID	GPS.cpp	/^  NAV_STATUS_FIX_VALID = 1$/;"	e	enum:ubx_nav_status_bits	file:
+NAV_TAIL_FIRST	config.h	722;"	d
+NAV_TAKEOVER_BARO	config.h	766;"	d
+NAV_error	MultiWii.cpp	/^  uint8_t NAV_error = 0; \/\/ NAV_ERROR_NONE;$/;"	v
+NAV_paused_at	MultiWii.cpp	/^  uint8_t NAV_paused_at = 0;              \/\/ This contains the mission step where poshold paused the runing mission.$/;"	v
+NAV_state	MultiWii.cpp	/^  uint8_t NAV_state = 0; \/\/ NAV_STATE_NONE;  \/\/\/ State of the nav engine$/;"	v
+NEUTRALIZE_DELAY	config.h	510;"	d
+NMEA	def.h	39;"	d
+NOP	def.h	1601;"	d
+NO_FLASH_CHECK	config.h	992;"	d
+NO_FLASH_CHECK	def.h	110;"	d
+NO_VBAT	config.h	906;"	d
+NO_VBAT	def.h	1454;"	d
+NUMBER_MOTOR	def.h	193;"	d
+NUMBER_MOTOR	def.h	199;"	d
+NUMBER_MOTOR	def.h	202;"	d
+NUMBER_MOTOR	def.h	206;"	d
+NUMBER_MOTOR	def.h	210;"	d
+NUMBER_MOTOR	def.h	215;"	d
+NUMBER_MOTOR	def.h	218;"	d
+NUMBER_MOTOR	def.h	228;"	d
+NUMBER_MOTOR	def.h	232;"	d
+NUMBER_MOTOR	def.h	236;"	d
+NUMBER_MOTOR	def.h	238;"	d
+NUMBER_MOTOR	def.h	240;"	d
+NUMBER_MOTOR	def.h	244;"	d
+NUMBER_MOTOR	def.h	247;"	d
+OK_TO_ARM	types.h	/^  uint8_t OK_TO_ARM :1 ;$/;"	m	struct:__anon16
+OLED_DIGOLE	def.h	101;"	d
+OLED_DIGOLE	def.h	83;"	d
+OLED_DIGOLE_ADDRESS	LCD.cpp	565;"	d	file:
+OLED_I2C_128x64	def.h	48;"	d
+OLED_address	LCD.cpp	65;"	d	file:
+ONLYARMWHENFLAT	config.h	232;"	d
+OSR	Sensors.cpp	498;"	d	file:
+OSS	Sensors.cpp	353;"	d	file:
+OUTPUT_H_	Output.h	2;"	d
+P8	types.h	/^  uint8_t P8;$/;"	m	struct:pid_
+PARAMMAX	LCD.cpp	1425;"	d	file:
+PASSTHRU_MODE	types.h	/^  uint8_t PASSTHRU_MODE :1 ;$/;"	m	struct:__anon16
+PCINT_PIN_COUNT	def.h	338;"	d
+PCINT_PIN_COUNT	def.h	530;"	d
+PCINT_PIN_COUNT	def.h	533;"	d
+PCINT_PIN_COUNT	def.h	608;"	d
+PCINT_RX_BITS	def.h	339;"	d
+PCINT_RX_BITS	def.h	531;"	d
+PCINT_RX_BITS	def.h	534;"	d
+PCINT_RX_BITS	def.h	609;"	d
+PCINT_RX_MASK	def.h	341;"	d
+PCINT_RX_MASK	def.h	537;"	d
+PCINT_RX_MASK	def.h	611;"	d
+PCINT_RX_PORT	def.h	340;"	d
+PCINT_RX_PORT	def.h	536;"	d
+PCINT_RX_PORT	def.h	610;"	d
+PCIR_PORT_BIT	def.h	342;"	d
+PCIR_PORT_BIT	def.h	538;"	d
+PCIR_PORT_BIT	def.h	612;"	d
+PCInt_RX_Pins	RX.cpp	/^  static uint8_t PCInt_RX_Pins[PCINT_PIN_COUNT] = {PCINT_RX_BITS}; \/\/ if this slowes the PCINT readings we can switch to a define for each pcint bit$/;"	v	file:
+PID	GPS.cpp	/^} PID;$/;"	t	typeref:struct:PID_	file:
+PIDALT	types.h	/^  PIDALT,$/;"	e	enum:pid
+PIDITEMS	types.h	/^  PIDITEMS$/;"	e	enum:pid
+PIDLEVEL	types.h	/^  PIDLEVEL,$/;"	e	enum:pid
+PIDMAG	types.h	/^  PIDMAG,$/;"	e	enum:pid
+PIDMIX	Output.cpp	1132;"	d	file:
+PIDNAVR	types.h	/^  PIDNAVR,$/;"	e	enum:pid
+PIDPITCH	types.h	/^  PIDPITCH,$/;"	e	enum:pid
+PIDPOS	types.h	/^  PIDPOS,$/;"	e	enum:pid
+PIDPOSR	types.h	/^  PIDPOSR,$/;"	e	enum:pid
+PIDROLL	types.h	/^  PIDROLL,$/;"	e	enum:pid
+PIDVEL	types.h	/^  PIDVEL,     \/\/ not used currently$/;"	e	enum:pid
+PIDYAW	types.h	/^  PIDYAW,$/;"	e	enum:pid
+PID_	GPS.cpp	/^typedef struct PID_ {$/;"	s	file:
+PID_CONTROLLER	config.h	226;"	d
+PID_CONTROLLER	def.h	115;"	d
+PID_PARAM	GPS.cpp	/^  } PID_PARAM;$/;"	t	typeref:struct:PID_PARAM_	file:
+PID_PARAM_	GPS.cpp	/^typedef struct PID_PARAM_ {$/;"	s	file:
+PILOTLAMP	def.h	288;"	d
+PINMODE_LCD	def.h	319;"	d
+PINMODE_LCD	def.h	447;"	d
+PINMODE_LCD	def.h	582;"	d
+PINMODE_LCD	def.h	667;"	d
+PINT2mA	config.h	932;"	d
+PITCH	types.h	/^  PITCH,$/;"	e	enum:rc
+PITCHPIN	def.h	331;"	d
+PITCHPIN	def.h	517;"	d
+PITCHPIN	def.h	522;"	d
+PITCHPIN	def.h	600;"	d
+PIT_CE	MultiWii.cpp	261;"	d	file:
+PIT_HI	MultiWii.cpp	262;"	d	file:
+PIT_LO	MultiWii.cpp	260;"	d	file:
+PLEVELDIV	def.h	1770;"	d
+PLEVELDIVSOFT	def.h	1769;"	d
+PLEVELSCALE	def.h	1768;"	d
+PLOG_SIZE	EEPROM.cpp	245;"	d	file:
+PLOG_SIZE	EEPROM.cpp	247;"	d	file:
+PL_BLU_OFF	def.h	1782;"	d
+PL_BLU_ON	def.h	1781;"	d
+PL_BUF_SIZE	Alarms.cpp	249;"	d	file:
+PL_BZR_OFF	def.h	1786;"	d
+PL_BZR_ON	def.h	1785;"	d
+PL_CHANNEL	def.h	1774;"	d
+PL_GRN_OFF	def.h	1780;"	d
+PL_GRN_ON	def.h	1779;"	d
+PL_IDLE	def.h	1787;"	d
+PL_INIT	def.h	1776;"	d
+PL_ISR	def.h	1775;"	d
+PL_PIN_OFF	def.h	292;"	d
+PL_PIN_OFF	def.h	417;"	d
+PL_PIN_OFF	def.h	427;"	d
+PL_PIN_OFF	def.h	436;"	d
+PL_PIN_OFF	def.h	565;"	d
+PL_PIN_ON	def.h	291;"	d
+PL_PIN_ON	def.h	416;"	d
+PL_PIN_ON	def.h	426;"	d
+PL_PIN_ON	def.h	435;"	d
+PL_PIN_ON	def.h	564;"	d
+PL_RED_OFF	def.h	1784;"	d
+PL_RED_ON	def.h	1783;"	d
+PMOTOR_SUM	MultiWii.h	79;"	d
+POSHOLD_I	MultiWii.h	191;"	d
+POSHOLD_IMAX	MultiWii.h	192;"	d
+POSHOLD_P	MultiWii.h	190;"	d
+POSHOLD_RATE_D	MultiWii.h	196;"	d
+POSHOLD_RATE_I	MultiWii.h	195;"	d
+POSHOLD_RATE_IMAX	MultiWii.h	197;"	d
+POSHOLD_RATE_P	MultiWii.h	194;"	d
+POSSIBLE_OFFSET	LCD.cpp	2347;"	d	file:
+POWERMETER	def.h	1767;"	d
+POWERMETER_HARD	def.h	120;"	d
+POWERMETER_HARD	def.h	24;"	d
+POWERMETER_SOFT	def.h	18;"	d
+POWERMETER_SOFT	def.h	55;"	d
+POWERPIN_OFF	def.h	1759;"	d
+POWERPIN_OFF	def.h	1762;"	d
+POWERPIN_OFF	def.h	307;"	d
+POWERPIN_OFF	def.h	311;"	d
+POWERPIN_OFF	def.h	444;"	d
+POWERPIN_OFF	def.h	574;"	d
+POWERPIN_OFF	def.h	578;"	d
+POWERPIN_OFF	def.h	663;"	d
+POWERPIN_ON	def.h	1758;"	d
+POWERPIN_ON	def.h	1761;"	d
+POWERPIN_ON	def.h	306;"	d
+POWERPIN_ON	def.h	310;"	d
+POWERPIN_ON	def.h	443;"	d
+POWERPIN_ON	def.h	573;"	d
+POWERPIN_ON	def.h	577;"	d
+POWERPIN_ON	def.h	662;"	d
+POWERPIN_PINMODE	def.h	1757;"	d
+POWERPIN_PINMODE	def.h	1760;"	d
+POWERPIN_PINMODE	def.h	305;"	d
+POWERPIN_PINMODE	def.h	309;"	d
+POWERPIN_PINMODE	def.h	442;"	d
+POWERPIN_PINMODE	def.h	572;"	d
+POWERPIN_PINMODE	def.h	576;"	d
+POWERPIN_PINMODE	def.h	661;"	d
+PPM_PIN_INTERRUPT	def.h	326;"	d
+PPM_PIN_INTERRUPT	def.h	453;"	d
+PPM_PIN_INTERRUPT	def.h	590;"	d
+PPM_PIN_INTERRUPT	def.h	592;"	d
+PREAMBLE1	GPS.cpp	/^  PREAMBLE1 = 0xb5,$/;"	e	enum:ubs_protocol_bytes	file:
+PREAMBLE1	GPS.cpp	/^  PREAMBLE1 = 0xd0,$/;"	e	enum:diyd_mtk_protocol_bytes	file:
+PREAMBLE1	GPS.cpp	/^  PREAMBLE1 = 0xd1,$/;"	e	enum:diyd_mtk_protocol_bytes	file:
+PREAMBLE2	GPS.cpp	/^  PREAMBLE2 = 0x62,$/;"	e	enum:ubs_protocol_bytes	file:
+PREAMBLE2	GPS.cpp	/^  PREAMBLE2 = 0xdd,$/;"	e	enum:diyd_mtk_protocol_bytes	file:
+PRINT_FREE_RAM	LCD.cpp	2094;"	d	file:
+PRINT_FREE_RAM_v2	LCD.cpp	2111;"	d	file:
+PRI_SERVO_FROM	def.h	194;"	d
+PRI_SERVO_FROM	def.h	197;"	d
+PRI_SERVO_FROM	def.h	207;"	d
+PRI_SERVO_FROM	def.h	211;"	d
+PRI_SERVO_FROM	def.h	222;"	d
+PRI_SERVO_FROM	def.h	225;"	d
+PRI_SERVO_FROM	def.h	229;"	d
+PRI_SERVO_FROM	def.h	233;"	d
+PRI_SERVO_FROM	def.h	242;"	d
+PRI_SERVO_TO	def.h	195;"	d
+PRI_SERVO_TO	def.h	200;"	d
+PRI_SERVO_TO	def.h	203;"	d
+PRI_SERVO_TO	def.h	208;"	d
+PRI_SERVO_TO	def.h	212;"	d
+PRI_SERVO_TO	def.h	216;"	d
+PRI_SERVO_TO	def.h	219;"	d
+PRI_SERVO_TO	def.h	230;"	d
+PRI_SERVO_TO	def.h	234;"	d
+PRI_SERVO_TO	def.h	245;"	d
+PRI_SERVO_TO	def.h	248;"	d
+PROFILES	EEPROM.cpp	240;"	d	file:
+PROFILES	EEPROM.cpp	242;"	d	file:
+PROGMEM	GPS.cpp	/^const char UBLOX_INIT[] PROGMEM = {                                                  \/\/ PROGMEM array must be outside any function !!!$/;"	v
+PROGMEM	MultiWii.cpp	/^const char boxnames[] PROGMEM = \/\/ names for dynamic generation of config GUI$/;"	v
+PROGMEM	MultiWii.cpp	/^const char pidnames[] PROGMEM =$/;"	v
+PROGMEM	MultiWii.cpp	/^const uint8_t boxids[] PROGMEM = {\/\/ permanent IDs associated to boxes. This way, you can rely on an ID number to identify a BOX function.$/;"	v
+PROMICRO	def.h	147;"	d
+PROMINI	def.h	144;"	d
+PROTOCOL_H_	Protocol.h	2;"	d
+PSENSORNULL	config.h	930;"	d
+PSENSORPIN	def.h	1914;"	d
+PSENSORPIN	def.h	1915;"	d
+PSENSORPIN	def.h	346;"	d
+PSENSORPIN	def.h	550;"	d
+PSENSORPIN	def.h	552;"	d
+PSENSORPIN	def.h	607;"	d
+PSENSOR_SMOOTH	config.h	1161;"	d
+PWM_PIN	Output.cpp	/^      uint8_t PWM_PIN[8] = {14,15,9,12,22,18,16,17};   \/\/for a quad+: rear,right,left,front$/;"	v
+PWM_PIN	Output.cpp	/^      uint8_t PWM_PIN[8] = {14,15,9,12,4,10,16,17};   \/\/for a quad+: rear,right,left,front$/;"	v
+PWM_PIN	Output.cpp	/^      uint8_t PWM_PIN[8] = {6,9,10,11,5,13,SW_PWM_P3,SW_PWM_P4};   \/\/$/;"	v
+PWM_PIN	Output.cpp	/^      uint8_t PWM_PIN[8] = {9,10,5,6,11,13,SW_PWM_P3,SW_PWM_P4};   \/\/for a quad+: rear,right,left,front$/;"	v
+PWM_PIN	Output.cpp	/^    uint8_t PWM_PIN[8] = {9,10,5,6,4,A2,SW_PWM_P3,SW_PWM_P4};   \/\/for a quad+: rear,right,left,front$/;"	v
+PWM_PIN	Output.cpp	/^  uint8_t PWM_PIN[8] = {3,5,6,2,7,8,9,10};      \/\/for a quad+: rear,right,left,front   \/\/+ for y6: 7:under right  8:under left$/;"	v
+PWM_PIN	Output.cpp	/^  uint8_t PWM_PIN[8] = {9,10,11,3,6,5,A2,12};   \/\/for a quad+: rear,right,left,front$/;"	v
+PilotLamp	Alarms.cpp	/^  void PilotLamp(uint8_t count){$/;"	f
+PilotLampSequence	Alarms.cpp	/^  void PilotLampSequence(uint16_t speed, uint16_t pattern, uint8_t num_patterns){$/;"	f
+QUADP	def.h	8;"	d
+QUADX	config.h	39;"	d
+QUADX	def.h	34;"	d
+RADX100	GPS.cpp	134;"	d	file:
+RCAUX2PIND17	def.h	273;"	d
+RCAUXPIN	def.h	302;"	d
+RCAUXPIN	def.h	314;"	d
+RCAUXPIN8	config.h	424;"	d
+RCAUXPIN8	def.h	47;"	d
+RCNet_FC	def.h	1480;"	d
+RCOPTIONSBEEP	def.h	73;"	d
+RCOPTIONSBEEP	def.h	97;"	d
+RC_CHANS	def.h	1835;"	d
+RC_CHANS	def.h	1837;"	d
+RC_CHANS	def.h	1839;"	d
+REACHED_ALT	MultiWii.h	142;"	d
+RED_LED_pin	def.h	1593;"	d
+RF22B_PACKET_SENT_INTERRUPT	def.h	1607;"	d
+RF22B_PWRSTATE_POWERDOWN	def.h	1608;"	d
+RF22B_PWRSTATE_READY	def.h	1603;"	d
+RF22B_PWRSTATE_RX	def.h	1605;"	d
+RF22B_PWRSTATE_TX	def.h	1604;"	d
+RF22B_Rx_packet_received_interrupt	def.h	1606;"	d
+RF22B_init_parameter	RX.cpp	/^void RF22B_init_parameter(void) { $/;"	f
+RF_Header	RX.cpp	/^static uint8_t RF_Header[4] = {'O','L','R','S'};  $/;"	v	file:
+RF_Rx_Buffer	RX.cpp	/^static uint8_t RF_Rx_Buffer[17];$/;"	v	file:
+ROLL	types.h	/^  ROLL,$/;"	e	enum:rc
+ROLLPIN	def.h	330;"	d
+ROLLPIN	def.h	516;"	d
+ROLLPIN	def.h	521;"	d
+ROLLPIN	def.h	599;"	d
+ROL_CE	MultiWii.cpp	258;"	d	file:
+ROL_HI	MultiWii.cpp	259;"	d	file:
+ROL_LO	MultiWii.cpp	257;"	d	file:
+RSSI_SMOOTH	config.h	1163;"	d
+RTH_ALTITUDE	config.h	761;"	d
+RX_BUFFER_SIZE	Serial.h	11;"	d
+RX_COND	Protocol.cpp	189;"	d	file:
+RX_COND	Protocol.cpp	191;"	d	file:
+RX_H_	RX.h	2;"	d
+RX_PCINT_PIN_PORT	def.h	344;"	d
+RX_PCINT_PIN_PORT	def.h	540;"	d
+RX_PCINT_PIN_PORT	def.h	614;"	d
+RX_PC_INTERRUPT	def.h	343;"	d
+RX_PC_INTERRUPT	def.h	539;"	d
+RX_PC_INTERRUPT	def.h	613;"	d
+RX_PIN_CHECK	RX.cpp	120;"	d	file:
+RX_PIN_CHECK	RX.cpp	135;"	d	file:
+RX_RSSI	def.h	1694;"	d
+RX_SERIAL_PORT	def.h	327;"	d
+RX_SERIAL_PORT	def.h	455;"	d
+RX_SERIAL_PORT	def.h	595;"	d
+RX_SERIAL_PORT	def.h	655;"	d
+Read_OpenLRS_RC	RX.cpp	/^void Read_OpenLRS_RC() {$/;"	f
+Red_LED_OFF	def.h	1596;"	d
+Red_LED_ON	def.h	1595;"	d
+SAFE_WP_DISTANCE	config.h	744;"	d
+SBAS_ON	GPS.cpp	1291;"	d	file:
+SBAS_TEST_MODE	GPS.cpp	1293;"	d	file:
+SBUS_MID_OFFSET	config.h	398;"	d
+SBUS_SYNCBYTE	RX.cpp	308;"	d	file:
+SCK_off	def.h	1583;"	d
+SCK_on	def.h	1582;"	d
+SCLK_pin	def.h	1571;"	d
+SDI_off	def.h	1586;"	d
+SDI_on	def.h	1585;"	d
+SDI_pin	def.h	1570;"	d
+SDO_0	def.h	1589;"	d
+SDO_1	def.h	1588;"	d
+SDO_pin	def.h	1569;"	d
+SEC_SERVO_FROM	def.h	253;"	d
+SEC_SERVO_FROM	def.h	259;"	d
+SEC_SERVO_FROM	def.h	262;"	d
+SEC_SERVO_FROM	def.h	267;"	d
+SEC_SERVO_TO	def.h	254;"	d
+SEC_SERVO_TO	def.h	260;"	d
+SEC_SERVO_TO	def.h	263;"	d
+SEC_SERVO_TO	def.h	268;"	d
+SELF_TEST_HIGH_LIMIT	Sensors.cpp	1009;"	d	file:
+SELF_TEST_LOW_LIMIT	Sensors.cpp	1008;"	d	file:
+SENSORS_H_	Sensors.h	2;"	d
+SERIAL0_COM_SPEED	config.h	503;"	d
+SERIAL0_COM_SPEED	def.h	132;"	d
+SERIAL1_COM_SPEED	config.h	504;"	d
+SERIAL2_COM_SPEED	config.h	505;"	d
+SERIAL3_COM_SPEED	config.h	506;"	d
+SERIAL_H_	Serial.h	2;"	d
+SERIAL_RX	def.h	1801;"	d
+SERVO	def.h	172;"	d
+SERVODIR	Output.cpp	1133;"	d	file:
+SERVO_1K_US	Output.cpp	735;"	d	file:
+SERVO_1K_US	Output.cpp	744;"	d	file:
+SERVO_1K_US	Output.cpp	753;"	d	file:
+SERVO_1_ARR_POS	def.h	685;"	d
+SERVO_1_ARR_POS	def.h	693;"	d
+SERVO_1_ARR_POS	def.h	706;"	d
+SERVO_1_ARR_POS	def.h	723;"	d
+SERVO_1_ARR_POS	def.h	744;"	d
+SERVO_1_ARR_POS	def.h	769;"	d
+SERVO_1_ARR_POS	def.h	798;"	d
+SERVO_1_ARR_POS	def.h	831;"	d
+SERVO_1_HIGH	def.h	683;"	d
+SERVO_1_HIGH	def.h	691;"	d
+SERVO_1_HIGH	def.h	704;"	d
+SERVO_1_HIGH	def.h	721;"	d
+SERVO_1_HIGH	def.h	742;"	d
+SERVO_1_HIGH	def.h	767;"	d
+SERVO_1_HIGH	def.h	796;"	d
+SERVO_1_HIGH	def.h	829;"	d
+SERVO_1_HIGH	def.h	864;"	d
+SERVO_1_LOW	def.h	684;"	d
+SERVO_1_LOW	def.h	692;"	d
+SERVO_1_LOW	def.h	705;"	d
+SERVO_1_LOW	def.h	722;"	d
+SERVO_1_LOW	def.h	743;"	d
+SERVO_1_LOW	def.h	768;"	d
+SERVO_1_LOW	def.h	797;"	d
+SERVO_1_LOW	def.h	830;"	d
+SERVO_1_PINMODE	def.h	1430;"	d
+SERVO_1_PINMODE	def.h	1497;"	d
+SERVO_1_PINMODE	def.h	364;"	d
+SERVO_1_PINMODE	def.h	482;"	d
+SERVO_1_PINMODE	def.h	616;"	d
+SERVO_1_PIN_HIGH	def.h	1431;"	d
+SERVO_1_PIN_HIGH	def.h	1498;"	d
+SERVO_1_PIN_HIGH	def.h	365;"	d
+SERVO_1_PIN_HIGH	def.h	483;"	d
+SERVO_1_PIN_HIGH	def.h	617;"	d
+SERVO_1_PIN_LOW	def.h	1432;"	d
+SERVO_1_PIN_LOW	def.h	1499;"	d
+SERVO_1_PIN_LOW	def.h	366;"	d
+SERVO_1_PIN_LOW	def.h	484;"	d
+SERVO_1_PIN_LOW	def.h	618;"	d
+SERVO_2_ARR_POS	def.h	697;"	d
+SERVO_2_ARR_POS	def.h	710;"	d
+SERVO_2_ARR_POS	def.h	727;"	d
+SERVO_2_ARR_POS	def.h	748;"	d
+SERVO_2_ARR_POS	def.h	773;"	d
+SERVO_2_ARR_POS	def.h	802;"	d
+SERVO_2_ARR_POS	def.h	835;"	d
+SERVO_2_HIGH	def.h	695;"	d
+SERVO_2_HIGH	def.h	708;"	d
+SERVO_2_HIGH	def.h	725;"	d
+SERVO_2_HIGH	def.h	746;"	d
+SERVO_2_HIGH	def.h	771;"	d
+SERVO_2_HIGH	def.h	800;"	d
+SERVO_2_HIGH	def.h	833;"	d
+SERVO_2_LOW	def.h	696;"	d
+SERVO_2_LOW	def.h	709;"	d
+SERVO_2_LOW	def.h	726;"	d
+SERVO_2_LOW	def.h	747;"	d
+SERVO_2_LOW	def.h	772;"	d
+SERVO_2_LOW	def.h	801;"	d
+SERVO_2_LOW	def.h	834;"	d
+SERVO_2_PINMODE	def.h	1433;"	d
+SERVO_2_PINMODE	def.h	1500;"	d
+SERVO_2_PINMODE	def.h	367;"	d
+SERVO_2_PINMODE	def.h	485;"	d
+SERVO_2_PINMODE	def.h	619;"	d
+SERVO_2_PIN_HIGH	def.h	1434;"	d
+SERVO_2_PIN_HIGH	def.h	1501;"	d
+SERVO_2_PIN_HIGH	def.h	368;"	d
+SERVO_2_PIN_HIGH	def.h	486;"	d
+SERVO_2_PIN_HIGH	def.h	620;"	d
+SERVO_2_PIN_LOW	def.h	1435;"	d
+SERVO_2_PIN_LOW	def.h	1502;"	d
+SERVO_2_PIN_LOW	def.h	369;"	d
+SERVO_2_PIN_LOW	def.h	487;"	d
+SERVO_2_PIN_LOW	def.h	621;"	d
+SERVO_3_ARR_POS	def.h	714;"	d
+SERVO_3_ARR_POS	def.h	731;"	d
+SERVO_3_ARR_POS	def.h	752;"	d
+SERVO_3_ARR_POS	def.h	777;"	d
+SERVO_3_ARR_POS	def.h	806;"	d
+SERVO_3_ARR_POS	def.h	839;"	d
+SERVO_3_HIGH	def.h	712;"	d
+SERVO_3_HIGH	def.h	729;"	d
+SERVO_3_HIGH	def.h	750;"	d
+SERVO_3_HIGH	def.h	775;"	d
+SERVO_3_HIGH	def.h	804;"	d
+SERVO_3_HIGH	def.h	837;"	d
+SERVO_3_LOW	def.h	713;"	d
+SERVO_3_LOW	def.h	730;"	d
+SERVO_3_LOW	def.h	751;"	d
+SERVO_3_LOW	def.h	776;"	d
+SERVO_3_LOW	def.h	805;"	d
+SERVO_3_LOW	def.h	838;"	d
+SERVO_3_PINMODE	def.h	1436;"	d
+SERVO_3_PINMODE	def.h	1503;"	d
+SERVO_3_PINMODE	def.h	370;"	d
+SERVO_3_PINMODE	def.h	488;"	d
+SERVO_3_PINMODE	def.h	622;"	d
+SERVO_3_PINMODE	def.h	971;"	d
+SERVO_3_PINMODE	def.h	977;"	d
+SERVO_3_PIN_HIGH	def.h	1437;"	d
+SERVO_3_PIN_HIGH	def.h	1504;"	d
+SERVO_3_PIN_HIGH	def.h	371;"	d
+SERVO_3_PIN_HIGH	def.h	489;"	d
+SERVO_3_PIN_HIGH	def.h	623;"	d
+SERVO_3_PIN_HIGH	def.h	972;"	d
+SERVO_3_PIN_HIGH	def.h	978;"	d
+SERVO_3_PIN_LOW	def.h	1438;"	d
+SERVO_3_PIN_LOW	def.h	1505;"	d
+SERVO_3_PIN_LOW	def.h	372;"	d
+SERVO_3_PIN_LOW	def.h	490;"	d
+SERVO_3_PIN_LOW	def.h	624;"	d
+SERVO_3_PIN_LOW	def.h	973;"	d
+SERVO_3_PIN_LOW	def.h	979;"	d
+SERVO_4_ARR_POS	def.h	735;"	d
+SERVO_4_ARR_POS	def.h	756;"	d
+SERVO_4_ARR_POS	def.h	781;"	d
+SERVO_4_ARR_POS	def.h	810;"	d
+SERVO_4_ARR_POS	def.h	843;"	d
+SERVO_4_HIGH	def.h	733;"	d
+SERVO_4_HIGH	def.h	754;"	d
+SERVO_4_HIGH	def.h	779;"	d
+SERVO_4_HIGH	def.h	808;"	d
+SERVO_4_HIGH	def.h	841;"	d
+SERVO_4_LOW	def.h	734;"	d
+SERVO_4_LOW	def.h	755;"	d
+SERVO_4_LOW	def.h	780;"	d
+SERVO_4_LOW	def.h	809;"	d
+SERVO_4_LOW	def.h	842;"	d
+SERVO_4_PINMODE	def.h	1753;"	d
+SERVO_4_PINMODE	def.h	374;"	d
+SERVO_4_PINMODE	def.h	492;"	d
+SERVO_4_PINMODE	def.h	496;"	d
+SERVO_4_PINMODE	def.h	625;"	d
+SERVO_4_PINMODE	def.h	672;"	d
+SERVO_4_PINMODE	def.h	974;"	d
+SERVO_4_PINMODE	def.h	980;"	d
+SERVO_4_PIN_HIGH	def.h	1754;"	d
+SERVO_4_PIN_HIGH	def.h	375;"	d
+SERVO_4_PIN_HIGH	def.h	493;"	d
+SERVO_4_PIN_HIGH	def.h	497;"	d
+SERVO_4_PIN_HIGH	def.h	626;"	d
+SERVO_4_PIN_HIGH	def.h	673;"	d
+SERVO_4_PIN_HIGH	def.h	975;"	d
+SERVO_4_PIN_HIGH	def.h	981;"	d
+SERVO_4_PIN_LOW	def.h	1755;"	d
+SERVO_4_PIN_LOW	def.h	376;"	d
+SERVO_4_PIN_LOW	def.h	494;"	d
+SERVO_4_PIN_LOW	def.h	498;"	d
+SERVO_4_PIN_LOW	def.h	627;"	d
+SERVO_4_PIN_LOW	def.h	674;"	d
+SERVO_4_PIN_LOW	def.h	976;"	d
+SERVO_4_PIN_LOW	def.h	982;"	d
+SERVO_5_ARR_POS	def.h	760;"	d
+SERVO_5_ARR_POS	def.h	785;"	d
+SERVO_5_ARR_POS	def.h	814;"	d
+SERVO_5_ARR_POS	def.h	847;"	d
+SERVO_5_HIGH	def.h	758;"	d
+SERVO_5_HIGH	def.h	783;"	d
+SERVO_5_HIGH	def.h	812;"	d
+SERVO_5_HIGH	def.h	845;"	d
+SERVO_5_LOW	def.h	759;"	d
+SERVO_5_LOW	def.h	784;"	d
+SERVO_5_LOW	def.h	813;"	d
+SERVO_5_LOW	def.h	846;"	d
+SERVO_5_PINMODE	def.h	378;"	d
+SERVO_5_PINMODE	def.h	500;"	d
+SERVO_5_PINMODE	def.h	629;"	d
+SERVO_5_PIN_HIGH	def.h	379;"	d
+SERVO_5_PIN_HIGH	def.h	501;"	d
+SERVO_5_PIN_HIGH	def.h	630;"	d
+SERVO_5_PIN_LOW	def.h	380;"	d
+SERVO_5_PIN_LOW	def.h	502;"	d
+SERVO_5_PIN_LOW	def.h	631;"	d
+SERVO_6_ARR_POS	def.h	789;"	d
+SERVO_6_ARR_POS	def.h	818;"	d
+SERVO_6_ARR_POS	def.h	851;"	d
+SERVO_6_HIGH	def.h	787;"	d
+SERVO_6_HIGH	def.h	816;"	d
+SERVO_6_HIGH	def.h	849;"	d
+SERVO_6_LOW	def.h	788;"	d
+SERVO_6_LOW	def.h	817;"	d
+SERVO_6_LOW	def.h	850;"	d
+SERVO_6_PINMODE	def.h	381;"	d
+SERVO_6_PINMODE	def.h	503;"	d
+SERVO_6_PINMODE	def.h	632;"	d
+SERVO_6_PIN_HIGH	def.h	382;"	d
+SERVO_6_PIN_HIGH	def.h	504;"	d
+SERVO_6_PIN_HIGH	def.h	633;"	d
+SERVO_6_PIN_LOW	def.h	383;"	d
+SERVO_6_PIN_LOW	def.h	505;"	d
+SERVO_6_PIN_LOW	def.h	634;"	d
+SERVO_7_ARR_POS	def.h	822;"	d
+SERVO_7_ARR_POS	def.h	855;"	d
+SERVO_7_HIGH	def.h	820;"	d
+SERVO_7_HIGH	def.h	853;"	d
+SERVO_7_LOW	def.h	821;"	d
+SERVO_7_LOW	def.h	854;"	d
+SERVO_7_PINMODE	def.h	384;"	d
+SERVO_7_PINMODE	def.h	506;"	d
+SERVO_7_PINMODE	def.h	635;"	d
+SERVO_7_PIN_HIGH	def.h	385;"	d
+SERVO_7_PIN_HIGH	def.h	507;"	d
+SERVO_7_PIN_HIGH	def.h	636;"	d
+SERVO_7_PIN_LOW	def.h	386;"	d
+SERVO_7_PIN_LOW	def.h	508;"	d
+SERVO_7_PIN_LOW	def.h	637;"	d
+SERVO_8_ARR_POS	def.h	859;"	d
+SERVO_8_HIGH	def.h	857;"	d
+SERVO_8_LOW	def.h	858;"	d
+SERVO_8_PINMODE	def.h	387;"	d
+SERVO_8_PINMODE	def.h	509;"	d
+SERVO_8_PINMODE	def.h	638;"	d
+SERVO_8_PIN_HIGH	def.h	388;"	d
+SERVO_8_PIN_HIGH	def.h	510;"	d
+SERVO_8_PIN_HIGH	def.h	639;"	d
+SERVO_8_PIN_LOW	def.h	389;"	d
+SERVO_8_PIN_LOW	def.h	511;"	d
+SERVO_8_PIN_LOW	def.h	640;"	d
+SERVO_CHANNEL	Output.cpp	734;"	d	file:
+SERVO_CHANNEL	Output.cpp	743;"	d	file:
+SERVO_CHANNEL	Output.cpp	752;"	d	file:
+SERVO_END	Output.cpp	120;"	d	file:
+SERVO_END	Output.cpp	122;"	d	file:
+SERVO_END	Output.cpp	126;"	d	file:
+SERVO_END	Output.cpp	129;"	d	file:
+SERVO_ISR	Output.cpp	733;"	d	file:
+SERVO_ISR	Output.cpp	742;"	d	file:
+SERVO_ISR	Output.cpp	751;"	d	file:
+SERVO_LEFT	config.h	306;"	d
+SERVO_NICK	config.h	305;"	d
+SERVO_PIN5_RFR_RATE	def.h	94;"	d
+SERVO_PIN5_TOP_VAL	Output.cpp	875;"	d	file:
+SERVO_PULSE	Output.cpp	895;"	d	file:
+SERVO_RATES	def.h	157;"	d
+SERVO_RATES	def.h	1708;"	d
+SERVO_RATES	def.h	1717;"	d
+SERVO_RATES	def.h	1730;"	d
+SERVO_RATES	def.h	1735;"	d
+SERVO_RATES	def.h	1742;"	d
+SERVO_RATES	def.h	1952;"	d
+SERVO_RATES	def.h	1953;"	d
+SERVO_RFR_160HZ	def.h	53;"	d
+SERVO_RFR_50HZ	config.h	1033;"	d
+SERVO_RFR_50HZ	def.h	52;"	d
+SERVO_RFR_RATE	Output.cpp	760;"	d	file:
+SERVO_RFR_RATE	Output.cpp	763;"	d	file:
+SERVO_RFR_RATE	config.h	1067;"	d
+SERVO_RFR_RATE	def.h	78;"	d
+SERVO_RFR_RATE	def.h	93;"	d
+SERVO_RIGHT	config.h	307;"	d
+SERVO_START	Output.cpp	106;"	d	file:
+SERVO_START	Output.cpp	108;"	d	file:
+SERVO_START	Output.cpp	112;"	d	file:
+SERVO_START	Output.cpp	115;"	d	file:
+SERVO_TOP_VAL	Output.cpp	774;"	d	file:
+SERVO_TOP_VAL	Output.cpp	861;"	d	file:
+SET_ALARM	Alarms.h	95;"	d
+SET_ALARM_BUZZER	Alarms.h	97;"	d
+SET_ALARM_BUZZER	Alarms.h	99;"	d
+SIGNAL_SCALE	Alarms.cpp	605;"	d	file:
+SILENCE_A	Alarms.cpp	608;"	d	file:
+SILENCE_M	Alarms.cpp	606;"	d	file:
+SILENCE_SCALE	Alarms.cpp	607;"	d	file:
+SMALL_ANGLES_25	types.h	/^  uint8_t SMALL_ANGLES_25 :1 ;$/;"	m	struct:__anon16
+SOFT_PWM_1_PIN_HIGH	def.h	349;"	d
+SOFT_PWM_1_PIN_HIGH	def.h	354;"	d
+SOFT_PWM_1_PIN_HIGH	def.h	461;"	d
+SOFT_PWM_1_PIN_LOW	def.h	350;"	d
+SOFT_PWM_1_PIN_LOW	def.h	355;"	d
+SOFT_PWM_1_PIN_LOW	def.h	462;"	d
+SOFT_PWM_2_PIN_HIGH	def.h	351;"	d
+SOFT_PWM_2_PIN_HIGH	def.h	356;"	d
+SOFT_PWM_2_PIN_HIGH	def.h	463;"	d
+SOFT_PWM_2_PIN_LOW	def.h	352;"	d
+SOFT_PWM_2_PIN_LOW	def.h	357;"	d
+SOFT_PWM_2_PIN_LOW	def.h	464;"	d
+SOFT_PWM_3_PIN_HIGH	def.h	359;"	d
+SOFT_PWM_3_PIN_HIGH	def.h	466;"	d
+SOFT_PWM_3_PIN_HIGH	def.h	473;"	d
+SOFT_PWM_3_PIN_HIGH	def.h	957;"	d
+SOFT_PWM_3_PIN_HIGH	def.h	963;"	d
+SOFT_PWM_3_PIN_LOW	def.h	360;"	d
+SOFT_PWM_3_PIN_LOW	def.h	467;"	d
+SOFT_PWM_3_PIN_LOW	def.h	474;"	d
+SOFT_PWM_3_PIN_LOW	def.h	958;"	d
+SOFT_PWM_3_PIN_LOW	def.h	964;"	d
+SOFT_PWM_4_PIN_HIGH	def.h	361;"	d
+SOFT_PWM_4_PIN_HIGH	def.h	468;"	d
+SOFT_PWM_4_PIN_HIGH	def.h	475;"	d
+SOFT_PWM_4_PIN_HIGH	def.h	959;"	d
+SOFT_PWM_4_PIN_HIGH	def.h	965;"	d
+SOFT_PWM_4_PIN_LOW	def.h	362;"	d
+SOFT_PWM_4_PIN_LOW	def.h	469;"	d
+SOFT_PWM_4_PIN_LOW	def.h	476;"	d
+SOFT_PWM_4_PIN_LOW	def.h	960;"	d
+SOFT_PWM_4_PIN_LOW	def.h	966;"	d
+SOFT_PWM_CHANNEL1	Output.cpp	987;"	d	file:
+SOFT_PWM_CHANNEL1	Output.cpp	992;"	d	file:
+SOFT_PWM_CHANNEL2	Output.cpp	988;"	d	file:
+SOFT_PWM_CHANNEL2	Output.cpp	993;"	d	file:
+SOFT_PWM_CHANNEL2	Output.cpp	996;"	d	file:
+SOFT_PWM_ISR1	Output.cpp	985;"	d	file:
+SOFT_PWM_ISR1	Output.cpp	990;"	d	file:
+SOFT_PWM_ISR2	Output.cpp	986;"	d	file:
+SOFT_PWM_ISR2	Output.cpp	991;"	d	file:
+SOFT_PWM_ISR2	Output.cpp	995;"	d	file:
+SONAR	def.h	1682;"	d
+SONAR	def.h	1684;"	d
+SPEKTRUM	def.h	36;"	d
+SPEKTRUM	def.h	95;"	d
+SPEK_BAUD_SET	def.h	654;"	d
+SPEK_BIND_DATA	def.h	1829;"	d
+SPEK_BIND_GROUND	def.h	1823;"	d
+SPEK_BIND_POWER	def.h	1826;"	d
+SPEK_BIND_PULSES	def.h	1812;"	d
+SPEK_BIND_PULSES	def.h	1818;"	d
+SPEK_CHAN_MASK	def.h	1810;"	d
+SPEK_CHAN_MASK	def.h	1816;"	d
+SPEK_CHAN_SHIFT	def.h	1809;"	d
+SPEK_CHAN_SHIFT	def.h	1815;"	d
+SPEK_DATA_SHIFT	def.h	1811;"	d
+SPEK_DATA_SHIFT	def.h	1817;"	d
+SPEK_FRAME_SIZE	def.h	1807;"	d
+SRF08_DEFAULT_ADDRESS	Sensors.cpp	1364;"	d	file:
+SRF08_ECHO_RANGE	Sensors.cpp	1388;"	d	file:
+SRF08_LIGHT_GAIN	Sensors.cpp	1387;"	d	file:
+SRF08_MAX_SENSORS	Sensors.cpp	1380;"	d	file:
+SRF08_RANGE_SLEEP	Sensors.cpp	1372;"	d	file:
+SRF08_RANGE_WAIT	Sensors.cpp	1368;"	d	file:
+SRF08_REV_COMMAND	Sensors.cpp	1386;"	d	file:
+SRF08_SENSOR_FIRST	Sensors.cpp	1376;"	d	file:
+STABLEPIN_OFF	def.h	1026;"	d
+STABLEPIN_OFF	def.h	1039;"	d
+STABLEPIN_OFF	def.h	1255;"	d
+STABLEPIN_OFF	def.h	1269;"	d
+STABLEPIN_OFF	def.h	1353;"	d
+STABLEPIN_OFF	def.h	324;"	d
+STABLEPIN_OFF	def.h	452;"	d
+STABLEPIN_OFF	def.h	587;"	d
+STABLEPIN_OFF	def.h	666;"	d
+STABLEPIN_ON	def.h	1025;"	d
+STABLEPIN_ON	def.h	1038;"	d
+STABLEPIN_ON	def.h	1254;"	d
+STABLEPIN_ON	def.h	1268;"	d
+STABLEPIN_ON	def.h	1352;"	d
+STABLEPIN_ON	def.h	323;"	d
+STABLEPIN_ON	def.h	451;"	d
+STABLEPIN_ON	def.h	586;"	d
+STABLEPIN_ON	def.h	665;"	d
+STABLEPIN_PINMODE	def.h	1024;"	d
+STABLEPIN_PINMODE	def.h	1037;"	d
+STABLEPIN_PINMODE	def.h	1253;"	d
+STABLEPIN_PINMODE	def.h	1267;"	d
+STABLEPIN_PINMODE	def.h	322;"	d
+STABLEPIN_PINMODE	def.h	450;"	d
+STABLEPIN_PINMODE	def.h	585;"	d
+STABLEPIN_PINMODE	def.h	664;"	d
+STANDARD_RX	def.h	1797;"	d
+SUMD_BUFFSIZE	RX.cpp	370;"	d	file:
+SUMD_MAXCHAN	RX.cpp	369;"	d	file:
+SUMD_SYNCBYTE	RX.cpp	368;"	d	file:
+SUPPRESS_BARO_ALTHOLD	def.h	31;"	d
+SUPPRESS_DEFAULTS_FROM_GUI	def.h	109;"	d
+SUPPRESS_OTHER_SERIAL_COMMANDS	def.h	108;"	d
+SW_PWM_P3	def.h	470;"	d
+SW_PWM_P3	def.h	477;"	d
+SW_PWM_P3	def.h	961;"	d
+SW_PWM_P3	def.h	967;"	d
+SW_PWM_P4	def.h	471;"	d
+SW_PWM_P4	def.h	478;"	d
+SW_PWM_P4	def.h	962;"	d
+SW_PWM_P4	def.h	968;"	d
+SequenceActive	Alarms.cpp	/^static uint8_t SequenceActive[5]={0,0,0,0,0};$/;"	v	file:
+SerialAvailable	Serial.cpp	/^uint8_t SerialAvailable(uint8_t port) {$/;"	f
+SerialEnd	Serial.cpp	/^void SerialEnd(uint8_t port) {$/;"	f
+SerialGpsPrint	GPS.cpp	/^static void SerialGpsPrint(const char PROGMEM * str) {$/;"	f	file:
+SerialGpsPrint	GPS.cpp	/^void SerialGpsPrint(const char PROGMEM * str) {$/;"	f
+SerialOpen	Serial.cpp	/^void SerialOpen(uint8_t port, uint32_t baud) {$/;"	f
+SerialPeek	Serial.cpp	/^  uint8_t SerialPeek(uint8_t port) {$/;"	f
+SerialRead	Serial.cpp	/^uint8_t SerialRead(uint8_t port) {$/;"	f
+SerialSerialize	Serial.cpp	/^void SerialSerialize(uint8_t port,uint8_t a) {$/;"	f
+SerialTXfree	Serial.cpp	/^  bool SerialTXfree(uint8_t port) {$/;"	f
+SerialUsedTXBuff	Serial.cpp	/^uint8_t SerialUsedTXBuff(uint8_t port) {$/;"	f
+SerialWrite	Serial.cpp	/^void SerialWrite(uint8_t port,uint8_t c){$/;"	f
+SerialWrite16	Protocol.cpp	/^void SerialWrite16(uint8_t port, int16_t val)$/;"	f
+Servo_Buffer	RX.cpp	/^static uint16_t Servo_Buffer[10] = {3000,3000,3000,3000,3000,3000,3000,3000};   \/\/servo position values from RF$/;"	v	file:
+Smoothing	types.h	/^    uint8_t Smoothing[3];$/;"	m	struct:__anon18
+Sonar_init	Sensors.cpp	/^inline void Sonar_init() {}$/;"	f
+Sonar_init	Sensors.cpp	/^void Sonar_init() {$/;"	f
+Sonar_update	Sensors.cpp	/^void Sonar_update() {$/;"	f
+Sonar_update	Sensors.cpp	/^void Sonar_update() {}$/;"	f
+THROTTLE	types.h	/^  THROTTLE,$/;"	e	enum:rc
+THROTTLEPIN	def.h	329;"	d
+THROTTLEPIN	def.h	514;"	d
+THROTTLEPIN	def.h	598;"	d
+THROTTLE_IGNORED	types.h	/^  uint8_t THROTTLE_IGNORED : 1;      \/\/ If it is 1 then ignore throttle stick movements in baro mode;$/;"	m	struct:__anon16
+THR_CE	MultiWii.cpp	267;"	d	file:
+THR_HI	MultiWii.cpp	268;"	d	file:
+THR_LO	MultiWii.cpp	266;"	d	file:
+TRESHOLD_DOWN	Alarms.cpp	600;"	d	file:
+TRESHOLD_UP	Alarms.cpp	599;"	d	file:
+TRESHOLD_UP_MINUS_DOWN	Alarms.cpp	601;"	d	file:
+TRI	def.h	20;"	d
+TRI_SERVO	def.h	187;"	d
+TRI_SERVO	def.h	189;"	d
+TX_BUFFER_SIZE	Serial.h	12;"	d
+TYPES_H_	types.h	2;"	d
+T_USB_Available	Serial.cpp	/^  unsigned char T_USB_Available(){$/;"	f
+UART_NUMBER	Serial.h	5;"	d
+UART_NUMBER	Serial.h	7;"	d
+UART_NUMBER	Serial.h	9;"	d
+UBLOX	def.h	1487;"	d
+UPDATE_INTERVAL	IMU.cpp	280;"	d	file:
+USB_CDC_RX	def.h	458;"	d
+USB_CDC_TX	def.h	457;"	d
+V16	IMU.cpp	/^  t_int16_t_vector_def V16;$/;"	m	union:__anon6	file:
+V32	IMU.cpp	/^  t_int32_t_vector_def V32;$/;"	m	union:__anon6	file:
+VARIOMETER	def.h	32;"	d
+VARIO_MODE	types.h	/^  uint8_t VARIO_MODE :1;$/;"	m	struct:__anon16
+VBAT	def.h	122;"	d
+VBAT	def.h	1449;"	d
+VBAT	def.h	17;"	d
+VBAT	def.h	23;"	d
+VBAT	def.h	54;"	d
+VBAT	def.h	75;"	d
+VBAT	def.h	98;"	d
+VBATLEVEL_CRIT	config.h	905;"	d
+VBATLEVEL_CRIT	def.h	1453;"	d
+VBATLEVEL_WARN1	config.h	903;"	d
+VBATLEVEL_WARN1	def.h	1451;"	d
+VBATLEVEL_WARN2	config.h	904;"	d
+VBATLEVEL_WARN2	def.h	1452;"	d
+VBATNOMINAL	config.h	902;"	d
+VBATSCALE	config.h	901;"	d
+VBATSCALE	def.h	1450;"	d
+VBAT_CELLS	def.h	123;"	d
+VBAT_CELLS_DIVS	config.h	916;"	d
+VBAT_CELLS_DIVS	def.h	127;"	d
+VBAT_CELLS_NUM	config.h	913;"	d
+VBAT_CELLS_NUM	def.h	124;"	d
+VBAT_CELLS_OFFSETS	config.h	915;"	d
+VBAT_CELLS_OFFSETS	def.h	126;"	d
+VBAT_CELLS_PINS	config.h	914;"	d
+VBAT_CELLS_PINS	def.h	125;"	d
+VBAT_OFFSET	config.h	907;"	d
+VBAT_PRESCALER	config.h	1000;"	d
+VBAT_SMOOTH	config.h	1162;"	d
+VERSION	MultiWii.h	4;"	d
+VOLTAGEDROP_COMPENSATION	def.h	68;"	d
+VOLTAGEDROP_COMPENSATION	def.h	76;"	d
+V_BATPIN	def.h	1910;"	d
+V_BATPIN	def.h	1911;"	d
+V_BATPIN	def.h	345;"	d
+V_BATPIN	def.h	543;"	d
+V_BATPIN	def.h	545;"	d
+V_BATPIN	def.h	547;"	d
+V_BATPIN	def.h	606;"	d
+WAAS_ON	GPS.cpp	1292;"	d	file:
+WAIT_FOR_RTH_ALT	config.h	763;"	d
+WATTS	def.h	121;"	d
+WMP	def.h	1094;"	d
+WMP	def.h	12;"	d
+WMP	def.h	9;"	d
+WMP_ADDRESS_1	Sensors.cpp	1314;"	d	file:
+WMP_ADDRESS_2	Sensors.cpp	1315;"	d	file:
+Write0	RX.cpp	/^void Write0( void ) { $/;"	f
+Write1	RX.cpp	/^void Write1( void ) { $/;"	f
+Write8bitcommand	RX.cpp	/^void Write8bitcommand(uint8_t command) {  \/\/ keep sel to low $/;"	f
+X	IMU.cpp	/^  int32_t X,Y,Z;$/;"	m	struct:__anon4	file:
+X	IMU.cpp	/^  uint16_t XL; int16_t X;$/;"	m	struct:__anon5	file:
+XL	IMU.cpp	/^  uint16_t XL; int16_t X;$/;"	m	struct:__anon5	file:
+Y	IMU.cpp	/^  int32_t X,Y,Z;$/;"	m	struct:__anon4	file:
+Y	IMU.cpp	/^  uint16_t YL; int16_t Y;$/;"	m	struct:__anon5	file:
+Y6	def.h	129;"	d
+YAW	types.h	/^  YAW,$/;"	e	enum:rc
+YAWMOTOR	config.h	301;"	d
+YAWPIN	def.h	332;"	d
+YAWPIN	def.h	518;"	d
+YAWPIN	def.h	523;"	d
+YAWPIN	def.h	601;"	d
+YAW_CE	MultiWii.cpp	264;"	d	file:
+YAW_COLL_PRECOMP	config.h	290;"	d
+YAW_COLL_PRECOMP	def.h	66;"	d
+YAW_COLL_PRECOMP	def.h	87;"	d
+YAW_COLL_PRECOMP_DEADBAND	config.h	291;"	d
+YAW_COLL_PRECOMP_DEADBAND	def.h	67;"	d
+YAW_COLL_PRECOMP_DEADBAND	def.h	88;"	d
+YAW_DIRECTION	config.h	229;"	d
+YAW_HI	MultiWii.cpp	265;"	d	file:
+YAW_LO	MultiWii.cpp	263;"	d	file:
+YL	IMU.cpp	/^  uint16_t YL; int16_t Y;$/;"	m	struct:__anon5	file:
+Z	IMU.cpp	/^  int32_t X,Y,Z;$/;"	m	struct:__anon4	file:
+Z	IMU.cpp	/^  uint16_t ZL; int16_t Z;$/;"	m	struct:__anon5	file:
+ZL	IMU.cpp	/^  uint16_t ZL; int16_t Z;$/;"	m	struct:__anon5	file:
+_X	GPS.cpp	131;"	d	file:
+_Y	GPS.cpp	132;"	d	file:
+__AUX1	LCD.cpp	/^static lcd_param_def_t __AUX1 = {&LAUX1, 0, 1, 1};$/;"	v	file:
+__AUX2	LCD.cpp	/^static lcd_param_def_t __AUX2 = {&LAUX2, 0, 1, 8};$/;"	v	file:
+__AUX3	LCD.cpp	/^static lcd_param_def_t __AUX3 = {&LAUX3, 0, 1, 64};$/;"	v	file:
+__AUX4	LCD.cpp	/^static lcd_param_def_t __AUX4 = {&LAUX4, 0, 1, 512};$/;"	v	file:
+__BITS	LCD.cpp	/^static lcd_param_def_t __BITS = {&LTS8, 0, 1, 1};$/;"	v	file:
+__D	LCD.cpp	/^static lcd_param_def_t __D = {&LTU8, 0, 1, 1};$/;"	v	file:
+__FS	LCD.cpp	/^static lcd_param_def_t __FS = {&LTU8, 1, 1, 0};$/;"	v	file:
+__I	LCD.cpp	/^static lcd_param_def_t __I = {&LTU8, 3, 1, 1};$/;"	v	file:
+__L	LCD.cpp	/^static lcd_param_def_t __L = {&LTU8, 0, 1, 0};$/;"	v	file:
+__P	LCD.cpp	/^static lcd_param_def_t __P = {&LTU8, 1, 1, 1};$/;"	v	file:
+__PM	LCD.cpp	/^static lcd_param_def_t __PM = {&LPMM, 1, 1, 0};$/;"	v	file:
+__PT	LCD.cpp	/^static lcd_param_def_t __PT = {&LTU8, 0, 1, 1};$/;"	v	file:
+__RC	LCD.cpp	/^static lcd_param_def_t __RC = {&LTU8, 2, 1, 1};$/;"	v	file:
+__SE	LCD.cpp	/^static lcd_param_def_t __SE = {&LTU16, 0, 1, 10};$/;"	v	file:
+__SE1	LCD.cpp	/^static lcd_param_def_t __SE1 = {&LTU16, 0, 1, 1};$/;"	v	file:
+__ST	LCD.cpp	/^static lcd_param_def_t __ST = {&LTS16, 0, 1, 10};$/;"	v	file:
+__VB	LCD.cpp	/^static lcd_param_def_t __VB = {&LTU8, 1, 1, 0};$/;"	v	file:
+__nullInc	LCD.cpp	/^void __nullInc(void * var, int16_t inc) {};$/;"	f
+__s16Fmt	LCD.cpp	/^void __s16Fmt(void * var, uint8_t mul, uint8_t dec) {$/;"	f
+__s16Inc	LCD.cpp	/^void __s16Inc(void * var, int16_t inc) {*(int16_t*)var += inc;};$/;"	f
+__s8BitsFmt	LCD.cpp	/^void __s8BitsFmt(void * var, uint8_t mul, uint8_t dec) {$/;"	f
+__s8Inc	LCD.cpp	/^void __s8Inc(void * var, int16_t inc) {*(int8_t*)var += (int8_t)inc;};$/;"	f
+__u16Fmt	LCD.cpp	/^void __u16Fmt(void * var, uint8_t mul, uint8_t dec) {$/;"	f
+__u16Inc	LCD.cpp	/^void __u16Inc(void * var, int16_t inc) {*(uint16_t*)var += inc;};$/;"	f
+__u8Fmt	LCD.cpp	/^void __u8Fmt(void * var, uint8_t mul, uint8_t dec) {$/;"	f
+__u8Inc	LCD.cpp	/^void __u8Inc(void * var, int16_t inc) {*(uint8_t*)var += (uint8_t)inc;};$/;"	f
+__uAuxFmt	LCD.cpp	/^void __uAuxFmt(void * var, uint8_t mul, uint8_t dec, uint8_t aux) {$/;"	f
+__uAuxFmt1	LCD.cpp	/^void __uAuxFmt1(void * var, uint8_t mul, uint8_t dec) {  __uAuxFmt(var, mul, dec, 1); }$/;"	f
+__uAuxFmt2	LCD.cpp	/^void __uAuxFmt2(void * var, uint8_t mul, uint8_t dec) {  __uAuxFmt(var, mul, dec, 2); }$/;"	f
+__uAuxFmt3	LCD.cpp	/^void __uAuxFmt3(void * var, uint8_t mul, uint8_t dec) {  __uAuxFmt(var, mul, dec, 3); }$/;"	f
+__uAuxFmt4	LCD.cpp	/^void __uAuxFmt4(void * var, uint8_t mul, uint8_t dec) {  __uAuxFmt(var, mul, dec, 4); }$/;"	f
+__upMFmt	LCD.cpp	/^  void __upMFmt(void * var, uint8_t mul, uint8_t dec) {$/;"	f
+_atan2	IMU.cpp	/^int16_t _atan2(int32_t y, int32_t x){$/;"	f
+_buffer	GPS.cpp	/^ } _buffer;$/;"	v	typeref:union:__anon2	file:
+_buffer	GPS.cpp	/^} _buffer;$/;"	v	typeref:union:__anon3
+_ck_a	GPS.cpp	/^uint8_t  _ck_a;$/;"	v
+_ck_b	GPS.cpp	/^uint8_t  _ck_b;$/;"	v
+_last_velocity	GPS.cpp	/^    int16_t         _last_velocity;$/;"	m	class:LeadFilter	file:
+_offset_calculated	GPS.cpp	/^bool  _offset_calculated;$/;"	v
+_payload_counter	GPS.cpp	/^uint8_t  _payload_counter;$/;"	v
+_spi_read	RX.cpp	/^uint8_t _spi_read(uint8_t address) { $/;"	f
+_spi_write	RX.cpp	/^void _spi_write(uint8_t address, uint8_t data) { $/;"	f
+_step	GPS.cpp	/^uint8_t  _step;$/;"	v
+_swapl	GPS.cpp	/^inline long _swapl(const void *bytes) {$/;"	f
+_time_offset	GPS.cpp	/^long  _time_offset;$/;"	v
+abort_mission	GPS.cpp	/^void abort_mission(unsigned char error_code) {$/;"	f
+ac1	Sensors.cpp	/^  int16_t  ac1, ac2, ac3;$/;"	m	struct:__anon7	file:
+ac2	Sensors.cpp	/^  int16_t  ac1, ac2, ac3;$/;"	m	struct:__anon7	file:
+ac3	Sensors.cpp	/^  int16_t  ac1, ac2, ac3;$/;"	m	struct:__anon7	file:
+ac4	Sensors.cpp	/^  uint16_t ac4, ac5, ac6;$/;"	m	struct:__anon7	file:
+ac5	Sensors.cpp	/^  uint16_t ac4, ac5, ac6;$/;"	m	struct:__anon7	file:
+ac6	Sensors.cpp	/^  uint16_t ac4, ac5, ac6;$/;"	m	struct:__anon7	file:
+accADC	types.h	/^  int16_t  accADC[3];$/;"	m	struct:__anon12
+accSmooth	types.h	/^  int16_t  accSmooth[3];$/;"	m	struct:__anon12
+accZ	IMU.cpp	/^static int16_t accZ=0;$/;"	v	file:
+accZero	types.h	/^  int16_t accZero[3];$/;"	m	struct:__anon17
+action	types.h	/^  uint8_t  action;     \/\/Action to follow$/;"	m	struct:__anon20
+activate	types.h	/^   uint16_t activate[CHECKBOXITEMS];$/;"	m	struct:__anon18
+activate	types.h	/^   uint32_t activate[CHECKBOXITEMS];  \/\/Extended aux states define six different aux state for each aux channel$/;"	m	struct:__anon18
+actual_speed	GPS.cpp	/^static int16_t actual_speed[2] = {0,0};$/;"	v	file:
+alarmArray	MultiWii.cpp	/^uint8_t alarmArray[ALRM_FAC_SIZE];           \/\/ array$/;"	v
+alarmHandler	Alarms.cpp	/^void alarmHandler(void){$/;"	f
+alarmPatternComposer	Alarms.cpp	/^void alarmPatternComposer(){ $/;"	f
+alrm_fac	Alarms.h	/^enum alrm_fac {$/;"	g
+alrm_lvl_confirm	Alarms.h	/^enum alrm_lvl_confirm {$/;"	g
+alrm_lvl_failsafe	Alarms.h	/^enum alrm_lvl_failsafe {$/;"	g
+alrm_lvl_gps	Alarms.h	/^  enum alrm_lvl_gps {$/;"	g
+alrm_lvl_onoff	Alarms.h	/^enum alrm_lvl_onoff {$/;"	g
+alrm_lvl_toggle	Alarms.h	/^enum alrm_lvl_toggle {$/;"	g
+alrm_lvl_vbat	Alarms.h	/^  enum alrm_lvl_vbat {$/;"	g
+alrm_res	Alarms.h	/^enum alrm_res {$/;"	g
+alt	MultiWii.cpp	/^alt_t alt;$/;"	v
+alt_change	MultiWii.cpp	/^  uint32_t alt_change;$/;"	v
+alt_change_flag	MultiWii.cpp	/^  int8_t alt_change_flag;$/;"	v
+alt_change_timer	MultiWii.cpp	/^  uint32_t alt_change_timer;$/;"	v
+alt_t	types.h	/^} alt_t;$/;"	t	typeref:struct:__anon14
+alt_to_hold	MultiWii.cpp	/^  int32_t alt_to_hold;$/;"	v
+altitude	GPS.cpp	/^  int32_t  altitude;$/;"	m	struct:diyd_mtk_msg	file:
+altitude	types.h	/^  uint32_t altitude;   \/\/Altitude in cm (AGL)$/;"	m	struct:__anon20
+altitude_ellipsoid	GPS.cpp	/^  int32_t altitude_ellipsoid;$/;"	m	struct:ubx_nav_posllh	file:
+altitude_msl	GPS.cpp	/^  int32_t altitude_msl;$/;"	m	struct:ubx_nav_posllh	file:
+amperage	types.h	/^  uint16_t amperage;          \/\/ 1unit == 100mA$/;"	m	struct:__anon13
+analog	MultiWii.cpp	/^analog_t analog;$/;"	v
+analog_t	types.h	/^} analog_t;$/;"	t	typeref:struct:__anon13
+angle	types.h	/^  int16_t angle[2];            \/\/ absolute angle inclination in multiple of 0.1 degree    180 deg = 1800$/;"	m	struct:__anon15
+angleTrim	types.h	/^  int16_t angleTrim[2]; $/;"	m	struct:__anon18
+annex650_overrun_count	MultiWii.cpp	/^  int16_t annex650_overrun_count = 0;$/;"	v
+annexCode	MultiWii.cpp	/^void annexCode() { \/\/ this code is excetuted at each loop and won't interfere with control loop if it lasts less than 650 microseconds$/;"	f
+applyDeadband	IMU.cpp	286;"	d	file:
+arm	types.h	/^  uint16_t arm;           \/\/ #arm events$/;"	m	struct:__anon19
+armedTime	MultiWii.cpp	/^  uint32_t armedTime = 0;$/;"	v
+armed_time	types.h	/^  uint32_t armed_time ;   \/\/ copy of armedTime @ disarm$/;"	m	struct:__anon19
+armedtimewarning	types.h	/^    uint16_t armedtimewarning;$/;"	m	struct:__anon18
+atomicPWM_PIN12_highState	Output.cpp	/^    volatile uint16_t atomicPWM_PIN12_highState;$/;"	v
+atomicPWM_PIN12_highState	Output.cpp	/^    volatile uint8_t atomicPWM_PIN12_highState;$/;"	v
+atomicPWM_PIN12_lowState	Output.cpp	/^    volatile uint16_t atomicPWM_PIN12_lowState;$/;"	v
+atomicPWM_PIN12_lowState	Output.cpp	/^    volatile uint8_t atomicPWM_PIN12_lowState;$/;"	v
+atomicPWM_PIN5_highState	Output.cpp	/^    volatile uint16_t atomicPWM_PIN5_highState;$/;"	v
+atomicPWM_PIN5_highState	Output.cpp	/^    volatile uint8_t atomicPWM_PIN5_highState;$/;"	v
+atomicPWM_PIN5_lowState	Output.cpp	/^    volatile uint16_t atomicPWM_PIN5_lowState;$/;"	v
+atomicPWM_PIN5_lowState	Output.cpp	/^    volatile uint8_t atomicPWM_PIN5_lowState;$/;"	v
+atomicPWM_PIN6_highState	Output.cpp	/^    volatile uint16_t atomicPWM_PIN6_highState;$/;"	v
+atomicPWM_PIN6_highState	Output.cpp	/^    volatile uint8_t atomicPWM_PIN6_highState;$/;"	v
+atomicPWM_PIN6_lowState	Output.cpp	/^    volatile uint16_t atomicPWM_PIN6_lowState;$/;"	v
+atomicPWM_PIN6_lowState	Output.cpp	/^    volatile uint8_t atomicPWM_PIN6_lowState;$/;"	v
+atomicPWM_PINA2_highState	Output.cpp	/^    volatile uint16_t atomicPWM_PINA2_highState;$/;"	v
+atomicPWM_PINA2_highState	Output.cpp	/^    volatile uint8_t atomicPWM_PINA2_highState;$/;"	v
+atomicPWM_PINA2_lowState	Output.cpp	/^    volatile uint16_t atomicPWM_PINA2_lowState;$/;"	v
+atomicPWM_PINA2_lowState	Output.cpp	/^    volatile uint8_t atomicPWM_PINA2_lowState;$/;"	v
+atomicServo	Output.cpp	/^      volatile uint16_t atomicServo[8] = {8000,8000,8000,8000,8000,8000,8000,320};$/;"	v
+atomicServo	Output.cpp	/^      volatile uint16_t atomicServo[8] = {8000,8000,8000,8000,8000,8000,8000,8000};$/;"	v
+atomicServo	Output.cpp	/^      volatile uint8_t atomicServo[8] = {125,125,125,125,125,125,125,125};$/;"	v
+atomicServo	Output.cpp	/^      volatile uint8_t atomicServo[8] = {125,125,125,125,125,125,125,5};$/;"	v
+att	MultiWii.cpp	/^att_t att;$/;"	v
+att_t	types.h	/^} att_t;$/;"	t	typeref:struct:__anon15
+auto_switch_landing_lights	Alarms.cpp	/^  void auto_switch_landing_lights(void) {$/;"	f
+auto_switch_led_flasher	Alarms.cpp	/^  void auto_switch_led_flasher() {$/;"	f
+axisPID	MultiWii.cpp	/^int16_t axisPID[3];$/;"	v
+b1	Sensors.cpp	/^  int16_t  b1, b2, mb, mc, md;$/;"	m	struct:__anon7	file:
+b2	Sensors.cpp	/^  int16_t  b1, b2, mb, mc, md;$/;"	m	struct:__anon7	file:
+baroPressure	MultiWii.cpp	/^  int32_t baroPressure;$/;"	v
+baroPressureSum	MultiWii.cpp	/^  int32_t baroPressureSum;$/;"	v
+baroTemperature	MultiWii.cpp	/^  int16_t baroTemperature;$/;"	v
+bias_collect	Sensors.cpp	/^static uint8_t bias_collect(uint8_t bias) {$/;"	f	file:
+blinkLED	Alarms.cpp	/^void blinkLED(uint8_t num, uint8_t ontime,uint8_t repeat) {$/;"	f
+blinkLedRing	Alarms.cpp	/^  void blinkLedRing(void) {$/;"	f
+bmp085_ctx	Sensors.cpp	/^} bmp085_ctx;  $/;"	v	typeref:struct:__anon7	file:
+box	types.h	/^enum box {$/;"	g
+buffer	LCD.cpp	/^static char buffer; \/\/ buffer to read bytes from ROM, using pgm_read_byte macro. NB! avr\/pgmspace.h must be included prog_uchar LOGO[] PROGMEM = {  \/\/ My first attempt to flash a logo....$/;"	v	file:
+bytes	GPS.cpp	/^  uint8_t       bytes[];$/;"	m	union:__anon3	file:
+bytes	GPS.cpp	/^  uint8_t bytes[];$/;"	m	union:__anon2	file:
+c	Sensors.cpp	/^  uint16_t c[7];$/;"	m	struct:__anon10	file:
+calculate_sum	EEPROM.cpp	/^uint8_t calculate_sum(uint8_t *cb , uint8_t siz) {$/;"	f
+calibratingA	MultiWii.cpp	/^uint16_t calibratingA = 0;  \/\/ the calibration is done in the main loop. Calibrating decreases at each cycle down to 0, then we enter in a normal mode.$/;"	v
+calibratingB	MultiWii.cpp	/^uint16_t calibratingB = 0;  \/\/ baro calibration = get new ground pressure value$/;"	v
+calibratingG	MultiWii.cpp	/^uint16_t calibratingG;$/;"	v
+charsInitialized	LCD.cpp	/^static boolean charsInitialized; \/\/ chars for servo signals are initialized$/;"	v	file:
+checkPots	RX.cpp	/^void checkPots() {$/;"	f
+check_land	GPS.cpp	/^void check_land() {$/;"	f
+check_missed_wp	GPS.cpp	/^static bool check_missed_wp(void) {$/;"	f	file:
+checkboxitemNames	LCD.cpp	/^static char checkboxitemNames[][4] = {$/;"	v	file:
+checksum	Protocol.cpp	/^static uint8_t checksum[UART_NUMBER];$/;"	v	file:
+checksum	types.h	/^  uint8_t  checksum;      \/\/ MUST BE ON LAST POSITION OF CONF STRUCTURE !$/;"	m	struct:__anon18
+checksum	types.h	/^  uint8_t  checksum;      \/\/ MUST BE ON LAST POSITION OF CONF STRUCTURE !$/;"	m	struct:__anon19
+checksum	types.h	/^  uint8_t  checksum;   \/\/this must be at the last position$/;"	m	struct:__anon20
+checksum	types.h	/^  uint8_t  checksum;$/;"	m	struct:__anon21
+checksum	types.h	/^  uint8_t checksum;      \/\/ MUST BE ON LAST POSITION OF STRUCTURE !$/;"	m	struct:__anon17
+clear	GPS.cpp	/^    void            clear() { _last_velocity = 0; }$/;"	f	class:LeadFilter
+clear_new_altitude	GPS.cpp	/^void clear_new_altitude() {$/;"	f
+cmdMSP	Protocol.cpp	/^static uint8_t cmdMSP[UART_NUMBER];$/;"	v	file:
+computeIMU	IMU.cpp	/^void computeIMU () {$/;"	f
+computeRC	RX.cpp	/^void computeRC() {$/;"	f
+conf	MultiWii.cpp	/^conf_t conf;$/;"	v
+conf_t	types.h	/^} conf_t;$/;"	t	typeref:struct:__anon18
+configurationLoop	LCD.cpp	/^void configurationLoop() {$/;"	f
+configureReceiver	RX.cpp	/^void configureReceiver() {$/;"	f
+constrain_int16	GPS.cpp	/^int16_t constrain_int16(int16_t amt, int16_t low, int16_t high) {$/;"	f
+cosZ	MultiWii.cpp	/^  int8_t  cosZ = 100;                  \/\/ cos(angleZ)*100$/;"	v
+crosstrack_error	GPS.cpp	/^static int16_t crosstrack_error;     \/\/ The amount of angle correction applied to target_bearing to bring the copter back on its optimum path$/;"	v	file:
+crosstrack_gain	types.h	/^  uint8_t  crosstrack_gain;     \/\/ * 100 (0-2.56)$/;"	m	struct:__anon21
+current	Sensors.cpp	/^  int8_t   current;              \/\/ the current sensor being read$/;"	m	struct:__anon11	file:
+currentSet	types.h	/^  uint8_t currentSet;$/;"	m	struct:__anon17
+currentTime	MultiWii.cpp	/^uint32_t currentTime = 0;$/;"	v
+cycleDone	Alarms.cpp	/^static uint8_t cycleDone[5]={0,0,0,0,0}, $/;"	v	file:
+cycleTime	MultiWii.cpp	/^uint16_t cycleTime = 0;     \/\/ this is the number in micro second to achieve a full loop, it can differ a little and is taken into account in the PID loop$/;"	v
+cycleTimeMax	MultiWii.cpp	/^  uint16_t cycleTimeMax = 0;       \/\/ highest ever cycle timen$/;"	v
+cycleTimeMin	MultiWii.cpp	/^  uint16_t cycleTimeMin = 65535;   \/\/ lowest ever cycle timen$/;"	v
+dTnav	GPS.cpp	/^static float  dTnav;            \/\/ Delta Time in milliseconds for navigation computations, updated with every good GPS read$/;"	v	file:
+deadline	Sensors.cpp	/^  uint16_t deadline;$/;"	m	struct:__anon10	file:
+deadline	Sensors.cpp	/^  uint32_t deadline;$/;"	m	struct:__anon11	file:
+deadline	Sensors.cpp	/^  uint32_t deadline;$/;"	m	struct:__anon7	file:
+debug	MultiWii.cpp	/^int16_t  debug[4];$/;"	v
+debug_buf	Protocol.cpp	/^  static char debug_buf[DEBUG_MSG_BUFFER_SIZE];$/;"	v	file:
+debugmsg_append_str	Protocol.cpp	/^void debugmsg_append_str(const char *str) {$/;"	f
+debugmsg_append_str	Protocol.cpp	/^void debugmsg_append_str(const char *str) {};$/;"	f
+debugmsg_available	Protocol.cpp	/^static uint8_t debugmsg_available() {$/;"	f	file:
+debugmsg_serialize	Protocol.cpp	/^static void debugmsg_serialize(uint8_t l) {$/;"	f	file:
+decimal	LCD.cpp	/^  uint8_t decimal;$/;"	m	struct:lcd_param_def_t	file:
+derivative	GPS.cpp	/^  float   derivative;$/;"	m	struct:PID_	file:
+digit1	LCD.cpp	/^char digit1(uint16_t v) {return '0' + v - (v\/10) * 10;}$/;"	f
+digit10	LCD.cpp	/^char digit10(uint16_t v) {return '0' + v \/ 10 - (v\/100) * 10;}$/;"	f
+digit100	LCD.cpp	/^char digit100(uint16_t v) {return '0' + v \/ 100 - (v\/1000) * 10;}$/;"	f
+digit1000	LCD.cpp	/^char digit1000(uint16_t v) {return '0' + v \/ 1000 - (v\/10000) * 10;}$/;"	f
+digit10000	LCD.cpp	/^char digit10000(uint16_t v) {return '0' + v \/ 10000;}$/;"	f
+disarm	types.h	/^  uint16_t disarm;        \/\/ #disarm events$/;"	m	struct:__anon19
+diyd_mtk_fix_type	GPS.cpp	/^enum diyd_mtk_fix_type {$/;"	g	file:
+diyd_mtk_msg	GPS.cpp	/^struct diyd_mtk_msg {$/;"	s	file:
+diyd_mtk_protocol_bytes	GPS.cpp	/^enum diyd_mtk_protocol_bytes {$/;"	g	file:
+dont_reset_home_at_arm	types.h	/^  uint8_t dont_reset_home_at_arm : 1;$/;"	m	struct:__anon21
+dumpPLog	LCD.cpp	/^  void dumpPLog(uint8_t full) {$/;"	f
+dynD8	MultiWii.cpp	/^static uint8_t dynP8[2], dynD8[2];$/;"	v	file:
+dynP8	MultiWii.cpp	/^static uint8_t dynP8[2], dynD8[2];$/;"	v	file:
+dynThrPID	types.h	/^  uint8_t dynThrPID;$/;"	m	struct:__anon18
+ecef_x	GPS.cpp	/^  int32_t ecef_x;$/;"	m	struct:ubx_nav_solution	file:
+ecef_x_velocity	GPS.cpp	/^  int32_t ecef_x_velocity;$/;"	m	struct:ubx_nav_solution	file:
+ecef_y	GPS.cpp	/^  int32_t ecef_y;$/;"	m	struct:ubx_nav_solution	file:
+ecef_y_velocity	GPS.cpp	/^  int32_t ecef_y_velocity;$/;"	m	struct:ubx_nav_solution	file:
+ecef_z	GPS.cpp	/^  int32_t ecef_z;$/;"	m	struct:ubx_nav_solution	file:
+ecef_z_velocity	GPS.cpp	/^  int32_t ecef_z_velocity;$/;"	m	struct:ubx_nav_solution	file:
+error	GPS.cpp	/^static int32_t error[2];$/;"	v	file:
+errorAltitudeI	MultiWii.cpp	/^int16_t  errorAltitudeI = 0;$/;"	v
+evaluateCommand	Protocol.cpp	/^void evaluateCommand(uint8_t c) {$/;"	f
+evaluateOtherData	Protocol.cpp	/^void evaluateOtherData(uint8_t sr) {$/;"	f
+f	MultiWii.cpp	/^flags_struct_t f;$/;"	v
+failsafe	types.h	/^  uint16_t failsafe;      \/\/ #failsafe state @ disarm$/;"	m	struct:__anon19
+failsafeCnt	MultiWii.cpp	/^volatile int16_t failsafeCnt = 0;$/;"	v
+failsafeEvents	MultiWii.cpp	/^int16_t failsafeEvents = 0;$/;"	v
+failsafe_throttle	types.h	/^    int16_t failsafe_throttle;$/;"	m	struct:__anon18
+fence	types.h	/^  uint16_t fence;               \/\/ fence control in meters$/;"	m	struct:__anon21
+fill_line1_deg	LCD.cpp	/^void fill_line1_deg() {$/;"	f
+fill_line1_gps_lat	LCD.cpp	/^void fill_line1_gps_lat(uint8_t sat) {$/;"	f
+fill_line2_gps_lon	LCD.cpp	/^void fill_line2_gps_lon(uint8_t status) {$/;"	f
+filtering	types.h	/^  uint8_t filtering : 1;$/;"	m	struct:__anon21
+fix_status	GPS.cpp	/^  uint8_t fix_status;$/;"	m	struct:ubx_nav_solution	file:
+fix_type	GPS.cpp	/^  uint8_t  fix_type;$/;"	m	struct:diyd_mtk_msg	file:
+fix_type	GPS.cpp	/^  uint8_t fix_type;$/;"	m	struct:ubx_nav_solution	file:
+flag	types.h	/^  uint8_t  flag;       \/\/flags the last wp and other fancy things that are not yet defined$/;"	m	struct:__anon20
+flags_struct_t	types.h	/^} flags_struct_t;$/;"	t	typeref:struct:__anon16
+flashsum	types.h	/^  uint16_t flashsum;$/;"	m	struct:__anon17
+fmt	LCD.cpp	/^  formatter_func_ptr fmt;$/;"	m	struct:lcd_type_desc_t	file:
+force_new_altitude	GPS.cpp	/^void force_new_altitude(int32_t _new_alt) {$/;"	f
+formatter_func_ptr	LCD.cpp	/^typedef void (*formatter_func_ptr)(void *, uint8_t, uint8_t);$/;"	t	file:
+fraction3	GPS.cpp	/^static uint16_t fraction3[2];$/;"	v	file:
+frequency_configurator	RX.cpp	/^void frequency_configurator(uint32_t frequency) {$/;"	f
+getADC	Sensors.cpp	/^static void getADC() {$/;"	f	file:
+getADC	Sensors.cpp	/^void getADC() {$/;"	f
+getEstimatedAltitude	IMU.cpp	/^uint8_t getEstimatedAltitude(){$/;"	f
+getEstimatedAttitude	IMU.cpp	/^void getEstimatedAttitude(){$/;"	f
+getMaxWPNumber	EEPROM.cpp	/^uint8_t getMaxWPNumber() {$/;"	f
+get_D	GPS.cpp	/^int32_t get_D(int32_t input, float* dt, struct PID_* pid, struct PID_PARAM_* pid_param) { \/\/ dt in milliseconds$/;"	f
+get_I	GPS.cpp	/^int32_t get_I(int32_t error, float* dt, struct PID_* pid, struct PID_PARAM_* pid_param) {$/;"	f
+get_P	GPS.cpp	/^int32_t get_P(int32_t error, struct PID_PARAM_* pid) {$/;"	f
+get_altitude_error	GPS.cpp	/^int32_t get_altitude_error() {$/;"	f
+get_middle	Output.cpp	/^int16_t get_middle(uint8_t nr) {$/;"	f
+get_new_altitude	GPS.cpp	/^int32_t get_new_altitude() {$/;"	f
+get_position	GPS.cpp	/^int32_t LeadFilter::get_position(int32_t pos, int16_t vel, float lag_in_seconds)$/;"	f	class:LeadFilter
+global_conf	MultiWii.cpp	/^global_conf_t global_conf;$/;"	v
+global_conf_t	types.h	/^} global_conf_t;$/;"	t	typeref:struct:__anon17
+go_arm	MultiWii.cpp	/^void go_arm() {$/;"	f
+go_disarm	MultiWii.cpp	/^void go_disarm() {$/;"	f
+governorD	types.h	/^   int16_t governorD;$/;"	m	struct:__anon18
+governorP	types.h	/^   int16_t governorP;$/;"	m	struct:__anon18
+gps_conf_struct	types.h	/^} gps_conf_struct;$/;"	t	typeref:struct:__anon21
+gpsmode	types.h	/^enum gpsmode {$/;"	g
+grab_fields	GPS.cpp	/^uint16_t grab_fields(char* src, uint8_t mult) {  \/\/ convert string to uint16$/;"	f
+ground_course	GPS.cpp	/^  int32_t  ground_course;$/;"	m	struct:diyd_mtk_msg	file:
+ground_speed	GPS.cpp	/^  int32_t  ground_speed;$/;"	m	struct:diyd_mtk_msg	file:
+gyroADC	types.h	/^  int16_t  gyroADC[3];$/;"	m	struct:__anon12
+gyroData	types.h	/^  int16_t  gyroData[3];$/;"	m	struct:__anon12
+gyroZero	MultiWii.cpp	/^int16_t gyroZero[3] = {0,0,0};$/;"	v
+hdop	GPS.cpp	/^  uint16_t hdop;$/;"	m	struct:diyd_mtk_msg	file:
+head	Alarms.cpp	/^  volatile uint8_t head = 0;$/;"	v
+headFreeModeHold	MultiWii.cpp	/^int16_t  magHold,headFreeModeHold; \/\/ [-180;+180]$/;"	v
+headSerialError	Protocol.cpp	/^static void headSerialError() {$/;"	f	file:
+headSerialReply	Protocol.cpp	/^static void headSerialReply(uint8_t s) {$/;"	f	file:
+headSerialResponse	Protocol.cpp	/^static void headSerialResponse(uint8_t err, uint8_t s) {$/;"	f	file:
+head_debug	Protocol.cpp	/^  static uint8_t head_debug;$/;"	v	file:
+heading	types.h	/^  int16_t heading;             \/\/ variometer in cm\/s$/;"	m	struct:__anon15
+heading_2d	GPS.cpp	/^  int32_t heading_2d;$/;"	m	struct:ubx_nav_velned	file:
+heading_accuracy	GPS.cpp	/^  uint32_t heading_accuracy;$/;"	m	struct:ubx_nav_velned	file:
+hex_c	GPS.cpp	/^uint8_t hex_c(uint8_t n) {    \/\/ convert '0'..'9','A'..'F' to 0..15$/;"	f
+hop_list	RX.cpp	/^static uint8_t hop_list[3] = {13,54,23}; $/;"	v	file:
+hopping_channel	RX.cpp	/^static uint8_t hopping_channel = 1;$/;"	v	file:
+horizontal_accuracy	GPS.cpp	/^  uint32_t horizontal_accuracy;$/;"	m	struct:ubx_nav_posllh	file:
+i2CLedRingState	Alarms.cpp	/^  void i2CLedRingState(void) {$/;"	f
+i2c	types.h	/^  uint16_t i2c;           \/\/ #i2c errs state @ disarm$/;"	m	struct:__anon19
+i2c_BMP085_Calculate	Sensors.cpp	/^void i2c_BMP085_Calculate() {$/;"	f
+i2c_BMP085_UP_Read	Sensors.cpp	/^void i2c_BMP085_UP_Read () {$/;"	f
+i2c_BMP085_UP_Start	Sensors.cpp	/^void i2c_BMP085_UP_Start () {$/;"	f
+i2c_BMP085_UT_Read	Sensors.cpp	/^void i2c_BMP085_UT_Read() {$/;"	f
+i2c_BMP085_UT_Start	Sensors.cpp	/^void i2c_BMP085_UT_Start(void) {$/;"	f
+i2c_BMP085_readCalibration	Sensors.cpp	/^void i2c_BMP085_readCalibration(){$/;"	f
+i2c_ETPP_create_char	LCD.cpp	/^void i2c_ETPP_create_char (byte idx, uint8_t* array) {$/;"	f
+i2c_ETPP_init	LCD.cpp	/^void i2c_ETPP_init () {$/;"	f
+i2c_ETPP_send_char	LCD.cpp	/^void i2c_ETPP_send_char (char c) {$/;"	f
+i2c_ETPP_send_cmd	LCD.cpp	/^void i2c_ETPP_send_cmd (byte c) {$/;"	f
+i2c_ETPP_set_cursor	LCD.cpp	/^void i2c_ETPP_set_cursor (byte addr) {$/;"	f
+i2c_ETPP_set_cursor	LCD.cpp	/^void i2c_ETPP_set_cursor (byte col, byte row) {$/;"	f
+i2c_LCD03_init	LCD.cpp	/^void i2c_LCD03_init () {$/;"	f
+i2c_LCD03_send_char	LCD.cpp	/^void i2c_LCD03_send_char (char c) {$/;"	f
+i2c_LCD03_send_cmd	LCD.cpp	/^void i2c_LCD03_send_cmd (byte c) {$/;"	f
+i2c_LCD03_set_cursor	LCD.cpp	/^void i2c_LCD03_set_cursor (byte col, byte row) {$/;"	f
+i2c_MS561101BA_Calculate	Sensors.cpp	/^static void i2c_MS561101BA_Calculate() {$/;"	f	file:
+i2c_MS561101BA_UT_or_UP_Read	Sensors.cpp	/^static void i2c_MS561101BA_UT_or_UP_Read(uint32_t* val) {$/;"	f	file:
+i2c_MS561101BA_UT_or_UP_Start	Sensors.cpp	/^static void i2c_MS561101BA_UT_or_UP_Start(uint8_t reg) {$/;"	f	file:
+i2c_OLED_DIGOLE_clear	LCD.cpp	/^void i2c_OLED_DIGOLE_clear(void) {$/;"	f
+i2c_OLED_DIGOLE_init	LCD.cpp	/^void i2c_OLED_DIGOLE_init () {$/;"	f
+i2c_OLED_DIGOLE_printChar	LCD.cpp	/^void i2c_OLED_DIGOLE_printChar(char c){  \/\/ prints a single char - should be printable$/;"	f
+i2c_OLED_DIGOLE_printString	LCD.cpp	/^void i2c_OLED_DIGOLE_printString(const char *string){  \/\/ prints a string of chars$/;"	f
+i2c_OLED_DIGOLE_send_byte	LCD.cpp	/^void i2c_OLED_DIGOLE_send_byte (byte c) {$/;"	f
+i2c_OLED_DIGOLE_send_string	LCD.cpp	/^void i2c_OLED_DIGOLE_send_string(const char *string){  \/\/ Sends a string of chars but not the null terminator$/;"	f
+i2c_OLED_Put_Logo	LCD.cpp	/^void i2c_OLED_Put_Logo(void){$/;"	f
+i2c_OLED_init	LCD.cpp	/^void  i2c_OLED_init(void){$/;"	f
+i2c_OLED_send_byte	LCD.cpp	/^void i2c_OLED_send_byte(uint8_t val) {$/;"	f
+i2c_OLED_send_char	LCD.cpp	/^void i2c_OLED_send_char(unsigned char ascii){$/;"	f
+i2c_OLED_send_cmd	LCD.cpp	/^void i2c_OLED_send_cmd(uint8_t command) {$/;"	f
+i2c_OLED_send_logo	LCD.cpp	/^void i2c_OLED_send_logo(void){$/;"	f
+i2c_OLED_send_string	LCD.cpp	/^void i2c_OLED_send_string(const char *string){  \/\/ Sends a string of chars untill null terminator$/;"	f
+i2c_OLED_set_XY	LCD.cpp	/^void i2c_OLED_set_XY(byte col, byte row) {        \/\/  Not used in MW V2.0 but its here anyway!$/;"	f
+i2c_OLED_set_line	LCD.cpp	/^void i2c_OLED_set_line(byte row) {   \/\/ goto the beginning of a single row, compattible with LCD_CONFIG$/;"	f
+i2c_clear_OLED	LCD.cpp	/^void i2c_clear_OLED(void){$/;"	f
+i2c_errors_count	MultiWii.cpp	/^int16_t  i2c_errors_count = 0;$/;"	v
+i2c_errors_count_old	Alarms.cpp	/^static int16_t  i2c_errors_count_old = 0;$/;"	v	file:
+i2c_getSixRawADC	Sensors.cpp	/^void i2c_getSixRawADC(uint8_t add, uint8_t reg) {$/;"	f
+i2c_init	Sensors.cpp	/^void i2c_init(void) {$/;"	f
+i2c_readAck	Sensors.cpp	/^uint8_t i2c_readAck() {$/;"	f
+i2c_readNak	Sensors.cpp	/^uint8_t i2c_readNak() {$/;"	f
+i2c_readReg	Sensors.cpp	/^uint8_t i2c_readReg(uint8_t add, uint8_t reg) {$/;"	f
+i2c_readReg16	Sensors.cpp	/^uint16_t i2c_readReg16(int8_t addr, int8_t reg) {$/;"	f
+i2c_read_reg_to_buf	Sensors.cpp	/^void i2c_read_reg_to_buf(uint8_t add, uint8_t reg, uint8_t *buf, uint8_t size) {$/;"	f
+i2c_rep_start	Sensors.cpp	/^void i2c_rep_start(uint8_t address) {$/;"	f
+i2c_srf08_change_addr	Sensors.cpp	/^void i2c_srf08_change_addr(int8_t current, int8_t moveto) {$/;"	f
+i2c_srf08_discover	Sensors.cpp	/^void i2c_srf08_discover() {$/;"	f
+i2c_stop	Sensors.cpp	/^void i2c_stop(void) {$/;"	f
+i2c_try_readReg	Sensors.cpp	/^uint16_t i2c_try_readReg(uint8_t add, uint8_t reg) {$/;"	f
+i2c_write	Sensors.cpp	/^void i2c_write(uint8_t data ) {$/;"	f
+i2c_writeReg	Sensors.cpp	/^void i2c_writeReg(uint8_t add, uint8_t reg, uint8_t val) {$/;"	f
+ignore_throttle	types.h	/^  uint8_t ignore_throttle: 1; \/\/ Disable stick controls during mission and RTH$/;"	m	struct:__anon21
+imu	MultiWii.cpp	/^imu_t imu;$/;"	v
+imu_t	types.h	/^} imu_t;$/;"	t	typeref:struct:__anon12
+inBuf	Protocol.cpp	/^static uint8_t inBuf[INBUF_SIZE][UART_NUMBER];$/;"	v	file:
+inc	LCD.cpp	/^  inc_func_ptr inc;$/;"	m	struct:lcd_type_desc_t	file:
+inc_func_ptr	LCD.cpp	/^typedef void (*inc_func_ptr)(void *, int16_t);$/;"	t	file:
+increment	LCD.cpp	/^  uint16_t increment;$/;"	m	struct:lcd_param_def_t	file:
+indRX	Protocol.cpp	/^static uint8_t indRX[UART_NUMBER];$/;"	v	file:
+initLCD	LCD.cpp	/^void initLCD() {$/;"	f
+initOpenLRS	RX.cpp	/^void initOpenLRS(void) {$/;"	f
+initOutput	Output.cpp	/^void initOutput() {$/;"	f
+initS	Sensors.cpp	/^void initS() {$/;"	f
+initSensors	Sensors.cpp	/^void initSensors() {$/;"	f
+init_RTH	GPS.cpp	/^void init_RTH() {$/;"	f
+init_landing_lights	Alarms.cpp	/^  void init_landing_lights(void) {$/;"	f
+init_led_flasher	Alarms.cpp	/^  void init_led_flasher() {$/;"	f
+init_speed	GPS.cpp	/^uint32_t init_speed[5] = {9600,19200,38400,57600,115200};$/;"	v
+initializeServo	Output.cpp	/^void initializeServo() {$/;"	f
+initializeSoftPWM	Output.cpp	/^  void initializeSoftPWM(void) {$/;"	f
+intPowerMeterSum	types.h	/^  uint16_t intPowerMeterSum;$/;"	m	struct:__anon13
+intPowerTrigger1	MultiWii.cpp	/^uint16_t intPowerTrigger1;$/;"	v
+integrator	GPS.cpp	/^  float   integrator; \/\/ integrator value$/;"	m	struct:PID_	file:
+isBuzzerON	Alarms.cpp	/^  uint8_t isBuzzerON() { return 0; }$/;"	f
+isBuzzerON	Alarms.cpp	/^  uint8_t isBuzzerON(void) { return resourceIsOn[1]; } \/\/ returns true while buzzer is buzzing; returns 0 for silent periods$/;"	f
+jump_times	MultiWii.cpp	/^  int16_t jump_times = -10;$/;"	v
+kD	GPS.cpp	/^  float kD;$/;"	m	struct:PID_PARAM_	file:
+kI	GPS.cpp	/^  float kI;$/;"	m	struct:PID_PARAM_	file:
+kP	GPS.cpp	/^  float kP;$/;"	m	struct:PID_PARAM_	file:
+land_detect	GPS.cpp	/^uint8_t land_detect;                 \/\/Detect land (extern)$/;"	v
+land_settle_timer	GPS.cpp	/^static uint32_t land_settle_timer;$/;"	v	file:
+land_speed	types.h	/^  uint8_t  land_speed;          \/\/ between 50 and 255 (100 approx = 50cm\/sec)$/;"	m	struct:__anon21
+last_hopping_time	RX.cpp	/^static uint32_t last_hopping_time;$/;"	v	file:
+last_input	GPS.cpp	/^  int32_t last_input; \/\/ last input for derivative$/;"	m	struct:PID_	file:
+lastderivative	GPS.cpp	/^  float   lastderivative; \/\/ last derivative for low-pass filter$/;"	m	struct:PID_	file:
+latitude	GPS.cpp	/^  int32_t  latitude;$/;"	m	struct:diyd_mtk_msg	file:
+latitude	GPS.cpp	/^  int32_t latitude;$/;"	m	struct:ubx_nav_posllh	file:
+lcdStickState	LCD.cpp	/^static uint8_t lcdStickState[4];$/;"	v	file:
+lcd_param_def_t	LCD.cpp	/^\/*typedef*\/struct lcd_param_def_t {$/;"	s	file:
+lcd_param_ptr_table	LCD.cpp	/^PROGMEM const void * const lcd_param_ptr_table [] = {$/;"	v
+lcd_param_text01	LCD.cpp	/^const char PROGMEM lcd_param_text01 [] = "Pit&Roll P";$/;"	v
+lcd_param_text02	LCD.cpp	/^const char PROGMEM lcd_param_text02 [] = "Roll     P";$/;"	v
+lcd_param_text03	LCD.cpp	/^const char PROGMEM lcd_param_text03 [] = "Roll     I";$/;"	v
+lcd_param_text04	LCD.cpp	/^const char PROGMEM lcd_param_text04 [] = "Roll     D";$/;"	v
+lcd_param_text05	LCD.cpp	/^const char PROGMEM lcd_param_text05 [] = "Pitch    P";$/;"	v
+lcd_param_text06	LCD.cpp	/^const char PROGMEM lcd_param_text06 [] = "Pitch    I";$/;"	v
+lcd_param_text07	LCD.cpp	/^const char PROGMEM lcd_param_text07 [] = "Pitch    D";$/;"	v
+lcd_param_text08	LCD.cpp	/^const char PROGMEM lcd_param_text08 [] = "Yaw      P";$/;"	v
+lcd_param_text09	LCD.cpp	/^const char PROGMEM lcd_param_text09 [] = "Yaw      I";$/;"	v
+lcd_param_text10	LCD.cpp	/^const char PROGMEM lcd_param_text10 [] = "Yaw      D";$/;"	v
+lcd_param_text101	LCD.cpp	/^const char PROGMEM lcd_param_text101 [] = "FailThrot";$/;"	v
+lcd_param_text102	LCD.cpp	/^const char PROGMEM lcd_param_text102 [] = "VBAT SCALE";$/;"	v
+lcd_param_text103	LCD.cpp	/^const char PROGMEM lcd_param_text103 [] = "BattWarn 1";$/;"	v
+lcd_param_text104	LCD.cpp	/^const char PROGMEM lcd_param_text104 [] = "BattWarn 2";$/;"	v
+lcd_param_text106	LCD.cpp	/^const char PROGMEM lcd_param_text106 [] = "BattW Crit";$/;"	v
+lcd_param_text11	LCD.cpp	/^const char PROGMEM lcd_param_text11 [] = "Alt      P";$/;"	v
+lcd_param_text111	LCD.cpp	/^const char PROGMEM lcd_param_text111 [] = "PMsENSOR0";$/;"	v
+lcd_param_text114	LCD.cpp	/^const char PROGMEM lcd_param_text114 [] = "PM INT2MA ";$/;"	v
+lcd_param_text12	LCD.cpp	/^const char PROGMEM lcd_param_text12 [] = "Alt      I";$/;"	v
+lcd_param_text121	LCD.cpp	/^const char PROGMEM lcd_param_text121 [] = "MMGYRO    ";$/;"	v
+lcd_param_text13	LCD.cpp	/^const char PROGMEM lcd_param_text13 [] = "Alt      D";$/;"	v
+lcd_param_text131	LCD.cpp	/^const char PROGMEM lcd_param_text131 [] = "MINTHROTL";$/;"	v
+lcd_param_text132	LCD.cpp	/^const char PROGMEM lcd_param_text132 [] = "ArmdTWarn";$/;"	v
+lcd_param_text133	LCD.cpp	/^const char PROGMEM lcd_param_text133 [] = "Govern  P";$/;"	v
+lcd_param_text134	LCD.cpp	/^const char PROGMEM lcd_param_text134 [] = "Govern  D";$/;"	v
+lcd_param_text135	LCD.cpp	/^const char PROGMEM lcd_param_text135 [] = "GovernRpm";$/;"	v
+lcd_param_text14	LCD.cpp	/^const char PROGMEM lcd_param_text14 [] = "Vel      P";$/;"	v
+lcd_param_text140	LCD.cpp	/^const char PROGMEM lcd_param_text140 [] = "SERvINVn";$/;"	v
+lcd_param_text141	LCD.cpp	/^const char PROGMEM lcd_param_text141 [] = "SERvINVl";$/;"	v
+lcd_param_text142	LCD.cpp	/^const char PROGMEM lcd_param_text142 [] = "SERvINVy";$/;"	v
+lcd_param_text143	LCD.cpp	/^const char PROGMEM lcd_param_text143 [] = "SERvINVr";$/;"	v
+lcd_param_text15	LCD.cpp	/^const char PROGMEM lcd_param_text15 [] = "Vel      I";$/;"	v
+lcd_param_text150	LCD.cpp	/^const char PROGMEM lcd_param_text150 [] = "writeCset";$/;"	v
+lcd_param_text151	LCD.cpp	/^const char PROGMEM lcd_param_text151 [] = "Reset (7)";$/;"	v
+lcd_param_text152	LCD.cpp	/^const char PROGMEM lcd_param_text152 [] = "SERvMINy";$/;"	v
+lcd_param_text153	LCD.cpp	/^const char PROGMEM lcd_param_text153 [] = "SERvMAXy";$/;"	v
+lcd_param_text155	LCD.cpp	/^const char PROGMEM lcd_param_text155 [] = "yawPrcomp";$/;"	v
+lcd_param_text156	LCD.cpp	/^const char PROGMEM lcd_param_text156 [] = "yawPrDead";$/;"	v
+lcd_param_text16	LCD.cpp	/^const char PROGMEM lcd_param_text16 [] = "Vel      D";$/;"	v
+lcd_param_text17	LCD.cpp	/^const char PROGMEM lcd_param_text17 [] = "Ang\/Hor  P";$/;"	v
+lcd_param_text18	LCD.cpp	/^const char PROGMEM lcd_param_text18 [] = "Ang\/Hor  I";$/;"	v
+lcd_param_text188	LCD.cpp	/^const char PROGMEM lcd_param_text188[] = "Ang\/Hor  D";$/;"	v
+lcd_param_text19	LCD.cpp	/^const char PROGMEM lcd_param_text19 [] = "Mag      P";$/;"	v
+lcd_param_text20	LCD.cpp	/^const char PROGMEM lcd_param_text20 [] = "RC Rate   ";$/;"	v
+lcd_param_text20t	LCD.cpp	/^const char PROGMEM lcd_param_text20t [] = "Thrott Mid";$/;"	v
+lcd_param_text21	LCD.cpp	/^const char PROGMEM lcd_param_text21 [] = "RC Expo   ";$/;"	v
+lcd_param_text21t	LCD.cpp	/^const char PROGMEM lcd_param_text21t [] = "ThrottExpo";$/;"	v
+lcd_param_text22	LCD.cpp	/^const char PROGMEM lcd_param_text22 [] = "P&R Rate  ";$/;"	v
+lcd_param_text23	LCD.cpp	/^const char PROGMEM lcd_param_text23 [] = "Yaw Rate  ";$/;"	v
+lcd_param_text24	LCD.cpp	/^const char PROGMEM lcd_param_text24 [] = "Thrott PID";$/;"	v
+lcd_param_text25	LCD.cpp	/^const char PROGMEM lcd_param_text25 [] = "pmeter m0";$/;"	v
+lcd_param_text26	LCD.cpp	/^const char PROGMEM lcd_param_text26 [] = "pmeter m1";$/;"	v
+lcd_param_text27	LCD.cpp	/^const char PROGMEM lcd_param_text27 [] = "pmeter m2";$/;"	v
+lcd_param_text28	LCD.cpp	/^const char PROGMEM lcd_param_text28 [] = "pmeter m3";$/;"	v
+lcd_param_text29	LCD.cpp	/^const char PROGMEM lcd_param_text29 [] = "pmeter m4";$/;"	v
+lcd_param_text30	LCD.cpp	/^const char PROGMEM lcd_param_text30 [] = "pmeter m5";$/;"	v
+lcd_param_text31	LCD.cpp	/^const char PROGMEM lcd_param_text31 [] = "pmeter m6";$/;"	v
+lcd_param_text32	LCD.cpp	/^const char PROGMEM lcd_param_text32 [] = "pmeter m7";$/;"	v
+lcd_param_text33	LCD.cpp	/^const char PROGMEM lcd_param_text33 [] = "pmeterSum";$/;"	v
+lcd_param_text34	LCD.cpp	/^const char PROGMEM lcd_param_text34 [] = "pAlarm \/50"; \/\/ change text to represent PLEVELSCALE value$/;"	v
+lcd_param_text35	LCD.cpp	/^const char PROGMEM lcd_param_text35 [] =  "batt volt ";$/;"	v
+lcd_param_text36	LCD.cpp	/^const char PROGMEM lcd_param_text36 [] = "SERvTRIM1";$/;"	v
+lcd_param_text37	LCD.cpp	/^const char PROGMEM lcd_param_text37 [] = "SERvTRIM2";$/;"	v
+lcd_param_text38	LCD.cpp	/^const char PROGMEM lcd_param_text38 [] = "SERvTRIMy";$/;"	v
+lcd_param_text39	LCD.cpp	/^const char PROGMEM lcd_param_text39 [] = "SERvINVy";$/;"	v
+lcd_param_text41	LCD.cpp	/^const char PROGMEM lcd_param_text41 [] = "AUX angle ";$/;"	v
+lcd_param_text42	LCD.cpp	/^const char PROGMEM lcd_param_text42 [] = "AUX horizn";$/;"	v
+lcd_param_text43	LCD.cpp	/^const char PROGMEM lcd_param_text43 [] = "AUX baro  ";$/;"	v
+lcd_param_text44	LCD.cpp	/^const char PROGMEM lcd_param_text44 [] = "AUX mag   ";$/;"	v
+lcd_param_text45	LCD.cpp	/^const char PROGMEM lcd_param_text45 [] = "AUX camstb";$/;"	v
+lcd_param_text46	LCD.cpp	/^const char PROGMEM lcd_param_text46 [] = "AUX camtrg";$/;"	v
+lcd_param_text47	LCD.cpp	/^const char PROGMEM lcd_param_text47 [] = "AUX arm   ";$/;"	v
+lcd_param_text48	LCD.cpp	/^const char PROGMEM lcd_param_text48 [] = "AUX gpshom";$/;"	v
+lcd_param_text49	LCD.cpp	/^const char PROGMEM lcd_param_text49 [] = "AUX gpshld";$/;"	v
+lcd_param_text50	LCD.cpp	/^const char PROGMEM lcd_param_text50 [] = "AUX passth";$/;"	v
+lcd_param_text51	LCD.cpp	/^const char PROGMEM lcd_param_text51 [] = "AUX headfr";$/;"	v
+lcd_param_text52	LCD.cpp	/^const char PROGMEM lcd_param_text52 [] = "AUX buzzer";$/;"	v
+lcd_param_text53	LCD.cpp	/^const char PROGMEM lcd_param_text53 [] = "AUX vario ";$/;"	v
+lcd_param_text54	LCD.cpp	/^const char PROGMEM lcd_param_text54 [] = "AUX calib ";$/;"	v
+lcd_param_text55	LCD.cpp	/^const char PROGMEM lcd_param_text55 [] = "AUX govern";$/;"	v
+lcd_param_text56	LCD.cpp	/^const char PROGMEM lcd_param_text56 [] = "AUX osd   ";$/;"	v
+lcd_param_text73	LCD.cpp	/^const char PROGMEM lcd_param_text73 [] = "SERvTRIMn";$/;"	v
+lcd_param_text74	LCD.cpp	/^const char PROGMEM lcd_param_text74 [] = "SERvTRIMl";$/;"	v
+lcd_param_text75	LCD.cpp	/^const char PROGMEM lcd_param_text75 [] = "SERvTRIMy";$/;"	v
+lcd_param_text76	LCD.cpp	/^const char PROGMEM lcd_param_text76 [] = "SERvTRIMr";$/;"	v
+lcd_param_text80	LCD.cpp	/^const char PROGMEM lcd_param_text80 [] = "GSMOOTH R ";$/;"	v
+lcd_param_text81	LCD.cpp	/^const char PROGMEM lcd_param_text81 [] = "GSMOOTH P ";$/;"	v
+lcd_param_text82	LCD.cpp	/^const char PROGMEM lcd_param_text82 [] = "GSMOOTH Y ";$/;"	v
+lcd_param_text83	LCD.cpp	/^const char PROGMEM lcd_param_text83 [] = "SERVoMID3";$/;"	v
+lcd_param_text84	LCD.cpp	/^const char PROGMEM lcd_param_text84 [] = "SERVoMID4";$/;"	v
+lcd_param_text85	LCD.cpp	/^const char PROGMEM lcd_param_text85 [] = "SERVoMID5";$/;"	v
+lcd_param_text86	LCD.cpp	/^const char PROGMEM lcd_param_text86 [] = "SERVoMID6";$/;"	v
+lcd_param_text87	LCD.cpp	/^const char PROGMEM lcd_param_text87 [] = "SERVoMID7";$/;"	v
+lcd_param_text91	LCD.cpp	/^const char PROGMEM lcd_param_text91 [] = "GPS Pos. P";$/;"	v
+lcd_param_text92	LCD.cpp	/^const char PROGMEM lcd_param_text92 [] = "GPS Pos. I";$/;"	v
+lcd_param_text93	LCD.cpp	/^const char PROGMEM lcd_param_text93 [] = "Pos Rate P";$/;"	v
+lcd_param_text94	LCD.cpp	/^const char PROGMEM lcd_param_text94 [] = "Pos Rate I";$/;"	v
+lcd_param_text95	LCD.cpp	/^const char PROGMEM lcd_param_text95 [] = "Pos Rate D";$/;"	v
+lcd_param_text96	LCD.cpp	/^const char PROGMEM lcd_param_text96 [] = "NAV Rate P";$/;"	v
+lcd_param_text97	LCD.cpp	/^const char PROGMEM lcd_param_text97 [] = "NAV Rate I";$/;"	v
+lcd_param_text98	LCD.cpp	/^const char PROGMEM lcd_param_text98 [] = "NAV Rate D";$/;"	v
+lcd_telemetry	LCD.cpp	/^void lcd_telemetry() {$/;"	f
+lcd_type_desc_t	LCD.cpp	/^\/*typedef*\/struct lcd_type_desc_t {$/;"	s	file:
+lcdprint_uint32	LCD.cpp	/^void lcdprint_uint32(uint32_t v) {$/;"	f
+lead_filter	types.h	/^  uint8_t lead_filter : 1;$/;"	m	struct:__anon21
+led_flasher_autoselect_sequence	Alarms.cpp	/^  void led_flasher_autoselect_sequence() {$/;"	f
+led_flasher_control	Alarms.cpp	/^  } led_flasher_control = LED_FLASHER_AUTO;$/;"	v	typeref:enum:__anon1	file:
+led_flasher_on	Alarms.cpp	/^  static uint8_t inline led_flasher_on() {$/;"	f	file:
+led_flasher_sequence	Alarms.cpp	/^  static uint8_t led_flasher_sequence = 0;$/;"	v	file:
+led_flasher_set_sequence	Alarms.cpp	/^  void led_flasher_set_sequence(uint8_t s) {$/;"	f
+length	GPS.cpp	/^  uint16_t length;$/;"	m	struct:ubx_header	file:
+lifetime	types.h	/^  uint32_t lifetime;      \/\/ sum (armed) lifetime in seconds$/;"	m	struct:__anon19
+line1	LCD.cpp	/^static char line1[17],line2[17];$/;"	v	file:
+line2	LCD.cpp	/^static char line1[17],line2[17];$/;"	v	file:
+line_is_valid	LCD.cpp	/^  static uint8_t line_is_valid = 0;$/;"	v	file:
+lnr	LCD.cpp	/^  static uint8_t lnr = 0;$/;"	v	file:
+loadGPSdefaults	EEPROM.cpp	/^void loadGPSdefaults(void) {$/;"	f
+longitude	GPS.cpp	/^  int32_t  longitude;$/;"	m	struct:diyd_mtk_msg	file:
+longitude	GPS.cpp	/^  int32_t longitude;$/;"	m	struct:ubx_nav_posllh	file:
+lookupPitchRollRC	MultiWii.cpp	/^int16_t lookupPitchRollRC[5];\/\/ lookup table for expo & RC rate PITCH+ROLL$/;"	v
+lookupThrottleRC	MultiWii.cpp	/^uint16_t lookupThrottleRC[11];\/\/ lookup table for expo & mid THROTTLE$/;"	v
+loop	MultiWii.cpp	/^void loop () {$/;"	f
+magADC	types.h	/^  int16_t  magADC[3];$/;"	m	struct:__anon12
+magGain	Sensors.cpp	/^static float magGain[3] = {1.0,1.0,1.0};  \/\/ gain for each axis, populated at sensor init$/;"	v	file:
+magHold	MultiWii.cpp	/^int16_t  magHold,headFreeModeHold; \/\/ [-180;+180]$/;"	v
+magZero	types.h	/^  int16_t magZero[3];$/;"	m	struct:__anon17
+mag_declination	types.h	/^    int16_t mag_declination;$/;"	m	struct:__anon18
+max	types.h	/^  int16_t max;        \/\/ maximum value, must be less than 2000 with the current implementation$/;"	m	struct:servo_conf_
+max_wp_number	types.h	/^  uint8_t  max_wp_number;$/;"	m	struct:__anon21
+mb	Sensors.cpp	/^  int16_t  b1, b2, mb, mc, md;$/;"	m	struct:__anon7	file:
+mc	Sensors.cpp	/^  int16_t  b1, b2, mb, mc, md;$/;"	m	struct:__anon7	file:
+md	Sensors.cpp	/^  int16_t  b1, b2, mb, mc, md;$/;"	m	struct:__anon7	file:
+middle	types.h	/^  int16_t middle;     \/\/ default should be 1500$/;"	m	struct:servo_conf_
+min	types.h	/^  int16_t min;        \/\/ minimum value, must be more than 1020 with the current implementation$/;"	m	struct:servo_conf_
+minthrottle	types.h	/^  int16_t minthrottle;$/;"	m	struct:__anon18
+mission_step	MultiWii.cpp	/^  mission_step_struct mission_step;$/;"	v
+mission_step_struct	types.h	/^} mission_step_struct;$/;"	t	typeref:struct:__anon20
+mixTable	Output.cpp	/^void mixTable() {$/;"	f
+mmgyro	types.h	/^    uint8_t mmgyro;$/;"	m	struct:__anon18
+motor	MultiWii.cpp	/^int16_t motor[8];$/;"	v
+ms561101ba_ctx	Sensors.cpp	/^} ms561101ba_ctx;$/;"	v	typeref:struct:__anon10	file:
+msg	GPS.cpp	/^  diyd_mtk_msg  msg;$/;"	m	union:__anon3	file:
+msg_class	GPS.cpp	/^  uint8_t msg_class;$/;"	m	struct:ubx_header	file:
+msg_id	GPS.cpp	/^  uint8_t msg_id;$/;"	m	struct:ubx_header	file:
+mspAck	Protocol.cpp	/^static void mspAck() {$/;"	f	file:
+mul	IMU.cpp	/^int32_t  __attribute__ ((noinline)) mul(int16_t a, int16_t b) {$/;"	f
+multiplier	LCD.cpp	/^  uint8_t multiplier;$/;"	m	struct:lcd_param_def_t	file:
+myFont	LCD.cpp	/^const uint8_t PROGMEM myFont[][5] = { \/\/ Refer to "Times New Roman" Font Database... 5 x 7 font$/;"	v
+nIRQ_0	def.h	1577;"	d
+nIRQ_1	def.h	1576;"	d
+nSEL_off	def.h	1580;"	d
+nSEL_on	def.h	1579;"	d
+nSel_pin	def.h	1573;"	d
+nav	MultiWii.cpp	/^  int16_t  nav[2];$/;"	v
+navPID	GPS.cpp	/^PID navPID[2];$/;"	v
+navPID_PARAM	GPS.cpp	/^PID_PARAM navPID_PARAM;$/;"	v
+nav_bank_max	types.h	/^  uint16_t nav_bank_max;        \/\/ degree * 100; (3000 default)$/;"	m	struct:__anon21
+nav_controls_heading	types.h	/^  uint8_t nav_controls_heading : 1;$/;"	m	struct:__anon21
+nav_hold_time	MultiWii.cpp	/^  uint16_t nav_hold_time;                 \/\/\/ time in seconds to hold position$/;"	v
+nav_max_altitude	types.h	/^  uint16_t nav_max_altitude;    \/\/ in meter$/;"	m	struct:__anon21
+nav_rated	MultiWii.cpp	/^  int16_t  nav_rated[2];    \/\/Adding a rate controller to the navigation to make it smoother$/;"	v
+nav_rth_takeoff_heading	types.h	/^  uint8_t nav_rth_takeoff_heading : 1;$/;"	m	struct:__anon21
+nav_speed_max	types.h	/^  uint16_t nav_speed_max;       \/\/ in cm\/s$/;"	m	struct:__anon21
+nav_speed_min	types.h	/^  uint16_t nav_speed_min;       \/\/ in cm\/s$/;"	m	struct:__anon21
+nav_tail_first	types.h	/^  uint8_t nav_tail_first : 1;$/;"	m	struct:__anon21
+nav_takeoff_bearing	GPS.cpp	/^static int16_t nav_takeoff_bearing;  \/\/ saves the bearing at takeof (1deg = 1) used to rotate to takeoff direction when arrives at home$/;"	v	file:
+nav_timer_stop	MultiWii.cpp	/^  uint32_t nav_timer_stop = 0;            \/\/\/ common timer used in navigation (contains the desired stop time in millis()$/;"	v
+naverror	types.h	/^enum naverror {$/;"	g
+navstate	types.h	/^enum navstate {$/;"	g
+ned_down	GPS.cpp	/^  int32_t ned_down;$/;"	m	struct:ubx_nav_velned	file:
+ned_east	GPS.cpp	/^  int32_t ned_east;$/;"	m	struct:ubx_nav_velned	file:
+ned_north	GPS.cpp	/^  int32_t ned_north;$/;"	m	struct:ubx_nav_velned	file:
+neutralizeTime	Sensors.cpp	/^static uint32_t neutralizeTime = 0;$/;"	v	file:
+next_step	MultiWii.cpp	/^  uint8_t next_step = 1;                  \/\/\/ The mission step which is upcoming it equals with the mission_step stored in EEPROM$/;"	v
+number	types.h	/^  uint8_t  number;     \/\/Waypoint number$/;"	m	struct:__anon20
+original_altitude	MultiWii.cpp	/^  int32_t original_altitude;$/;"	v
+original_target_bearing	GPS.cpp	/^static int32_t original_target_bearing;  \/\/ deg * 100, The original angle to the next_WP when the next_WP was set, Also used to check when we pass a WP$/;"	v	file:
+output	GPS.cpp	/^  float   output;$/;"	m	struct:PID_	file:
+outputMotorServo	LCD.cpp	/^void outputMotorServo(uint8_t i, uint16_t unit) {$/;"	f
+outputSensor	LCD.cpp	/^void outputSensor(uint8_t num, int16_t data, int16_t limit) {$/;"	f
+output_AmaxA	LCD.cpp	/^void output_AmaxA() {$/;"	f
+output_V	LCD.cpp	/^void output_V() {$/;"	f
+output_Vmin	LCD.cpp	/^void output_Vmin() {$/;"	f
+output_WmaxW	LCD.cpp	/^void output_WmaxW() {$/;"	f
+output_accX	LCD.cpp	/^void output_accX() {$/;"	f
+output_accY	LCD.cpp	/^void output_accY() {$/;"	f
+output_accZ	LCD.cpp	/^void output_accZ() {$/;"	f
+output_altitude	LCD.cpp	/^void output_altitude() {$/;"	f
+output_annex	LCD.cpp	/^void output_annex() {$/;"	f
+output_checkboxitems	LCD.cpp	/^void output_checkboxitems() {$/;"	f
+output_checkboxstatus	LCD.cpp	/^void output_checkboxstatus() {$/;"	f
+output_cycle	LCD.cpp	/^void output_cycle() {$/;"	f
+output_cycleMinMax	LCD.cpp	/^void output_cycleMinMax() {$/;"	f
+output_debug0	LCD.cpp	/^void output_debug0() { LCDprintChar("D1 "); LCDprintInt16(debug[0]); }$/;"	f
+output_debug1	LCD.cpp	/^void output_debug1() { LCDprintChar("D2 "); LCDprintInt16(debug[1]); }$/;"	f
+output_debug2	LCD.cpp	/^void output_debug2() { LCDprintChar("D3 "); LCDprintInt16(debug[2]); }$/;"	f
+output_debug3	LCD.cpp	/^void output_debug3() { LCDprintChar("D4 "); LCDprintInt16(debug[3]); }$/;"	f
+output_errors_or_armedTime	LCD.cpp	/^void output_errors_or_armedTime() {$/;"	f
+output_fails	LCD.cpp	/^void output_fails() {$/;"	f
+output_gyroX	LCD.cpp	/^void output_gyroX() {$/;"	f
+output_gyroY	LCD.cpp	/^void output_gyroY() {$/;"	f
+output_gyroZ	LCD.cpp	/^void output_gyroZ() {$/;"	f
+output_mAh	LCD.cpp	/^void output_mAh() {$/;"	f
+output_uptime_cset	LCD.cpp	/^void output_uptime_cset() {$/;"	f
+pAlarm	MultiWii.cpp	/^  uint32_t pAlarm;                  \/\/ we scale the eeprom value from [0:255] to this value we can directly compare to the sum in pMeter[6]$/;"	v
+pMeter	MultiWii.cpp	/^  uint32_t pMeter[PMOTOR_SUM + 1];  \/\/ we use [0:7] for eight motors,one extra for sum$/;"	v
+pMeterV	MultiWii.cpp	/^  uint8_t pMeterV;                  \/\/ dummy to satisfy the paramStruct logic in ConfigurationLoop()$/;"	v
+page1_func_ptr	LCD.cpp	/^  void (*page1_func_ptr[]) () = LCD_TELEMETRY_PAGE1 ;$/;"	v
+page1_func_ptr	LCD.cpp	/^  void (*page1_func_ptr[]) () = {$/;"	v
+page2_func_ptr	LCD.cpp	/^  void (*page2_func_ptr[]) () = LCD_TELEMETRY_PAGE2 ;$/;"	v
+page2_func_ptr	LCD.cpp	/^  void (*page2_func_ptr[]) () = { output_gyroX, output_gyroY, output_gyroZ, output_accX, output_accY, output_accZ, };$/;"	v
+page9_func_ptr	LCD.cpp	/^  void (*page9_func_ptr[]) () = LCD_TELEMETRY_PAGE9 ;$/;"	v
+page9_func_ptr	LCD.cpp	/^  void (*page9_func_ptr[]) () = {$/;"	v
+parameter1	types.h	/^  int16_t  parameter1; \/\/Parameter for the action$/;"	m	struct:__anon20
+parameter2	types.h	/^  int16_t  parameter2; \/\/Parameter for the action$/;"	m	struct:__anon20
+parameter3	types.h	/^  int16_t  parameter3; \/\/Parameter for the action$/;"	m	struct:__anon20
+patternDecode	Alarms.cpp	/^void patternDecode(uint8_t resource,uint16_t first,uint16_t second,uint16_t third,uint16_t cyclepause, uint16_t endpause){$/;"	f
+pid	types.h	/^  pid_    pid[PIDITEMS];$/;"	m	struct:__anon18
+pid	types.h	/^enum pid {$/;"	g
+pid_	types.h	/^struct pid_ {$/;"	s
+pint2ma	types.h	/^    uint8_t pint2ma;$/;"	m	struct:__anon18
+plog	MultiWii.cpp	/^  plog_t plog;$/;"	v
+plog_t	types.h	/^} plog_t;$/;"	t	typeref:struct:__anon19
+pos	types.h	/^  int32_t  pos[2];     \/\/GPS position $/;"	m	struct:__anon20
+posholdPID	GPS.cpp	/^PID posholdPID[2];$/;"	v
+posholdPID_PARAM	GPS.cpp	/^PID_PARAM posholdPID_PARAM;$/;"	v
+poshold_ratePID	GPS.cpp	/^PID poshold_ratePID[2];$/;"	v
+poshold_ratePID_PARAM	GPS.cpp	/^PID_PARAM poshold_ratePID_PARAM;$/;"	v
+position_DOP	GPS.cpp	/^  uint16_t position_DOP;$/;"	m	struct:ubx_nav_solution	file:
+position_accuracy_3d	GPS.cpp	/^  uint32_t position_accuracy_3d;$/;"	m	struct:ubx_nav_solution	file:
+posllh	GPS.cpp	/^  ubx_nav_posllh posllh;$/;"	m	union:__anon2	file:
+pot_I	MultiWii.cpp	/^  uint8_t pot_P,pot_I; \/\/ OpenLRS onboard potentiometers for P and I trim or other usages$/;"	v
+pot_P	MultiWii.cpp	/^  uint8_t pot_P,pot_I; \/\/ OpenLRS onboard potentiometers for P and I trim or other usages$/;"	v
+powerTrigger1	types.h	/^  uint8_t powerTrigger1;$/;"	m	struct:__anon18
+powerValue	MultiWii.cpp	/^  uint16_t powerValue = 0;          \/\/ last known current$/;"	v
+powerValueMaxMAH	MultiWii.cpp	/^    uint16_t powerValueMaxMAH = 0;$/;"	v
+preamble1	GPS.cpp	/^  uint8_t preamble1;$/;"	m	struct:ubx_header	file:
+preamble2	GPS.cpp	/^  uint8_t preamble2;$/;"	m	struct:ubx_header	file:
+previousTime	MultiWii.cpp	/^uint16_t previousTime = 0;$/;"	v
+print_uptime	LCD.cpp	/^void print_uptime(uint16_t sec) {$/;"	f
+prv_gps_modes	MultiWii.cpp	/^  uint8_t prv_gps_modes = 0;              \/\/\/ GPS_checkbox items packed into 1 byte for checking GPS mode changes$/;"	v
+psensornull	types.h	/^    uint16_t psensornull;$/;"	m	struct:__anon18
+queue	Alarms.cpp	/^  volatile uint8_t queue[PL_BUF_SIZE]; \/\/circular queue$/;"	v
+range	Sensors.cpp	/^  int32_t  range[SRF08_MAX_SENSORS];$/;"	m	struct:__anon11	file:
+rate	types.h	/^  int8_t  rate;       \/\/ range [-100;+100] ; can be used to ajust a rate 0-100% and a direction$/;"	m	struct:servo_conf_
+rate_error	GPS.cpp	/^static int16_t rate_error[2];$/;"	v	file:
+raw	Sensors.cpp	/^  union {uint16_t val; uint8_t raw[2]; } ut; \/\/uncompensated T$/;"	m	union:__anon7::__anon8	file:
+raw	Sensors.cpp	/^  union {uint32_t val; uint8_t raw[4]; } up; \/\/uncompensated P$/;"	m	union:__anon7::__anon9	file:
+rawADC	Sensors.cpp	/^static uint8_t rawADC[6];$/;"	v	file:
+rc	types.h	/^enum rc {$/;"	g
+rcChannel	RX.cpp	/^  static uint8_t rcChannel[RC_CHANS]  = {ROLLPIN, PITCHPIN, YAWPIN, THROTTLEPIN, AUX1PIN,AUX2PIN,AUX3PIN,AUX4PIN};$/;"	v	file:
+rcChannel	RX.cpp	/^  static uint8_t rcChannel[RC_CHANS] = {PITCH,YAW,THROTTLE,ROLL,AUX1,AUX2,AUX3,AUX4,8,9,10,11};$/;"	v	file:
+rcChannel	RX.cpp	/^  static uint8_t rcChannel[RC_CHANS] = {PITCH,YAW,THROTTLE,ROLL,AUX1,AUX2,AUX3,AUX4};$/;"	v	file:
+rcChannel	RX.cpp	/^  static uint8_t rcChannel[RC_CHANS] = {SBUS};$/;"	v	file:
+rcChannel	RX.cpp	/^  static uint8_t rcChannel[RC_CHANS] = {SERIAL_SUM_PPM};$/;"	v	file:
+rcCommand	MultiWii.cpp	/^int16_t rcCommand[4];        \/\/ interval [1000;2000] for THROTTLE and [-500;+500] for ROLL\/PITCH\/YAW$/;"	v
+rcData	MultiWii.cpp	/^int16_t rcData[RC_CHANS];    \/\/ interval [1000;2000]$/;"	v
+rcExpo8	types.h	/^  uint8_t rcExpo8;$/;"	m	struct:__anon18
+rcOptions	MultiWii.cpp	/^uint8_t  rcOptions[CHECKBOXITEMS];$/;"	v
+rcRate8	types.h	/^  uint8_t rcRate8;$/;"	m	struct:__anon18
+rcSerial	MultiWii.cpp	/^int16_t rcSerial[8];         \/\/ interval [1000;2000] - is rcData coming from MSP$/;"	v
+rcSerialCount	MultiWii.cpp	/^uint8_t rcSerialCount = 0;   \/\/ a counter to select legacy RX when there is no more MSP rc serial data$/;"	v
+rcValue	RX.cpp	/^  volatile uint16_t rcValue[RC_CHANS] = {1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500}; \/\/ interval [1000;2000]$/;"	v
+rcValue	RX.cpp	/^  volatile uint16_t rcValue[RC_CHANS] = {1502, 1502, 1502, 1502, 1502, 1502, 1502, 1502, 1502, 1502, 1502, 1502}; \/\/ interval [1000;2000]$/;"	v
+rcValue	RX.cpp	/^  volatile uint16_t rcValue[RC_CHANS] = {1502, 1502, 1502, 1502, 1502, 1502, 1502, 1502}; \/\/ interval [1000;2000]$/;"	v
+read16	Protocol.cpp	/^static uint16_t read16() {$/;"	f	file:
+read32	Protocol.cpp	/^static uint32_t read32() {$/;"	f	file:
+read8	Protocol.cpp	/^static uint8_t read8()  {$/;"	f	file:
+readEEPROM	EEPROM.cpp	/^bool readEEPROM() {$/;"	f
+readGlobalSet	EEPROM.cpp	/^void readGlobalSet() {$/;"	f
+readPLog	EEPROM.cpp	/^void readPLog(void) {$/;"	f
+readRawRC	RX.cpp	/^uint16_t readRawRC(uint8_t chan) {$/;"	f
+readSerial_RX	RX.cpp	/^void readSerial_RX(){$/;"	f
+readSerial_RX	RX.cpp	/^void readSerial_RX(void) {$/;"	f
+read_8bit_data	RX.cpp	/^uint8_t read_8bit_data(void) {$/;"	f
+recallGPSconf	EEPROM.cpp	/^bool recallGPSconf(void) {$/;"	f
+recallWP	EEPROM.cpp	/^bool recallWP(uint8_t wp_number) {$/;"	f
+res	GPS.cpp	/^  uint8_t res;$/;"	m	struct:ubx_nav_solution	file:
+res2	GPS.cpp	/^  uint32_t res2;$/;"	m	struct:ubx_nav_solution	file:
+reset_PID	GPS.cpp	/^void reset_PID(struct PID_* pid) {$/;"	f
+reset_to_defaults	LCD.cpp	/^static uint8_t reset_to_defaults;$/;"	v	file:
+resourceIsOn	Alarms.cpp	/^               resourceIsOn[5] = {0,0,0,0,0};$/;"	v	file:
+rollPitchRate	types.h	/^  uint8_t rollPitchRate;$/;"	m	struct:__anon18
+rotateV32	IMU.cpp	/^void rotateV32( t_int32_t_vector *v,int16_t* delta) {$/;"	f
+rssi	types.h	/^  uint16_t rssi;              \/\/ range: [0;1023]$/;"	m	struct:__anon13
+rth_altitude	types.h	/^  uint16_t rth_altitude;        \/\/ in meter$/;"	m	struct:__anon21
+running	types.h	/^  uint8_t  running;       \/\/ toggle on arm & disarm to monitor for clean shutdown vs. powercut$/;"	m	struct:__anon19
+rx_reset	RX.cpp	/^void rx_reset(void) { $/;"	f
+s_struct	Protocol.cpp	/^static void s_struct(uint8_t *cb,uint8_t siz) {$/;"	f	file:
+s_struct_partial	Protocol.cpp	/^static void s_struct_partial(uint8_t *cb,uint8_t siz) {$/;"	f	file:
+s_struct_w	Protocol.cpp	/^static void __attribute__ ((noinline)) s_struct_w(uint8_t *cb,uint8_t siz) {$/;"	f	file:
+safe_wp_distance	types.h	/^  uint16_t safe_wp_distance;    \/\/ in meter$/;"	m	struct:__anon21
+satellites	GPS.cpp	/^  uint8_t  satellites;$/;"	m	struct:diyd_mtk_msg	file:
+satellites	GPS.cpp	/^  uint8_t satellites;$/;"	m	struct:ubx_nav_solution	file:
+sbus	RX.cpp	/^static uint16_t sbus[25]={0};$/;"	v	file:
+sbusIndex	RX.cpp	/^static uint16_t sbusIndex=0;$/;"	v	file:
+send_8bit_data	RX.cpp	/^void send_8bit_data(uint8_t i) { $/;"	f
+send_read_address	RX.cpp	/^void send_read_address(uint8_t i) { $/;"	f
+sensors	Sensors.cpp	/^  int8_t   sensors;              \/\/ the number of sensors present$/;"	m	struct:__anon11	file:
+serialBufferRX	Serial.cpp	/^static uint8_t serialBufferRX[RX_BUFFER_SIZE][UART_NUMBER];$/;"	v	file:
+serialBufferTX	Serial.cpp	/^static uint8_t serialBufferTX[TX_BUFFER_SIZE][UART_NUMBER];$/;"	v	file:
+serialCom	Protocol.cpp	/^void serialCom() {$/;"	f
+serialHeadRX	Serial.cpp	/^static volatile uint8_t serialHeadRX[UART_NUMBER],serialTailRX[UART_NUMBER];$/;"	v	file:
+serialHeadTX	Serial.cpp	/^static volatile uint8_t serialHeadTX[UART_NUMBER],serialTailTX[UART_NUMBER];$/;"	v	file:
+serialTailRX	Serial.cpp	/^static volatile uint8_t serialHeadRX[UART_NUMBER],serialTailRX[UART_NUMBER];$/;"	v	file:
+serialTailTX	Serial.cpp	/^static volatile uint8_t serialHeadTX[UART_NUMBER],serialTailTX[UART_NUMBER];$/;"	v	file:
+serial_LCD03_init	LCD.cpp	/^void serial_LCD03_init () {$/;"	f
+serial_LCD03_send_char	LCD.cpp	/^void serial_LCD03_send_char (char c) {$/;"	f
+serial_LCD03_send_cmd	LCD.cpp	/^void serial_LCD03_send_cmd (byte c) {$/;"	f
+serial_LCD03_set_cursor	LCD.cpp	/^void serial_LCD03_set_cursor (byte col, byte row) {$/;"	f
+serialize16	Protocol.cpp	/^static void serialize16(int16_t a) {$/;"	f	file:
+serialize32	Protocol.cpp	/^static void serialize32(uint32_t a) {$/;"	f	file:
+serialize8	Protocol.cpp	/^static void serialize8(uint8_t a) {$/;"	f	file:
+serializeNames	Protocol.cpp	/^static void serializeNames(PGM_P s) {$/;"	f	file:
+serviceCheckPLog	LCD.cpp	/^  void serviceCheckPLog(void) {$/;"	f
+servo	MultiWii.cpp	/^int16_t servo[8] = {1500,1500,1500,1500,1500,1500,1500,1000};$/;"	v
+servoConf	types.h	/^  servo_conf_ servoConf[8];$/;"	m	struct:__anon18
+servo_conf_	types.h	/^struct servo_conf_ {  \/\/ this is a generic way to configure a servo, every multi type with a servo should use it$/;"	s
+setTiming	Alarms.cpp	/^  void setTiming(uint8_t resource, uint16_t pulse, uint16_t pause){$/;"	f
+set_new_altitude	GPS.cpp	/^void set_new_altitude(int32_t _new_alt) {$/;"	f
+setup	MultiWii.cpp	/^void setup() {$/;"	f
+slow_nav	types.h	/^  uint8_t slow_nav : 1;$/;"	m	struct:__anon21
+solution	GPS.cpp	/^  ubx_nav_solution solution;$/;"	m	union:__anon2	file:
+sonarAlt	MultiWii.cpp	/^int16_t  sonarAlt;$/;"	v
+speed_2d	GPS.cpp	/^  uint32_t speed_2d;$/;"	m	struct:ubx_nav_velned	file:
+speed_3d	GPS.cpp	/^  uint32_t speed_3d;$/;"	m	struct:ubx_nav_velned	file:
+speed_accuracy	GPS.cpp	/^  uint32_t speed_accuracy;$/;"	m	struct:ubx_nav_solution	file:
+speed_accuracy	GPS.cpp	/^  uint32_t speed_accuracy;$/;"	m	struct:ubx_nav_velned	file:
+spekBind	RX.cpp	/^void spekBind() {$/;"	f
+spekFrameDone	MultiWii.cpp	/^  uint8_t  spekFrameDone;$/;"	v
+spekFrameFlags	MultiWii.cpp	/^  volatile uint8_t  spekFrameFlags;$/;"	v
+spekTimeLast	MultiWii.cpp	/^  volatile uint32_t spekTimeLast;$/;"	v
+srf08_ctx	Sensors.cpp	/^} srf08_ctx;$/;"	v	typeref:struct:__anon11	file:
+start	types.h	/^  uint16_t start;         \/\/ #powercycle\/reset\/initialize events$/;"	m	struct:__anon19
+state	Sensors.cpp	/^  uint8_t  state;$/;"	m	struct:__anon10	file:
+state	Sensors.cpp	/^  uint8_t  state;$/;"	m	struct:__anon11	file:
+state	Sensors.cpp	/^  uint8_t  state;$/;"	m	struct:__anon7	file:
+storeWP	EEPROM.cpp	/^void storeWP() {$/;"	f
+store_uart_in_buf	Serial.cpp	/^void store_uart_in_buf(uint8_t data, uint8_t portnum) {$/;"	f
+sumd	RX.cpp	/^static uint8_t sumd[SUMD_BUFFSIZE]={0};$/;"	v	file:
+sumdIndex	RX.cpp	/^static uint8_t sumdIndex=0;$/;"	v	file:
+sumdSize	RX.cpp	/^static uint8_t sumdSize=0;$/;"	v	file:
+swap_endianness	Sensors.cpp	/^void swap_endianness(void *buf, size_t size) {$/;"	f
+switch_landing_lights	Alarms.cpp	/^  void inline switch_landing_lights(uint8_t on) {$/;"	f
+switch_led_flasher	Alarms.cpp	/^  void inline switch_led_flasher(uint8_t on) {$/;"	f
+t_int16_t_vector_def	IMU.cpp	/^} t_int16_t_vector_def;$/;"	t	typeref:struct:__anon5	file:
+t_int32_t_vector	IMU.cpp	/^} t_int32_t_vector;$/;"	t	typeref:union:__anon6	file:
+t_int32_t_vector_def	IMU.cpp	/^} t_int32_t_vector_def;$/;"	t	typeref:struct:__anon4	file:
+tail	Alarms.cpp	/^  volatile uint8_t tail = 0;$/;"	v
+tailSerialReply	Protocol.cpp	/^static void tailSerialReply() {$/;"	f	file:
+tail_debug	Protocol.cpp	/^  static uint8_t tail_debug;$/;"	v	file:
+takeover_baro	types.h	/^  uint8_t takeover_baro: 1;$/;"	m	struct:__anon21
+target_altitude	MultiWii.cpp	/^  int32_t target_altitude;$/;"	v
+target_bearing	GPS.cpp	/^int32_t target_bearing;     \/\/ This is the angle from the copter to the "next_WP" location in degrees * 100$/;"	v
+telemetry	MultiWii.cpp	/^  uint8_t telemetry = 0;$/;"	v
+telemetryStepIndex	MultiWii.cpp	/^  uint8_t telemetryStepIndex = 0;$/;"	v
+telemetryStepSequence	MultiWii.cpp	/^  char telemetryStepSequence []  = LCD_TELEMETRY_STEP;$/;"	v
+telemetry_auto	MultiWii.cpp	/^  uint8_t telemetry_auto = 0;$/;"	v
+temp_int	RX.cpp	/^static uint16_t temp_int;$/;"	v	file:
+template3	LCD.cpp	/^static char template3[3] = ". ";$/;"	v	file:
+template7	LCD.cpp	/^static char template7[7] = " .... ";$/;"	v	file:
+thrExpo8	types.h	/^  uint8_t thrExpo8;$/;"	m	struct:__anon18
+thrMid8	types.h	/^  uint8_t thrMid8;$/;"	m	struct:__anon18
+throttleAngleCorrection	MultiWii.cpp	/^  int16_t throttleAngleCorrection = 0; \/\/ correction of throttle in lateral wind,$/;"	v
+time	GPS.cpp	/^  uint32_t time;  \/\/ GPS msToW$/;"	m	struct:ubx_nav_posllh	file:
+time	GPS.cpp	/^  uint32_t time;  \/\/ GPS msToW$/;"	m	struct:ubx_nav_velned	file:
+time	GPS.cpp	/^  uint32_t time;$/;"	m	struct:ubx_nav_solution	file:
+time_nsec	GPS.cpp	/^  int32_t time_nsec;$/;"	m	struct:ubx_nav_solution	file:
+to_ready_mode	RX.cpp	/^void to_ready_mode(void) { $/;"	f
+to_rx_mode	RX.cpp	/^void to_rx_mode(void) {  $/;"	f
+to_sleep_mode	RX.cpp	/^void to_sleep_mode(void) { $/;"	f
+toggleResource	Alarms.cpp	/^  void toggleResource(uint8_t resource, uint8_t activate){$/;"	f
+toggle_telemetry	LCD.cpp	/^void toggle_telemetry(uint8_t t) {$/;"	f
+turnOff	Alarms.cpp	/^void turnOff(uint8_t resource){$/;"	f
+type	LCD.cpp	/^  lcd_type_desc_t * type;$/;"	m	struct:lcd_param_def_t	file:
+ubs_nav_fix_type	GPS.cpp	/^enum ubs_nav_fix_type {$/;"	g	file:
+ubs_protocol_bytes	GPS.cpp	/^enum ubs_protocol_bytes {$/;"	g	file:
+ubx_header	GPS.cpp	/^struct ubx_header {$/;"	s	file:
+ubx_nav_posllh	GPS.cpp	/^struct ubx_nav_posllh {$/;"	s	file:
+ubx_nav_solution	GPS.cpp	/^struct ubx_nav_solution {$/;"	s	file:
+ubx_nav_status_bits	GPS.cpp	/^enum ubx_nav_status_bits {$/;"	g	file:
+ubx_nav_velned	GPS.cpp	/^struct ubx_nav_velned {$/;"	s	file:
+up	Sensors.cpp	/^  uint32_t up; \/\/uncompensated P$/;"	m	struct:__anon10	file:
+up	Sensors.cpp	/^  union {uint32_t val; uint8_t raw[4]; } up; \/\/uncompensated P$/;"	m	struct:__anon7	typeref:union:__anon7::__anon9	file:
+update_constants	EEPROM.cpp	/^void update_constants() { $/;"	f
+ut	Sensors.cpp	/^  uint32_t ut; \/\/uncompensated T$/;"	m	struct:__anon10	file:
+ut	Sensors.cpp	/^  union {uint16_t val; uint8_t raw[2]; } ut; \/\/uncompensated T$/;"	m	struct:__anon7	typeref:union:__anon7::__anon8	file:
+utc_date	GPS.cpp	/^  uint32_t utc_date;$/;"	m	struct:diyd_mtk_msg	file:
+utc_time	GPS.cpp	/^  uint32_t utc_time;$/;"	m	struct:diyd_mtk_msg	file:
+val	Sensors.cpp	/^  union {uint16_t val; uint8_t raw[2]; } ut; \/\/uncompensated T$/;"	m	union:__anon7::__anon8	file:
+val	Sensors.cpp	/^  union {uint32_t val; uint8_t raw[4]; } up; \/\/uncompensated P$/;"	m	union:__anon7::__anon9	file:
+vario	types.h	/^  int16_t  vario;              \/\/ variometer in cm\/s$/;"	m	struct:__anon14
+vario_output	Alarms.cpp	/^void vario_output(uint16_t d, uint8_t up) {$/;"	f
+vario_signaling	Alarms.cpp	/^void vario_signaling(void) {$/;"	f
+vbat	types.h	/^  uint8_t  vbat;               \/\/ battery voltage in 0.1V steps$/;"	m	struct:__anon13
+vbatMin	MultiWii.cpp	/^uint8_t  vbatMin = VBATNOMINAL;  \/\/ lowest battery voltage in 0.1V steps$/;"	v
+vbatcells	types.h	/^  uint16_t vbatcells[VBAT_CELLS_NUM];$/;"	m	struct:__anon13
+vbatlevel_crit	types.h	/^    uint8_t vbatlevel_crit;$/;"	m	struct:__anon18
+vbatlevel_warn1	types.h	/^    uint8_t vbatlevel_warn1;$/;"	m	struct:__anon18
+vbatlevel_warn2	types.h	/^    uint8_t vbatlevel_warn2;$/;"	m	struct:__anon18
+vbatscale	types.h	/^    uint8_t vbatscale;$/;"	m	struct:__anon18
+velned	GPS.cpp	/^  ubx_nav_velned velned;$/;"	m	union:__anon2	file:
+vertical_accuracy	GPS.cpp	/^  uint32_t vertical_accuracy;$/;"	m	struct:ubx_nav_posllh	file:
+waitTransmissionI2C	Sensors.cpp	/^void __attribute__ ((noinline)) waitTransmissionI2C(uint8_t twcr) {$/;"	f
+wait_for_rth_alt	types.h	/^  uint8_t wait_for_rth_alt : 1;$/;"	m	struct:__anon21
+watts	types.h	/^  uint16_t watts;             \/\/ 1unit == 1W$/;"	m	struct:__anon13
+wattsMax	MultiWii.cpp	/^    uint16_t wattsMax = 0;$/;"	v
+waypoint_speed_gov	GPS.cpp	/^static uint16_t waypoint_speed_gov;  \/\/ used for slow speed wind up when start navigation;$/;"	v	file:
+week	GPS.cpp	/^  int16_t week;$/;"	m	struct:ubx_nav_solution	file:
+wp_distance	GPS.cpp	/^uint32_t wp_distance;                \/\/ distance between plane and next_WP in cm$/;"	v
+wp_radius	types.h	/^  uint16_t wp_radius;           \/\/ in cm$/;"	m	struct:__anon21
+wrap_18000	GPS.cpp	/^int32_t wrap_18000(int32_t ang) {$/;"	f
+wrap_36000	GPS.cpp	/^int32_t wrap_36000(int32_t ang) {$/;"	f
+writeAllMotors	Output.cpp	/^void writeAllMotors(int16_t mc) {   \/\/ Sends commands to all motors$/;"	f
+writeGPSconf	EEPROM.cpp	/^void writeGPSconf(void) {$/;"	f
+writeGlobalSet	EEPROM.cpp	/^void writeGlobalSet(uint8_t b) {$/;"	f
+writeMotors	Output.cpp	/^void writeMotors() { \/\/ [1000;2000] => [125;250]$/;"	f
+writePLog	EEPROM.cpp	/^void writePLog(void) {$/;"	f
+writeParams	EEPROM.cpp	/^void writeParams(uint8_t b) {$/;"	f
+writeServos	Output.cpp	/^void writeServos() {$/;"	f
+xLeadFilter	GPS.cpp	/^LeadFilter xLeadFilter;      \/\/ Long GPS lag filter $/;"	v
+xyz_total	Sensors.cpp	/^static int32_t xyz_total[3]={0,0,0};  \/\/ 32 bit totals so they won't overflow.$/;"	v	file:
+yLeadFilter	GPS.cpp	/^LeadFilter yLeadFilter;      \/\/ Lat  GPS lag filter $/;"	v
+yawCollPrecomp	types.h	/^   uint8_t yawCollPrecomp;$/;"	m	struct:__anon18
+yawCollPrecompDeadband	types.h	/^   uint16_t yawCollPrecompDeadband;$/;"	m	struct:__anon18
+yawRate	types.h	/^  uint8_t yawRate;$/;"	m	struct:__anon18
